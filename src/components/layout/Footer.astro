@@ -1,0 +1,140 @@
+---
+const navLinks = [
+  { href: '/our-story', label: 'Our Story' },
+  { href: '/fleet', label: 'The Fleet' },
+  { href: '/expeditions', label: 'Expeditions' },
+  { href: '/ningaloo', label: 'Ningaloo' },
+  { href: '/gallery', label: 'Gallery' },
+  { href: '/journal', label: 'Journal' },
+  { href: '/contact', label: 'Contact' },
+];
+
+const boats = [
+  { href: '/fleet/sylfia', label: 'Sylfia' },
+  { href: '/fleet/millennium', label: 'Millennium' },
+];
+
+const year = new Date().getFullYear();
+---
+
+<footer style="background: var(--color-deep); border-top: 1px solid color-mix(in srgb, var(--color-ocean) 25%, transparent);">
+
+  <!-- Wave divider -->
+  <div class="w-full overflow-hidden" style="height: 60px; background: var(--color-abyss);">
+    <svg viewBox="0 0 1440 60" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" class="w-full h-full">
+      <path
+        d="M0,30 C240,60 480,0 720,30 C960,60 1200,0 1440,30 L1440,60 L0,60 Z"
+        fill="var(--color-deep)"
+      />
+    </svg>
+  </div>
+
+  <div class="container-site py-16">
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-12 md:gap-8">
+
+      <!-- Brand column -->
+      <div class="md:col-span-2">
+        <a href="/" class="inline-flex flex-col leading-none mb-6 group">
+          <span
+            class="font-display text-foam group-hover:text-gold transition-colors duration-300"
+            style="font-size: 1.6rem; letter-spacing: 0.05em;"
+          >
+            Expedition
+          </span>
+          <span
+            class="font-display text-gold"
+            style="font-size: 0.7rem; letter-spacing: 0.4em; text-transform: uppercase;"
+          >
+            Oz
+          </span>
+        </a>
+        <p class="text-slate leading-relaxed max-w-sm" style="font-size: 0.9375rem;">
+          Two black steel sailboats. The untouched reefs of the Ningaloo coast.
+          Experienced from the water, the way it was always meant to be.
+        </p>
+        <p class="text-slate mt-2" style="font-size: 0.875rem;">
+          Exmouth, Western Australia
+        </p>
+
+        <!-- Social links -->
+        <div class="flex gap-4 mt-6">
+          <a
+            href="https://instagram.com"
+            class="text-slate hover:text-gold transition-colors duration-300 text-label"
+            aria-label="Instagram"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Instagram
+          </a>
+        </div>
+      </div>
+
+      <!-- Navigation -->
+      <div>
+        <h3 class="text-label text-gold mb-5" style="font-family: var(--font-body);">Explore</h3>
+        <ul class="flex flex-col gap-3" role="list">
+          {navLinks.map(link => (
+            <li>
+              <a
+                href={link.href}
+                class="text-slate hover:text-foam transition-colors duration-300"
+                style="font-size: 0.9375rem;"
+              >
+                {link.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- Fleet -->
+      <div>
+        <h3 class="text-label text-gold mb-5" style="font-family: var(--font-body);">The Fleet</h3>
+        <ul class="flex flex-col gap-3 mb-8" role="list">
+          {boats.map(boat => (
+            <li>
+              <a
+                href={boat.href}
+                class="text-slate hover:text-foam transition-colors duration-300"
+                style="font-size: 0.9375rem;"
+              >
+                {boat.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+
+        <h3 class="text-label text-gold mb-5" style="font-family: var(--font-body);">Get in Touch</h3>
+        <a
+          href="mailto:hello@expeditionoz.com.au"
+          class="text-slate hover:text-foam transition-colors duration-300 block"
+          style="font-size: 0.9375rem;"
+        >
+          hello@expeditionoz.com.au
+        </a>
+        <a
+          href="/contact"
+          class="inline-flex mt-4 border border-current text-foam font-body text-label px-5 py-2.5 hover:bg-current transition-all duration-300"
+          style="font-size: 0.75rem;"
+        >
+          Send a Message
+        </a>
+      </div>
+
+    </div>
+
+    <!-- Bottom bar -->
+    <div
+      class="mt-14 pt-6 flex flex-col sm:flex-row justify-between items-center gap-4"
+      style="border-top: 1px solid color-mix(in srgb, var(--color-ocean) 25%, transparent);"
+    >
+      <p class="text-slate" style="font-size: 0.8125rem;">
+        &copy; {year} Expedition Oz. All rights reserved.
+      </p>
+      <p class="text-slate" style="font-size: 0.8125rem;">
+        Sailing the Ningaloo with respect and wonder.
+      </p>
+    </div>
+  </div>
+</footer>

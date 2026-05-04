@@ -1,0 +1,145 @@
+---
+const navLinks = [
+  { href: '/our-story', label: 'Our Story' },
+  { href: '/fleet', label: 'The Fleet' },
+  { href: '/expeditions', label: 'Expeditions' },
+  { href: '/ningaloo', label: 'Ningaloo' },
+  { href: '/gallery', label: 'Gallery' },
+  { href: '/journal', label: 'Journal' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header id="site-nav" class="fixed top-0 left-0 right-0 z-50 transition-all duration-500">
+  <div class="container-site">
+    <nav class="flex items-center justify-between h-20" aria-label="Main navigation">
+
+      <!-- Logo -->
+      <a href="/" class="flex flex-col leading-none group" aria-label="Expedition Oz — home">
+        <span
+          class="font-display text-foam text-xl tracking-wider group-hover:text-gold transition-colors duration-300"
+          style="font-size: 1.4rem; letter-spacing: 0.05em;"
+        >
+          Expedition
+        </span>
+        <span
+          class="font-display text-gold text-sm tracking-[0.4em] uppercase"
+          style="font-size: 0.7rem;"
+        >
+          Oz
+        </span>
+      </a>
+
+      <!-- Desktop nav links -->
+      <ul class="hidden lg:flex items-center gap-8" role="list">
+        {navLinks.map((link) => (
+          <li>
+            <a
+              href={link.href}
+              class={`text-label font-body transition-colors duration-300 ${
+                currentPath.startsWith(link.href)
+                  ? 'text-gold'
+                  : 'text-slate hover:text-foam'
+              }`}
+            >
+              {link.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+
+      <!-- Desktop CTA -->
+      <a
+        href="/expeditions"
+        class="hidden lg:inline-flex items-center gap-2 border border-current text-foam font-body text-label px-6 py-2.5 hover:bg-current hover:text-foam transition-all duration-300"
+      >
+        Book Now
+      </a>
+
+      <!-- Mobile menu button -->
+      <button
+        id="mobile-menu-btn"
+        class="lg:hidden flex flex-col gap-1.5 p-2 -mr-2"
+        aria-label="Toggle mobile menu"
+        aria-expanded="false"
+        aria-controls="mobile-menu"
+      >
+        <span class="mobile-bar block w-6 h-px bg-foam transition-all duration-300 origin-center"></span>
+        <span class="mobile-bar block w-6 h-px bg-foam transition-all duration-300 origin-center"></span>
+        <span class="mobile-bar block w-4 h-px bg-gold transition-all duration-300 origin-center"></span>
+      </button>
+    </nav>
+  </div>
+
+  <!-- Mobile menu -->
+  <div
+    id="mobile-menu"
+    class="lg:hidden hidden"
+    style="background: var(--color-deep); border-top: 1px solid color-mix(in srgb, var(--color-ocean) 40%, transparent);"
+  >
+    <div class="container-site py-6 flex flex-col gap-4">
+      {navLinks.map((link) => (
+        <a
+          href={link.href}
+          class={`text-label font-body py-2 transition-colors duration-300 ${
+            currentPath.startsWith(link.href)
+              ? 'text-gold'
+              : 'text-slate hover:text-foam'
+          }`}
+        >
+          {link.label}
+        </a>
+      ))}
+      <a
+        href="/expeditions"
+        class="mt-2 inline-flex w-full justify-center border border-current text-foam font-body text-label px-6 py-3 hover:bg-current transition-all duration-300"
+      >
+        Book Now
+      </a>
+    </div>
+  </div>
+</header>
+
+<style>
+  /* Scrolled state — added by JS */
+  #site-nav.scrolled {
+    background: color-mix(in srgb, var(--color-abyss) 92%, transparent);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid color-mix(in srgb, var(--color-ocean) 30%, transparent);
+  }
+
+  /* Open state for mobile bars */
+  #site-nav.menu-open .mobile-bar:nth-child(1) {
+    transform: translateY(calc(0.375rem + 1px)) rotate(45deg);
+  }
+  #site-nav.menu-open .mobile-bar:nth-child(2) {
+    transform: translateY(calc(-0.375rem - 1px)) rotate(-45deg);
+  }
+  #site-nav.menu-open .mobile-bar:nth-child(3) {
+    opacity: 0;
+    transform: scaleX(0);
+  }
+</style>
+
+<script>
+  const nav = document.getElementById('site-nav');
+  const btn = document.getElementById('mobile-menu-btn');
+  const menu = document.getElementById('mobile-menu');
+
+  // Scroll state
+  const onScroll = () => {
+    nav?.classList.toggle('scrolled', window.scrollY > 40);
+  };
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
+
+  // Mobile toggle
+  btn?.addEventListener('click', () => {
+    const isOpen = menu?.classList.contains('hidden') === false;
+    menu?.classList.toggle('hidden', isOpen);
+    btn.setAttribute('aria-expanded', String(!isOpen));
+    nav?.classList.toggle('menu-open', !isOpen);
+  });
+</script>

@@ -1,0 +1,154 @@
+@import "tailwindcss";
+
+@theme {
+  /* --- Ocean color palette --- */
+  --color-abyss: #0A0F1E;
+  --color-deep: #0D1B2A;
+  --color-ocean: #1A3A5C;
+  --color-current: #1E5B8A;
+  --color-horizon: #2E86B5;
+  --color-surface: #5BA3C9;
+  --color-foam: #D4EAF5;
+
+  /* Warm accents */
+  --color-gold: #C9923A;
+  --color-sand: #E8D5B0;
+  --color-ivory: #F5F0E8;
+
+  /* Neutrals */
+  --color-slate: #8AA3B8;
+  --color-ink: #1C1C24;
+
+  /* --- Typography --- */
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'DM Sans', system-ui, sans-serif;
+
+  /* Fluid type scale */
+  --text-hero: clamp(3.5rem, 8vw, 7rem);
+  --text-display: clamp(2.5rem, 5vw, 4.5rem);
+  --text-title: clamp(1.75rem, 3vw, 2.5rem);
+  --text-body-lg: 1.125rem;
+  --text-label: 0.8125rem;
+
+  /* --- Spacing extras --- */
+  --spacing-section: clamp(5rem, 10vw, 9rem);
+}
+
+/* Base resets and defaults */
+@layer base {
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    font-family: var(--font-body);
+    background-color: var(--color-abyss);
+    color: var(--color-sand);
+    font-size: var(--text-body-lg);
+    line-height: 1.8;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+    color: var(--color-foam);
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  img, video {
+    max-width: 100%;
+    display: block;
+  }
+
+  ::selection {
+    background-color: var(--color-current);
+    color: var(--color-foam);
+  }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: var(--color-deep);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--color-ocean);
+    border-radius: 3px;
+  }
+}
+
+/* Utility layer */
+@layer utilities {
+  .font-display {
+    font-family: var(--font-display);
+  }
+
+  .font-body {
+    font-family: var(--font-body);
+  }
+
+  .text-hero {
+    font-size: var(--text-hero);
+  }
+
+  .text-display {
+    font-size: var(--text-display);
+  }
+
+  .text-title {
+    font-size: var(--text-title);
+  }
+
+  .text-label {
+    font-size: var(--text-label);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  /* Section spacing */
+  .section-py {
+    padding-top: var(--spacing-section);
+    padding-bottom: var(--spacing-section);
+  }
+
+  /* Container */
+  .container-site {
+    width: 100%;
+    max-width: 1320px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: clamp(1.5rem, 5vw, 4rem);
+    padding-right: clamp(1.5rem, 5vw, 4rem);
+  }
+
+  /* Gradient overlays */
+  .gradient-hero {
+    background: linear-gradient(
+      to bottom,
+      color-mix(in srgb, var(--color-ocean) 15%, transparent) 0%,
+      var(--color-abyss) 80%
+    );
+  }
+
+  /* Reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
