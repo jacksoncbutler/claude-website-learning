@@ -33,7 +33,7 @@ const TONE_MODE_OPTIONS: { mode: ToneMode; label: string }[] = [
 const TONE_LABELS: Record<number, string> = { 1: '1st', 2: '2nd', 3: '3rd', 4: '4th', 5: 'Neutral' };
 
 export function PinyinTableClient({ items, initials, finals, validBases }: PinyinTableClientProps) {
-  const [mode, setMode] = useState<ToneMode>(1);
+  const [mode, setMode] = useState<ToneMode>('explore');
   const [popupBase, setPopupBase] = useState<string | null>(null);
 
   const validBaseSet = useMemo(() => new Set(validBases), [validBases]);
