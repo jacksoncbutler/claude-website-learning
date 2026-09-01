@@ -61,10 +61,10 @@ disabled until it's added.
 from [davinfifield/mp3-chinese-pinyin-sound](https://github.com/davinfifield/mp3-chinese-pinyin-sound)
 (public domain, Unlicense) — its filenames already match our `pinyinNumeric`
 convention (`{syllable}{tone}.mp3`), and `generate-pinyin-data.mjs` assigns
-every syllable an `audioId` on that same convention automatically. 408 of
-our 424 current syllables have a recording; the rest (a handful of rare
-syllables/combinations not in that recording set) just show a disabled play
-button.
+every syllable an `audioId` on that same convention automatically. 1,575 of
+our 1,621 current syllable+tone combinations have a recording; the rest (a
+handful of rare syllables/combinations not in that recording set) just show
+a disabled play button.
 
 To (re)fetch audio for whatever's currently in `syllables.json`:
 
@@ -82,8 +82,12 @@ that source actually has and rewrites `audio-assets.json` to match.
 table of initials/finals and a handful of fully-authored tone families. It
 covers the full standard inventory: all 21 consonant initials (b p m f d t n
 l g k h j q x zh ch sh r z c s) plus the zero-initial row (a, wu, yi, yu, ...),
-424 syllables in total. To fix or extend anything (wrong final, a rare
-syllable missing, a new tone family), edit that table and re-run:
+with all four tones generated for every valid syllable (tone 5 / neutral is
+the exception — kept only where a real neutral-tone word is known, via the
+hand-curated families, since unlike 1-4 it isn't a given for every syllable)
+— 1,621 syllable+tone entries in total. To fix or extend anything (wrong
+final, a rare syllable missing, a new tone family), edit that table and
+re-run:
 
 ```bash
 node scripts/generate-pinyin-data.mjs

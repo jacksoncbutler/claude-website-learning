@@ -214,20 +214,28 @@ function buildSyllables() {
           });
         }
       } else {
-        // Base-grid authoring scope: tone 1 only.
-        const toneNumber = 1;
-        const pinyin = applyTone(base, toneNumber);
-        items.push({
-          id: `pinyin-${base}${toneNumber}`,
-          kind: 'pinyin-syllable',
-          initial,
-          final,
-          syllableBase: base,
-          toneNumber,
-          pinyin,
-          pinyinNumeric: `${base}${toneNumber}`,
-          audioId: `audio-${base}${toneNumber}`,
-        });
+        // Every valid syllable shape has all four tones in Standard Mandarin
+        // phonology, even where no single common word happens to use a given
+        // tone — this is a pronunciation chart, not a word dictionary, so
+        // generate all four rather than just tone 1. (Tone 5 / neutral is
+        // NOT generated here: unlike 1-4, it isn't a phonological given for
+        // every syllable — only specific lexical/grammatical items carry it
+        // — so it stays limited to the hand-curated FAMILIES above, where a
+        // real neutral-tone word is known.)
+        for (let toneNumber = 1; toneNumber <= 4; toneNumber++) {
+          const pinyin = applyTone(base, toneNumber);
+          items.push({
+            id: `pinyin-${base}${toneNumber}`,
+            kind: 'pinyin-syllable',
+            initial,
+            final,
+            syllableBase: base,
+            toneNumber,
+            pinyin,
+            pinyinNumeric: `${base}${toneNumber}`,
+            audioId: `audio-${base}${toneNumber}`,
+          });
+        }
       }
     }
   }
