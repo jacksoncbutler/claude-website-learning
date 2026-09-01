@@ -9,6 +9,8 @@ export interface AudioButtonProps {
   available: boolean;
   label?: string;
   className?: string;
+  /** Called each time playback is actually triggered (not on disabled clicks). Optional — e.g. the Listen and Write quiz uses this to count replays. */
+  onPlay?: () => void;
 }
 
 /**
@@ -18,13 +20,19 @@ export interface AudioButtonProps {
  * underlying <audio> element is a second line of defense in case a file
  * that existed at request time is gone by the time it's actually fetched.
  */
-export function AudioButton({ src, available, label = 'Play pronunciation', className = '' }: AudioButtonProps) {
+export function AudioButton({ src, available, label = 'Play pronunciation', className = '', onPlay }: AudioButtonProps) {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const [errored, setErrored] = useState(false);
   const canPlay = available && !errored;
 
-  function handleClick() {
+  function handleClick(e: React.MouseEvent) {
+    // Stop the click from bubbling — this button is often nested inside a
+    // larger clickable area (e.g. a flashcard's flip toggle), and without
+    // this, that parent handler fires on the same click, re-rendering (and
+    // unmounting this <audio> element mid-playback) before the sound plays.
+    e.stopPropagation();
     if (!canPlay) return;
+    onPlay?.();
     audioRef.current?.play().catch(() => setErrored(true));
   }
 
@@ -32,6 +40,7 @@ export function AudioButton({ src, available, label = 'Play pronunciation', clas
     <button
       type="button"
       onClick={handleClick}
+      onKeyDown={(e) => e.stopPropagation()}
       disabled={!canPlay}
       aria-label={label}
       title={canPlay ? label : 'Audio not available yet'}
