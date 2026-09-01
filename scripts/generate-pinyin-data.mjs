@@ -155,6 +155,10 @@ function buildSyllables() {
             simplified: info.simplified,
             traditional: info.traditional,
             definitions: info.definitions,
+            // Convention-based: matches davinfifield/mp3-chinese-pinyin-sound
+            // filenames (see scripts/fetch-pinyin-audio.mjs). Resolves to
+            // "not available" gracefully if no matching file was fetched.
+            audioId: `audio-${base}${toneNumber}`,
           });
         }
       } else {
@@ -170,6 +174,7 @@ function buildSyllables() {
           toneNumber,
           pinyin,
           pinyinNumeric: `${base}${toneNumber}`,
+          audioId: `audio-${base}${toneNumber}`,
         });
       }
     }

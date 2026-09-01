@@ -7,7 +7,8 @@
     "syllableBase": "ba",
     "toneNumber": 1,
     "pinyin": "bā",
-    "pinyinNumeric": "ba1"
+    "pinyinNumeric": "ba1",
+    "audioId": "audio-ba1"
   },
   {
     "id": "pinyin-bo1",
@@ -17,7 +18,8 @@
     "syllableBase": "bo",
     "toneNumber": 1,
     "pinyin": "bō",
-    "pinyinNumeric": "bo1"
+    "pinyinNumeric": "bo1",
+    "audioId": "audio-bo1"
   },
   {
     "id": "pinyin-bai1",
@@ -27,7 +29,8 @@
     "syllableBase": "bai",
     "toneNumber": 1,
     "pinyin": "bāi",
-    "pinyinNumeric": "bai1"
+    "pinyinNumeric": "bai1",
+    "audioId": "audio-bai1"
   },
   {
     "id": "pinyin-bei1",
@@ -37,7 +40,8 @@
     "syllableBase": "bei",
     "toneNumber": 1,
     "pinyin": "bēi",
-    "pinyinNumeric": "bei1"
+    "pinyinNumeric": "bei1",
+    "audioId": "audio-bei1"
   },
   {
     "id": "pinyin-bao1",
@@ -47,7 +51,8 @@
     "syllableBase": "bao",
     "toneNumber": 1,
     "pinyin": "bāo",
-    "pinyinNumeric": "bao1"
+    "pinyinNumeric": "bao1",
+    "audioId": "audio-bao1"
   },
   {
     "id": "pinyin-ban1",
@@ -57,7 +62,8 @@
     "syllableBase": "ban",
     "toneNumber": 1,
     "pinyin": "bān",
-    "pinyinNumeric": "ban1"
+    "pinyinNumeric": "ban1",
+    "audioId": "audio-ban1"
   },
   {
     "id": "pinyin-ben1",
@@ -67,7 +73,8 @@
     "syllableBase": "ben",
     "toneNumber": 1,
     "pinyin": "bēn",
-    "pinyinNumeric": "ben1"
+    "pinyinNumeric": "ben1",
+    "audioId": "audio-ben1"
   },
   {
     "id": "pinyin-bang1",
@@ -77,7 +84,8 @@
     "syllableBase": "bang",
     "toneNumber": 1,
     "pinyin": "bāng",
-    "pinyinNumeric": "bang1"
+    "pinyinNumeric": "bang1",
+    "audioId": "audio-bang1"
   },
   {
     "id": "pinyin-beng1",
@@ -87,7 +95,8 @@
     "syllableBase": "beng",
     "toneNumber": 1,
     "pinyin": "bēng",
-    "pinyinNumeric": "beng1"
+    "pinyinNumeric": "beng1",
+    "audioId": "audio-beng1"
   },
   {
     "id": "pinyin-bi1",
@@ -97,7 +106,8 @@
     "syllableBase": "bi",
     "toneNumber": 1,
     "pinyin": "bī",
-    "pinyinNumeric": "bi1"
+    "pinyinNumeric": "bi1",
+    "audioId": "audio-bi1"
   },
   {
     "id": "pinyin-bie1",
@@ -107,7 +117,8 @@
     "syllableBase": "bie",
     "toneNumber": 1,
     "pinyin": "biē",
-    "pinyinNumeric": "bie1"
+    "pinyinNumeric": "bie1",
+    "audioId": "audio-bie1"
   },
   {
     "id": "pinyin-biao1",
@@ -117,7 +128,8 @@
     "syllableBase": "biao",
     "toneNumber": 1,
     "pinyin": "biāo",
-    "pinyinNumeric": "biao1"
+    "pinyinNumeric": "biao1",
+    "audioId": "audio-biao1"
   },
   {
     "id": "pinyin-bian1",
@@ -127,7 +139,8 @@
     "syllableBase": "bian",
     "toneNumber": 1,
     "pinyin": "biān",
-    "pinyinNumeric": "bian1"
+    "pinyinNumeric": "bian1",
+    "audioId": "audio-bian1"
   },
   {
     "id": "pinyin-bin1",
@@ -137,7 +150,8 @@
     "syllableBase": "bin",
     "toneNumber": 1,
     "pinyin": "bīn",
-    "pinyinNumeric": "bin1"
+    "pinyinNumeric": "bin1",
+    "audioId": "audio-bin1"
   },
   {
     "id": "pinyin-bing1",
@@ -147,7 +161,8 @@
     "syllableBase": "bing",
     "toneNumber": 1,
     "pinyin": "bīng",
-    "pinyinNumeric": "bing1"
+    "pinyinNumeric": "bing1",
+    "audioId": "audio-bing1"
   },
   {
     "id": "pinyin-bu1",
@@ -157,7 +172,8 @@
     "syllableBase": "bu",
     "toneNumber": 1,
     "pinyin": "bū",
-    "pinyinNumeric": "bu1"
+    "pinyinNumeric": "bu1",
+    "audioId": "audio-bu1"
   },
   {
     "id": "pinyin-pa1",
@@ -167,7 +183,8 @@
     "syllableBase": "pa",
     "toneNumber": 1,
     "pinyin": "pā",
-    "pinyinNumeric": "pa1"
+    "pinyinNumeric": "pa1",
+    "audioId": "audio-pa1"
   },
   {
     "id": "pinyin-po1",
@@ -177,7 +194,8 @@
     "syllableBase": "po",
     "toneNumber": 1,
     "pinyin": "pō",
-    "pinyinNumeric": "po1"
+    "pinyinNumeric": "po1",
+    "audioId": "audio-po1"
   },
   {
     "id": "pinyin-pai1",
@@ -187,7 +205,8 @@
     "syllableBase": "pai",
     "toneNumber": 1,
     "pinyin": "pāi",
-    "pinyinNumeric": "pai1"
+    "pinyinNumeric": "pai1",
+    "audioId": "audio-pai1"
   },
   {
     "id": "pinyin-pei1",
@@ -197,7 +216,8 @@
     "syllableBase": "pei",
     "toneNumber": 1,
     "pinyin": "pēi",
-    "pinyinNumeric": "pei1"
+    "pinyinNumeric": "pei1",
+    "audioId": "audio-pei1"
   },
   {
     "id": "pinyin-pao1",
@@ -207,7 +227,8 @@
     "syllableBase": "pao",
     "toneNumber": 1,
     "pinyin": "pāo",
-    "pinyinNumeric": "pao1"
+    "pinyinNumeric": "pao1",
+    "audioId": "audio-pao1"
   },
   {
     "id": "pinyin-pou1",
@@ -217,7 +238,8 @@
     "syllableBase": "pou",
     "toneNumber": 1,
     "pinyin": "pōu",
-    "pinyinNumeric": "pou1"
+    "pinyinNumeric": "pou1",
+    "audioId": "audio-pou1"
   },
   {
     "id": "pinyin-pan1",
@@ -227,7 +249,8 @@
     "syllableBase": "pan",
     "toneNumber": 1,
     "pinyin": "pān",
-    "pinyinNumeric": "pan1"
+    "pinyinNumeric": "pan1",
+    "audioId": "audio-pan1"
   },
   {
     "id": "pinyin-pen1",
@@ -237,7 +260,8 @@
     "syllableBase": "pen",
     "toneNumber": 1,
     "pinyin": "pēn",
-    "pinyinNumeric": "pen1"
+    "pinyinNumeric": "pen1",
+    "audioId": "audio-pen1"
   },
   {
     "id": "pinyin-pang1",
@@ -247,7 +271,8 @@
     "syllableBase": "pang",
     "toneNumber": 1,
     "pinyin": "pāng",
-    "pinyinNumeric": "pang1"
+    "pinyinNumeric": "pang1",
+    "audioId": "audio-pang1"
   },
   {
     "id": "pinyin-peng1",
@@ -257,7 +282,8 @@
     "syllableBase": "peng",
     "toneNumber": 1,
     "pinyin": "pēng",
-    "pinyinNumeric": "peng1"
+    "pinyinNumeric": "peng1",
+    "audioId": "audio-peng1"
   },
   {
     "id": "pinyin-pi1",
@@ -267,7 +293,8 @@
     "syllableBase": "pi",
     "toneNumber": 1,
     "pinyin": "pī",
-    "pinyinNumeric": "pi1"
+    "pinyinNumeric": "pi1",
+    "audioId": "audio-pi1"
   },
   {
     "id": "pinyin-pie1",
@@ -277,7 +304,8 @@
     "syllableBase": "pie",
     "toneNumber": 1,
     "pinyin": "piē",
-    "pinyinNumeric": "pie1"
+    "pinyinNumeric": "pie1",
+    "audioId": "audio-pie1"
   },
   {
     "id": "pinyin-piao1",
@@ -287,7 +315,8 @@
     "syllableBase": "piao",
     "toneNumber": 1,
     "pinyin": "piāo",
-    "pinyinNumeric": "piao1"
+    "pinyinNumeric": "piao1",
+    "audioId": "audio-piao1"
   },
   {
     "id": "pinyin-pian1",
@@ -297,7 +326,8 @@
     "syllableBase": "pian",
     "toneNumber": 1,
     "pinyin": "piān",
-    "pinyinNumeric": "pian1"
+    "pinyinNumeric": "pian1",
+    "audioId": "audio-pian1"
   },
   {
     "id": "pinyin-pin1",
@@ -307,7 +337,8 @@
     "syllableBase": "pin",
     "toneNumber": 1,
     "pinyin": "pīn",
-    "pinyinNumeric": "pin1"
+    "pinyinNumeric": "pin1",
+    "audioId": "audio-pin1"
   },
   {
     "id": "pinyin-ping1",
@@ -317,7 +348,8 @@
     "syllableBase": "ping",
     "toneNumber": 1,
     "pinyin": "pīng",
-    "pinyinNumeric": "ping1"
+    "pinyinNumeric": "ping1",
+    "audioId": "audio-ping1"
   },
   {
     "id": "pinyin-pu1",
@@ -327,7 +359,8 @@
     "syllableBase": "pu",
     "toneNumber": 1,
     "pinyin": "pū",
-    "pinyinNumeric": "pu1"
+    "pinyinNumeric": "pu1",
+    "audioId": "audio-pu1"
   },
   {
     "id": "pinyin-ma1",
@@ -342,7 +375,8 @@
     "traditional": "媽",
     "definitions": [
       "mother"
-    ]
+    ],
+    "audioId": "audio-ma1"
   },
   {
     "id": "pinyin-ma2",
@@ -358,7 +392,8 @@
     "definitions": [
       "hemp",
       "numb"
-    ]
+    ],
+    "audioId": "audio-ma2"
   },
   {
     "id": "pinyin-ma3",
@@ -373,7 +408,8 @@
     "traditional": "馬",
     "definitions": [
       "horse"
-    ]
+    ],
+    "audioId": "audio-ma3"
   },
   {
     "id": "pinyin-ma4",
@@ -388,7 +424,8 @@
     "traditional": "罵",
     "definitions": [
       "to scold"
-    ]
+    ],
+    "audioId": "audio-ma4"
   },
   {
     "id": "pinyin-ma5",
@@ -403,7 +440,8 @@
     "traditional": "嗎",
     "definitions": [
       "(question particle)"
-    ]
+    ],
+    "audioId": "audio-ma5"
   },
   {
     "id": "pinyin-mo1",
@@ -413,7 +451,8 @@
     "syllableBase": "mo",
     "toneNumber": 1,
     "pinyin": "mō",
-    "pinyinNumeric": "mo1"
+    "pinyinNumeric": "mo1",
+    "audioId": "audio-mo1"
   },
   {
     "id": "pinyin-me1",
@@ -423,7 +462,8 @@
     "syllableBase": "me",
     "toneNumber": 1,
     "pinyin": "mē",
-    "pinyinNumeric": "me1"
+    "pinyinNumeric": "me1",
+    "audioId": "audio-me1"
   },
   {
     "id": "pinyin-mai1",
@@ -433,7 +473,8 @@
     "syllableBase": "mai",
     "toneNumber": 1,
     "pinyin": "māi",
-    "pinyinNumeric": "mai1"
+    "pinyinNumeric": "mai1",
+    "audioId": "audio-mai1"
   },
   {
     "id": "pinyin-mei1",
@@ -443,7 +484,8 @@
     "syllableBase": "mei",
     "toneNumber": 1,
     "pinyin": "mēi",
-    "pinyinNumeric": "mei1"
+    "pinyinNumeric": "mei1",
+    "audioId": "audio-mei1"
   },
   {
     "id": "pinyin-mao1",
@@ -453,7 +495,8 @@
     "syllableBase": "mao",
     "toneNumber": 1,
     "pinyin": "māo",
-    "pinyinNumeric": "mao1"
+    "pinyinNumeric": "mao1",
+    "audioId": "audio-mao1"
   },
   {
     "id": "pinyin-mou1",
@@ -463,7 +506,8 @@
     "syllableBase": "mou",
     "toneNumber": 1,
     "pinyin": "mōu",
-    "pinyinNumeric": "mou1"
+    "pinyinNumeric": "mou1",
+    "audioId": "audio-mou1"
   },
   {
     "id": "pinyin-man1",
@@ -473,7 +517,8 @@
     "syllableBase": "man",
     "toneNumber": 1,
     "pinyin": "mān",
-    "pinyinNumeric": "man1"
+    "pinyinNumeric": "man1",
+    "audioId": "audio-man1"
   },
   {
     "id": "pinyin-men1",
@@ -483,7 +528,8 @@
     "syllableBase": "men",
     "toneNumber": 1,
     "pinyin": "mēn",
-    "pinyinNumeric": "men1"
+    "pinyinNumeric": "men1",
+    "audioId": "audio-men1"
   },
   {
     "id": "pinyin-mang1",
@@ -493,7 +539,8 @@
     "syllableBase": "mang",
     "toneNumber": 1,
     "pinyin": "māng",
-    "pinyinNumeric": "mang1"
+    "pinyinNumeric": "mang1",
+    "audioId": "audio-mang1"
   },
   {
     "id": "pinyin-meng1",
@@ -503,7 +550,8 @@
     "syllableBase": "meng",
     "toneNumber": 1,
     "pinyin": "mēng",
-    "pinyinNumeric": "meng1"
+    "pinyinNumeric": "meng1",
+    "audioId": "audio-meng1"
   },
   {
     "id": "pinyin-mi1",
@@ -513,7 +561,8 @@
     "syllableBase": "mi",
     "toneNumber": 1,
     "pinyin": "mī",
-    "pinyinNumeric": "mi1"
+    "pinyinNumeric": "mi1",
+    "audioId": "audio-mi1"
   },
   {
     "id": "pinyin-mie1",
@@ -523,7 +572,8 @@
     "syllableBase": "mie",
     "toneNumber": 1,
     "pinyin": "miē",
-    "pinyinNumeric": "mie1"
+    "pinyinNumeric": "mie1",
+    "audioId": "audio-mie1"
   },
   {
     "id": "pinyin-miao1",
@@ -533,7 +583,8 @@
     "syllableBase": "miao",
     "toneNumber": 1,
     "pinyin": "miāo",
-    "pinyinNumeric": "miao1"
+    "pinyinNumeric": "miao1",
+    "audioId": "audio-miao1"
   },
   {
     "id": "pinyin-miu1",
@@ -543,7 +594,8 @@
     "syllableBase": "miu",
     "toneNumber": 1,
     "pinyin": "miū",
-    "pinyinNumeric": "miu1"
+    "pinyinNumeric": "miu1",
+    "audioId": "audio-miu1"
   },
   {
     "id": "pinyin-mian1",
@@ -553,7 +605,8 @@
     "syllableBase": "mian",
     "toneNumber": 1,
     "pinyin": "miān",
-    "pinyinNumeric": "mian1"
+    "pinyinNumeric": "mian1",
+    "audioId": "audio-mian1"
   },
   {
     "id": "pinyin-min1",
@@ -563,7 +616,8 @@
     "syllableBase": "min",
     "toneNumber": 1,
     "pinyin": "mīn",
-    "pinyinNumeric": "min1"
+    "pinyinNumeric": "min1",
+    "audioId": "audio-min1"
   },
   {
     "id": "pinyin-ming1",
@@ -573,7 +627,8 @@
     "syllableBase": "ming",
     "toneNumber": 1,
     "pinyin": "mīng",
-    "pinyinNumeric": "ming1"
+    "pinyinNumeric": "ming1",
+    "audioId": "audio-ming1"
   },
   {
     "id": "pinyin-mu1",
@@ -583,7 +638,8 @@
     "syllableBase": "mu",
     "toneNumber": 1,
     "pinyin": "mū",
-    "pinyinNumeric": "mu1"
+    "pinyinNumeric": "mu1",
+    "audioId": "audio-mu1"
   },
   {
     "id": "pinyin-fa1",
@@ -599,7 +655,8 @@
     "definitions": [
       "to send out",
       "to occur"
-    ]
+    ],
+    "audioId": "audio-fa1"
   },
   {
     "id": "pinyin-fa2",
@@ -615,7 +672,8 @@
     "definitions": [
       "to punish",
       "lacking"
-    ]
+    ],
+    "audioId": "audio-fa2"
   },
   {
     "id": "pinyin-fa3",
@@ -631,7 +689,8 @@
     "definitions": [
       "law",
       "method"
-    ]
+    ],
+    "audioId": "audio-fa3"
   },
   {
     "id": "pinyin-fa4",
@@ -646,7 +705,8 @@
     "traditional": "髮",
     "definitions": [
       "hair"
-    ]
+    ],
+    "audioId": "audio-fa4"
   },
   {
     "id": "pinyin-fo1",
@@ -656,7 +716,8 @@
     "syllableBase": "fo",
     "toneNumber": 1,
     "pinyin": "fō",
-    "pinyinNumeric": "fo1"
+    "pinyinNumeric": "fo1",
+    "audioId": "audio-fo1"
   },
   {
     "id": "pinyin-fei1",
@@ -666,7 +727,8 @@
     "syllableBase": "fei",
     "toneNumber": 1,
     "pinyin": "fēi",
-    "pinyinNumeric": "fei1"
+    "pinyinNumeric": "fei1",
+    "audioId": "audio-fei1"
   },
   {
     "id": "pinyin-fou1",
@@ -676,7 +738,8 @@
     "syllableBase": "fou",
     "toneNumber": 1,
     "pinyin": "fōu",
-    "pinyinNumeric": "fou1"
+    "pinyinNumeric": "fou1",
+    "audioId": "audio-fou1"
   },
   {
     "id": "pinyin-fan1",
@@ -686,7 +749,8 @@
     "syllableBase": "fan",
     "toneNumber": 1,
     "pinyin": "fān",
-    "pinyinNumeric": "fan1"
+    "pinyinNumeric": "fan1",
+    "audioId": "audio-fan1"
   },
   {
     "id": "pinyin-fen1",
@@ -696,7 +760,8 @@
     "syllableBase": "fen",
     "toneNumber": 1,
     "pinyin": "fēn",
-    "pinyinNumeric": "fen1"
+    "pinyinNumeric": "fen1",
+    "audioId": "audio-fen1"
   },
   {
     "id": "pinyin-fang1",
@@ -706,7 +771,8 @@
     "syllableBase": "fang",
     "toneNumber": 1,
     "pinyin": "fāng",
-    "pinyinNumeric": "fang1"
+    "pinyinNumeric": "fang1",
+    "audioId": "audio-fang1"
   },
   {
     "id": "pinyin-feng1",
@@ -716,7 +782,8 @@
     "syllableBase": "feng",
     "toneNumber": 1,
     "pinyin": "fēng",
-    "pinyinNumeric": "feng1"
+    "pinyinNumeric": "feng1",
+    "audioId": "audio-feng1"
   },
   {
     "id": "pinyin-fu1",
@@ -726,7 +793,8 @@
     "syllableBase": "fu",
     "toneNumber": 1,
     "pinyin": "fū",
-    "pinyinNumeric": "fu1"
+    "pinyinNumeric": "fu1",
+    "audioId": "audio-fu1"
   },
   {
     "id": "pinyin-da1",
@@ -736,7 +804,8 @@
     "syllableBase": "da",
     "toneNumber": 1,
     "pinyin": "dā",
-    "pinyinNumeric": "da1"
+    "pinyinNumeric": "da1",
+    "audioId": "audio-da1"
   },
   {
     "id": "pinyin-de1",
@@ -746,7 +815,8 @@
     "syllableBase": "de",
     "toneNumber": 1,
     "pinyin": "dē",
-    "pinyinNumeric": "de1"
+    "pinyinNumeric": "de1",
+    "audioId": "audio-de1"
   },
   {
     "id": "pinyin-dai1",
@@ -756,7 +826,8 @@
     "syllableBase": "dai",
     "toneNumber": 1,
     "pinyin": "dāi",
-    "pinyinNumeric": "dai1"
+    "pinyinNumeric": "dai1",
+    "audioId": "audio-dai1"
   },
   {
     "id": "pinyin-dei1",
@@ -766,7 +837,8 @@
     "syllableBase": "dei",
     "toneNumber": 1,
     "pinyin": "dēi",
-    "pinyinNumeric": "dei1"
+    "pinyinNumeric": "dei1",
+    "audioId": "audio-dei1"
   },
   {
     "id": "pinyin-dao1",
@@ -776,7 +848,8 @@
     "syllableBase": "dao",
     "toneNumber": 1,
     "pinyin": "dāo",
-    "pinyinNumeric": "dao1"
+    "pinyinNumeric": "dao1",
+    "audioId": "audio-dao1"
   },
   {
     "id": "pinyin-dou1",
@@ -786,7 +859,8 @@
     "syllableBase": "dou",
     "toneNumber": 1,
     "pinyin": "dōu",
-    "pinyinNumeric": "dou1"
+    "pinyinNumeric": "dou1",
+    "audioId": "audio-dou1"
   },
   {
     "id": "pinyin-dan1",
@@ -796,7 +870,8 @@
     "syllableBase": "dan",
     "toneNumber": 1,
     "pinyin": "dān",
-    "pinyinNumeric": "dan1"
+    "pinyinNumeric": "dan1",
+    "audioId": "audio-dan1"
   },
   {
     "id": "pinyin-dang1",
@@ -806,7 +881,8 @@
     "syllableBase": "dang",
     "toneNumber": 1,
     "pinyin": "dāng",
-    "pinyinNumeric": "dang1"
+    "pinyinNumeric": "dang1",
+    "audioId": "audio-dang1"
   },
   {
     "id": "pinyin-deng1",
@@ -816,7 +892,8 @@
     "syllableBase": "deng",
     "toneNumber": 1,
     "pinyin": "dēng",
-    "pinyinNumeric": "deng1"
+    "pinyinNumeric": "deng1",
+    "audioId": "audio-deng1"
   },
   {
     "id": "pinyin-dong1",
@@ -826,7 +903,8 @@
     "syllableBase": "dong",
     "toneNumber": 1,
     "pinyin": "dōng",
-    "pinyinNumeric": "dong1"
+    "pinyinNumeric": "dong1",
+    "audioId": "audio-dong1"
   },
   {
     "id": "pinyin-di1",
@@ -836,7 +914,8 @@
     "syllableBase": "di",
     "toneNumber": 1,
     "pinyin": "dī",
-    "pinyinNumeric": "di1"
+    "pinyinNumeric": "di1",
+    "audioId": "audio-di1"
   },
   {
     "id": "pinyin-dia1",
@@ -846,7 +925,8 @@
     "syllableBase": "dia",
     "toneNumber": 1,
     "pinyin": "diā",
-    "pinyinNumeric": "dia1"
+    "pinyinNumeric": "dia1",
+    "audioId": "audio-dia1"
   },
   {
     "id": "pinyin-die1",
@@ -856,7 +936,8 @@
     "syllableBase": "die",
     "toneNumber": 1,
     "pinyin": "diē",
-    "pinyinNumeric": "die1"
+    "pinyinNumeric": "die1",
+    "audioId": "audio-die1"
   },
   {
     "id": "pinyin-diao1",
@@ -866,7 +947,8 @@
     "syllableBase": "diao",
     "toneNumber": 1,
     "pinyin": "diāo",
-    "pinyinNumeric": "diao1"
+    "pinyinNumeric": "diao1",
+    "audioId": "audio-diao1"
   },
   {
     "id": "pinyin-diu1",
@@ -876,7 +958,8 @@
     "syllableBase": "diu",
     "toneNumber": 1,
     "pinyin": "diū",
-    "pinyinNumeric": "diu1"
+    "pinyinNumeric": "diu1",
+    "audioId": "audio-diu1"
   },
   {
     "id": "pinyin-dian1",
@@ -886,7 +969,8 @@
     "syllableBase": "dian",
     "toneNumber": 1,
     "pinyin": "diān",
-    "pinyinNumeric": "dian1"
+    "pinyinNumeric": "dian1",
+    "audioId": "audio-dian1"
   },
   {
     "id": "pinyin-ding1",
@@ -896,7 +980,8 @@
     "syllableBase": "ding",
     "toneNumber": 1,
     "pinyin": "dīng",
-    "pinyinNumeric": "ding1"
+    "pinyinNumeric": "ding1",
+    "audioId": "audio-ding1"
   },
   {
     "id": "pinyin-du1",
@@ -906,7 +991,8 @@
     "syllableBase": "du",
     "toneNumber": 1,
     "pinyin": "dū",
-    "pinyinNumeric": "du1"
+    "pinyinNumeric": "du1",
+    "audioId": "audio-du1"
   },
   {
     "id": "pinyin-duo1",
@@ -916,7 +1002,8 @@
     "syllableBase": "duo",
     "toneNumber": 1,
     "pinyin": "duō",
-    "pinyinNumeric": "duo1"
+    "pinyinNumeric": "duo1",
+    "audioId": "audio-duo1"
   },
   {
     "id": "pinyin-dui1",
@@ -926,7 +1013,8 @@
     "syllableBase": "dui",
     "toneNumber": 1,
     "pinyin": "duī",
-    "pinyinNumeric": "dui1"
+    "pinyinNumeric": "dui1",
+    "audioId": "audio-dui1"
   },
   {
     "id": "pinyin-duan1",
@@ -936,7 +1024,8 @@
     "syllableBase": "duan",
     "toneNumber": 1,
     "pinyin": "duān",
-    "pinyinNumeric": "duan1"
+    "pinyinNumeric": "duan1",
+    "audioId": "audio-duan1"
   },
   {
     "id": "pinyin-dun1",
@@ -946,7 +1035,8 @@
     "syllableBase": "dun",
     "toneNumber": 1,
     "pinyin": "dūn",
-    "pinyinNumeric": "dun1"
+    "pinyinNumeric": "dun1",
+    "audioId": "audio-dun1"
   },
   {
     "id": "pinyin-ta1",
@@ -956,7 +1046,8 @@
     "syllableBase": "ta",
     "toneNumber": 1,
     "pinyin": "tā",
-    "pinyinNumeric": "ta1"
+    "pinyinNumeric": "ta1",
+    "audioId": "audio-ta1"
   },
   {
     "id": "pinyin-te1",
@@ -966,7 +1057,8 @@
     "syllableBase": "te",
     "toneNumber": 1,
     "pinyin": "tē",
-    "pinyinNumeric": "te1"
+    "pinyinNumeric": "te1",
+    "audioId": "audio-te1"
   },
   {
     "id": "pinyin-tai1",
@@ -976,7 +1068,8 @@
     "syllableBase": "tai",
     "toneNumber": 1,
     "pinyin": "tāi",
-    "pinyinNumeric": "tai1"
+    "pinyinNumeric": "tai1",
+    "audioId": "audio-tai1"
   },
   {
     "id": "pinyin-tao1",
@@ -986,7 +1079,8 @@
     "syllableBase": "tao",
     "toneNumber": 1,
     "pinyin": "tāo",
-    "pinyinNumeric": "tao1"
+    "pinyinNumeric": "tao1",
+    "audioId": "audio-tao1"
   },
   {
     "id": "pinyin-tou1",
@@ -996,7 +1090,8 @@
     "syllableBase": "tou",
     "toneNumber": 1,
     "pinyin": "tōu",
-    "pinyinNumeric": "tou1"
+    "pinyinNumeric": "tou1",
+    "audioId": "audio-tou1"
   },
   {
     "id": "pinyin-tan1",
@@ -1006,7 +1101,8 @@
     "syllableBase": "tan",
     "toneNumber": 1,
     "pinyin": "tān",
-    "pinyinNumeric": "tan1"
+    "pinyinNumeric": "tan1",
+    "audioId": "audio-tan1"
   },
   {
     "id": "pinyin-tang1",
@@ -1016,7 +1112,8 @@
     "syllableBase": "tang",
     "toneNumber": 1,
     "pinyin": "tāng",
-    "pinyinNumeric": "tang1"
+    "pinyinNumeric": "tang1",
+    "audioId": "audio-tang1"
   },
   {
     "id": "pinyin-teng1",
@@ -1026,7 +1123,8 @@
     "syllableBase": "teng",
     "toneNumber": 1,
     "pinyin": "tēng",
-    "pinyinNumeric": "teng1"
+    "pinyinNumeric": "teng1",
+    "audioId": "audio-teng1"
   },
   {
     "id": "pinyin-tong1",
@@ -1036,7 +1134,8 @@
     "syllableBase": "tong",
     "toneNumber": 1,
     "pinyin": "tōng",
-    "pinyinNumeric": "tong1"
+    "pinyinNumeric": "tong1",
+    "audioId": "audio-tong1"
   },
   {
     "id": "pinyin-ti1",
@@ -1046,7 +1145,8 @@
     "syllableBase": "ti",
     "toneNumber": 1,
     "pinyin": "tī",
-    "pinyinNumeric": "ti1"
+    "pinyinNumeric": "ti1",
+    "audioId": "audio-ti1"
   },
   {
     "id": "pinyin-tie1",
@@ -1056,7 +1156,8 @@
     "syllableBase": "tie",
     "toneNumber": 1,
     "pinyin": "tiē",
-    "pinyinNumeric": "tie1"
+    "pinyinNumeric": "tie1",
+    "audioId": "audio-tie1"
   },
   {
     "id": "pinyin-tiao1",
@@ -1066,7 +1167,8 @@
     "syllableBase": "tiao",
     "toneNumber": 1,
     "pinyin": "tiāo",
-    "pinyinNumeric": "tiao1"
+    "pinyinNumeric": "tiao1",
+    "audioId": "audio-tiao1"
   },
   {
     "id": "pinyin-tian1",
@@ -1076,7 +1178,8 @@
     "syllableBase": "tian",
     "toneNumber": 1,
     "pinyin": "tiān",
-    "pinyinNumeric": "tian1"
+    "pinyinNumeric": "tian1",
+    "audioId": "audio-tian1"
   },
   {
     "id": "pinyin-ting1",
@@ -1086,7 +1189,8 @@
     "syllableBase": "ting",
     "toneNumber": 1,
     "pinyin": "tīng",
-    "pinyinNumeric": "ting1"
+    "pinyinNumeric": "ting1",
+    "audioId": "audio-ting1"
   },
   {
     "id": "pinyin-tu1",
@@ -1096,7 +1200,8 @@
     "syllableBase": "tu",
     "toneNumber": 1,
     "pinyin": "tū",
-    "pinyinNumeric": "tu1"
+    "pinyinNumeric": "tu1",
+    "audioId": "audio-tu1"
   },
   {
     "id": "pinyin-tuo1",
@@ -1106,7 +1211,8 @@
     "syllableBase": "tuo",
     "toneNumber": 1,
     "pinyin": "tuō",
-    "pinyinNumeric": "tuo1"
+    "pinyinNumeric": "tuo1",
+    "audioId": "audio-tuo1"
   },
   {
     "id": "pinyin-tui1",
@@ -1116,7 +1222,8 @@
     "syllableBase": "tui",
     "toneNumber": 1,
     "pinyin": "tuī",
-    "pinyinNumeric": "tui1"
+    "pinyinNumeric": "tui1",
+    "audioId": "audio-tui1"
   },
   {
     "id": "pinyin-tuan1",
@@ -1126,7 +1233,8 @@
     "syllableBase": "tuan",
     "toneNumber": 1,
     "pinyin": "tuān",
-    "pinyinNumeric": "tuan1"
+    "pinyinNumeric": "tuan1",
+    "audioId": "audio-tuan1"
   },
   {
     "id": "pinyin-tun1",
@@ -1136,7 +1244,8 @@
     "syllableBase": "tun",
     "toneNumber": 1,
     "pinyin": "tūn",
-    "pinyinNumeric": "tun1"
+    "pinyinNumeric": "tun1",
+    "audioId": "audio-tun1"
   },
   {
     "id": "pinyin-na1",
@@ -1146,7 +1255,8 @@
     "syllableBase": "na",
     "toneNumber": 1,
     "pinyin": "nā",
-    "pinyinNumeric": "na1"
+    "pinyinNumeric": "na1",
+    "audioId": "audio-na1"
   },
   {
     "id": "pinyin-ne1",
@@ -1156,7 +1266,8 @@
     "syllableBase": "ne",
     "toneNumber": 1,
     "pinyin": "nē",
-    "pinyinNumeric": "ne1"
+    "pinyinNumeric": "ne1",
+    "audioId": "audio-ne1"
   },
   {
     "id": "pinyin-nai1",
@@ -1166,7 +1277,8 @@
     "syllableBase": "nai",
     "toneNumber": 1,
     "pinyin": "nāi",
-    "pinyinNumeric": "nai1"
+    "pinyinNumeric": "nai1",
+    "audioId": "audio-nai1"
   },
   {
     "id": "pinyin-nei1",
@@ -1176,7 +1288,8 @@
     "syllableBase": "nei",
     "toneNumber": 1,
     "pinyin": "nēi",
-    "pinyinNumeric": "nei1"
+    "pinyinNumeric": "nei1",
+    "audioId": "audio-nei1"
   },
   {
     "id": "pinyin-nao1",
@@ -1186,7 +1299,8 @@
     "syllableBase": "nao",
     "toneNumber": 1,
     "pinyin": "nāo",
-    "pinyinNumeric": "nao1"
+    "pinyinNumeric": "nao1",
+    "audioId": "audio-nao1"
   },
   {
     "id": "pinyin-nou1",
@@ -1196,7 +1310,8 @@
     "syllableBase": "nou",
     "toneNumber": 1,
     "pinyin": "nōu",
-    "pinyinNumeric": "nou1"
+    "pinyinNumeric": "nou1",
+    "audioId": "audio-nou1"
   },
   {
     "id": "pinyin-nan1",
@@ -1206,7 +1321,8 @@
     "syllableBase": "nan",
     "toneNumber": 1,
     "pinyin": "nān",
-    "pinyinNumeric": "nan1"
+    "pinyinNumeric": "nan1",
+    "audioId": "audio-nan1"
   },
   {
     "id": "pinyin-nen1",
@@ -1216,7 +1332,8 @@
     "syllableBase": "nen",
     "toneNumber": 1,
     "pinyin": "nēn",
-    "pinyinNumeric": "nen1"
+    "pinyinNumeric": "nen1",
+    "audioId": "audio-nen1"
   },
   {
     "id": "pinyin-nang1",
@@ -1226,7 +1343,8 @@
     "syllableBase": "nang",
     "toneNumber": 1,
     "pinyin": "nāng",
-    "pinyinNumeric": "nang1"
+    "pinyinNumeric": "nang1",
+    "audioId": "audio-nang1"
   },
   {
     "id": "pinyin-neng1",
@@ -1236,7 +1354,8 @@
     "syllableBase": "neng",
     "toneNumber": 1,
     "pinyin": "nēng",
-    "pinyinNumeric": "neng1"
+    "pinyinNumeric": "neng1",
+    "audioId": "audio-neng1"
   },
   {
     "id": "pinyin-nong1",
@@ -1246,7 +1365,8 @@
     "syllableBase": "nong",
     "toneNumber": 1,
     "pinyin": "nōng",
-    "pinyinNumeric": "nong1"
+    "pinyinNumeric": "nong1",
+    "audioId": "audio-nong1"
   },
   {
     "id": "pinyin-ni1",
@@ -1256,7 +1376,8 @@
     "syllableBase": "ni",
     "toneNumber": 1,
     "pinyin": "nī",
-    "pinyinNumeric": "ni1"
+    "pinyinNumeric": "ni1",
+    "audioId": "audio-ni1"
   },
   {
     "id": "pinyin-nia1",
@@ -1266,7 +1387,8 @@
     "syllableBase": "nia",
     "toneNumber": 1,
     "pinyin": "niā",
-    "pinyinNumeric": "nia1"
+    "pinyinNumeric": "nia1",
+    "audioId": "audio-nia1"
   },
   {
     "id": "pinyin-nie1",
@@ -1276,7 +1398,8 @@
     "syllableBase": "nie",
     "toneNumber": 1,
     "pinyin": "niē",
-    "pinyinNumeric": "nie1"
+    "pinyinNumeric": "nie1",
+    "audioId": "audio-nie1"
   },
   {
     "id": "pinyin-niao1",
@@ -1286,7 +1409,8 @@
     "syllableBase": "niao",
     "toneNumber": 1,
     "pinyin": "niāo",
-    "pinyinNumeric": "niao1"
+    "pinyinNumeric": "niao1",
+    "audioId": "audio-niao1"
   },
   {
     "id": "pinyin-niu1",
@@ -1296,7 +1420,8 @@
     "syllableBase": "niu",
     "toneNumber": 1,
     "pinyin": "niū",
-    "pinyinNumeric": "niu1"
+    "pinyinNumeric": "niu1",
+    "audioId": "audio-niu1"
   },
   {
     "id": "pinyin-nian1",
@@ -1306,7 +1431,8 @@
     "syllableBase": "nian",
     "toneNumber": 1,
     "pinyin": "niān",
-    "pinyinNumeric": "nian1"
+    "pinyinNumeric": "nian1",
+    "audioId": "audio-nian1"
   },
   {
     "id": "pinyin-nin1",
@@ -1316,7 +1442,8 @@
     "syllableBase": "nin",
     "toneNumber": 1,
     "pinyin": "nīn",
-    "pinyinNumeric": "nin1"
+    "pinyinNumeric": "nin1",
+    "audioId": "audio-nin1"
   },
   {
     "id": "pinyin-niang1",
@@ -1326,7 +1453,8 @@
     "syllableBase": "niang",
     "toneNumber": 1,
     "pinyin": "niāng",
-    "pinyinNumeric": "niang1"
+    "pinyinNumeric": "niang1",
+    "audioId": "audio-niang1"
   },
   {
     "id": "pinyin-ning1",
@@ -1336,7 +1464,8 @@
     "syllableBase": "ning",
     "toneNumber": 1,
     "pinyin": "nīng",
-    "pinyinNumeric": "ning1"
+    "pinyinNumeric": "ning1",
+    "audioId": "audio-ning1"
   },
   {
     "id": "pinyin-nu1",
@@ -1346,7 +1475,8 @@
     "syllableBase": "nu",
     "toneNumber": 1,
     "pinyin": "nū",
-    "pinyinNumeric": "nu1"
+    "pinyinNumeric": "nu1",
+    "audioId": "audio-nu1"
   },
   {
     "id": "pinyin-nuo1",
@@ -1356,7 +1486,8 @@
     "syllableBase": "nuo",
     "toneNumber": 1,
     "pinyin": "nuō",
-    "pinyinNumeric": "nuo1"
+    "pinyinNumeric": "nuo1",
+    "audioId": "audio-nuo1"
   },
   {
     "id": "pinyin-nuan1",
@@ -1366,7 +1497,8 @@
     "syllableBase": "nuan",
     "toneNumber": 1,
     "pinyin": "nuān",
-    "pinyinNumeric": "nuan1"
+    "pinyinNumeric": "nuan1",
+    "audioId": "audio-nuan1"
   },
   {
     "id": "pinyin-nv1",
@@ -1376,7 +1508,8 @@
     "syllableBase": "nv",
     "toneNumber": 1,
     "pinyin": "nǖ",
-    "pinyinNumeric": "nv1"
+    "pinyinNumeric": "nv1",
+    "audioId": "audio-nv1"
   },
   {
     "id": "pinyin-nve1",
@@ -1386,7 +1519,8 @@
     "syllableBase": "nve",
     "toneNumber": 1,
     "pinyin": "nüē",
-    "pinyinNumeric": "nve1"
+    "pinyinNumeric": "nve1",
+    "audioId": "audio-nve1"
   },
   {
     "id": "pinyin-la1",
@@ -1396,7 +1530,8 @@
     "syllableBase": "la",
     "toneNumber": 1,
     "pinyin": "lā",
-    "pinyinNumeric": "la1"
+    "pinyinNumeric": "la1",
+    "audioId": "audio-la1"
   },
   {
     "id": "pinyin-le1",
@@ -1406,7 +1541,8 @@
     "syllableBase": "le",
     "toneNumber": 1,
     "pinyin": "lē",
-    "pinyinNumeric": "le1"
+    "pinyinNumeric": "le1",
+    "audioId": "audio-le1"
   },
   {
     "id": "pinyin-lai1",
@@ -1416,7 +1552,8 @@
     "syllableBase": "lai",
     "toneNumber": 1,
     "pinyin": "lāi",
-    "pinyinNumeric": "lai1"
+    "pinyinNumeric": "lai1",
+    "audioId": "audio-lai1"
   },
   {
     "id": "pinyin-lei1",
@@ -1426,7 +1563,8 @@
     "syllableBase": "lei",
     "toneNumber": 1,
     "pinyin": "lēi",
-    "pinyinNumeric": "lei1"
+    "pinyinNumeric": "lei1",
+    "audioId": "audio-lei1"
   },
   {
     "id": "pinyin-lao1",
@@ -1436,7 +1574,8 @@
     "syllableBase": "lao",
     "toneNumber": 1,
     "pinyin": "lāo",
-    "pinyinNumeric": "lao1"
+    "pinyinNumeric": "lao1",
+    "audioId": "audio-lao1"
   },
   {
     "id": "pinyin-lou1",
@@ -1446,7 +1585,8 @@
     "syllableBase": "lou",
     "toneNumber": 1,
     "pinyin": "lōu",
-    "pinyinNumeric": "lou1"
+    "pinyinNumeric": "lou1",
+    "audioId": "audio-lou1"
   },
   {
     "id": "pinyin-lan1",
@@ -1456,7 +1596,8 @@
     "syllableBase": "lan",
     "toneNumber": 1,
     "pinyin": "lān",
-    "pinyinNumeric": "lan1"
+    "pinyinNumeric": "lan1",
+    "audioId": "audio-lan1"
   },
   {
     "id": "pinyin-lang1",
@@ -1466,7 +1607,8 @@
     "syllableBase": "lang",
     "toneNumber": 1,
     "pinyin": "lāng",
-    "pinyinNumeric": "lang1"
+    "pinyinNumeric": "lang1",
+    "audioId": "audio-lang1"
   },
   {
     "id": "pinyin-leng1",
@@ -1476,7 +1618,8 @@
     "syllableBase": "leng",
     "toneNumber": 1,
     "pinyin": "lēng",
-    "pinyinNumeric": "leng1"
+    "pinyinNumeric": "leng1",
+    "audioId": "audio-leng1"
   },
   {
     "id": "pinyin-long1",
@@ -1486,7 +1629,8 @@
     "syllableBase": "long",
     "toneNumber": 1,
     "pinyin": "lōng",
-    "pinyinNumeric": "long1"
+    "pinyinNumeric": "long1",
+    "audioId": "audio-long1"
   },
   {
     "id": "pinyin-li1",
@@ -1496,7 +1640,8 @@
     "syllableBase": "li",
     "toneNumber": 1,
     "pinyin": "lī",
-    "pinyinNumeric": "li1"
+    "pinyinNumeric": "li1",
+    "audioId": "audio-li1"
   },
   {
     "id": "pinyin-lia1",
@@ -1506,7 +1651,8 @@
     "syllableBase": "lia",
     "toneNumber": 1,
     "pinyin": "liā",
-    "pinyinNumeric": "lia1"
+    "pinyinNumeric": "lia1",
+    "audioId": "audio-lia1"
   },
   {
     "id": "pinyin-lie1",
@@ -1516,7 +1662,8 @@
     "syllableBase": "lie",
     "toneNumber": 1,
     "pinyin": "liē",
-    "pinyinNumeric": "lie1"
+    "pinyinNumeric": "lie1",
+    "audioId": "audio-lie1"
   },
   {
     "id": "pinyin-liao1",
@@ -1526,7 +1673,8 @@
     "syllableBase": "liao",
     "toneNumber": 1,
     "pinyin": "liāo",
-    "pinyinNumeric": "liao1"
+    "pinyinNumeric": "liao1",
+    "audioId": "audio-liao1"
   },
   {
     "id": "pinyin-liu1",
@@ -1536,7 +1684,8 @@
     "syllableBase": "liu",
     "toneNumber": 1,
     "pinyin": "liū",
-    "pinyinNumeric": "liu1"
+    "pinyinNumeric": "liu1",
+    "audioId": "audio-liu1"
   },
   {
     "id": "pinyin-lian1",
@@ -1546,7 +1695,8 @@
     "syllableBase": "lian",
     "toneNumber": 1,
     "pinyin": "liān",
-    "pinyinNumeric": "lian1"
+    "pinyinNumeric": "lian1",
+    "audioId": "audio-lian1"
   },
   {
     "id": "pinyin-lin1",
@@ -1556,7 +1706,8 @@
     "syllableBase": "lin",
     "toneNumber": 1,
     "pinyin": "līn",
-    "pinyinNumeric": "lin1"
+    "pinyinNumeric": "lin1",
+    "audioId": "audio-lin1"
   },
   {
     "id": "pinyin-liang1",
@@ -1566,7 +1717,8 @@
     "syllableBase": "liang",
     "toneNumber": 1,
     "pinyin": "liāng",
-    "pinyinNumeric": "liang1"
+    "pinyinNumeric": "liang1",
+    "audioId": "audio-liang1"
   },
   {
     "id": "pinyin-ling1",
@@ -1576,7 +1728,8 @@
     "syllableBase": "ling",
     "toneNumber": 1,
     "pinyin": "līng",
-    "pinyinNumeric": "ling1"
+    "pinyinNumeric": "ling1",
+    "audioId": "audio-ling1"
   },
   {
     "id": "pinyin-lu1",
@@ -1586,7 +1739,8 @@
     "syllableBase": "lu",
     "toneNumber": 1,
     "pinyin": "lū",
-    "pinyinNumeric": "lu1"
+    "pinyinNumeric": "lu1",
+    "audioId": "audio-lu1"
   },
   {
     "id": "pinyin-luo1",
@@ -1596,7 +1750,8 @@
     "syllableBase": "luo",
     "toneNumber": 1,
     "pinyin": "luō",
-    "pinyinNumeric": "luo1"
+    "pinyinNumeric": "luo1",
+    "audioId": "audio-luo1"
   },
   {
     "id": "pinyin-luan1",
@@ -1606,7 +1761,8 @@
     "syllableBase": "luan",
     "toneNumber": 1,
     "pinyin": "luān",
-    "pinyinNumeric": "luan1"
+    "pinyinNumeric": "luan1",
+    "audioId": "audio-luan1"
   },
   {
     "id": "pinyin-lun1",
@@ -1616,7 +1772,8 @@
     "syllableBase": "lun",
     "toneNumber": 1,
     "pinyin": "lūn",
-    "pinyinNumeric": "lun1"
+    "pinyinNumeric": "lun1",
+    "audioId": "audio-lun1"
   },
   {
     "id": "pinyin-lv1",
@@ -1626,7 +1783,8 @@
     "syllableBase": "lv",
     "toneNumber": 1,
     "pinyin": "lǖ",
-    "pinyinNumeric": "lv1"
+    "pinyinNumeric": "lv1",
+    "audioId": "audio-lv1"
   },
   {
     "id": "pinyin-lve1",
@@ -1636,7 +1794,8 @@
     "syllableBase": "lve",
     "toneNumber": 1,
     "pinyin": "lüē",
-    "pinyinNumeric": "lve1"
+    "pinyinNumeric": "lve1",
+    "audioId": "audio-lve1"
   },
   {
     "id": "pinyin-ga1",
@@ -1646,7 +1805,8 @@
     "syllableBase": "ga",
     "toneNumber": 1,
     "pinyin": "gā",
-    "pinyinNumeric": "ga1"
+    "pinyinNumeric": "ga1",
+    "audioId": "audio-ga1"
   },
   {
     "id": "pinyin-ge1",
@@ -1656,7 +1816,8 @@
     "syllableBase": "ge",
     "toneNumber": 1,
     "pinyin": "gē",
-    "pinyinNumeric": "ge1"
+    "pinyinNumeric": "ge1",
+    "audioId": "audio-ge1"
   },
   {
     "id": "pinyin-gai1",
@@ -1666,7 +1827,8 @@
     "syllableBase": "gai",
     "toneNumber": 1,
     "pinyin": "gāi",
-    "pinyinNumeric": "gai1"
+    "pinyinNumeric": "gai1",
+    "audioId": "audio-gai1"
   },
   {
     "id": "pinyin-gei1",
@@ -1676,7 +1838,8 @@
     "syllableBase": "gei",
     "toneNumber": 1,
     "pinyin": "gēi",
-    "pinyinNumeric": "gei1"
+    "pinyinNumeric": "gei1",
+    "audioId": "audio-gei1"
   },
   {
     "id": "pinyin-gao1",
@@ -1686,7 +1849,8 @@
     "syllableBase": "gao",
     "toneNumber": 1,
     "pinyin": "gāo",
-    "pinyinNumeric": "gao1"
+    "pinyinNumeric": "gao1",
+    "audioId": "audio-gao1"
   },
   {
     "id": "pinyin-gou1",
@@ -1696,7 +1860,8 @@
     "syllableBase": "gou",
     "toneNumber": 1,
     "pinyin": "gōu",
-    "pinyinNumeric": "gou1"
+    "pinyinNumeric": "gou1",
+    "audioId": "audio-gou1"
   },
   {
     "id": "pinyin-gan1",
@@ -1706,7 +1871,8 @@
     "syllableBase": "gan",
     "toneNumber": 1,
     "pinyin": "gān",
-    "pinyinNumeric": "gan1"
+    "pinyinNumeric": "gan1",
+    "audioId": "audio-gan1"
   },
   {
     "id": "pinyin-gen1",
@@ -1716,7 +1882,8 @@
     "syllableBase": "gen",
     "toneNumber": 1,
     "pinyin": "gēn",
-    "pinyinNumeric": "gen1"
+    "pinyinNumeric": "gen1",
+    "audioId": "audio-gen1"
   },
   {
     "id": "pinyin-gang1",
@@ -1726,7 +1893,8 @@
     "syllableBase": "gang",
     "toneNumber": 1,
     "pinyin": "gāng",
-    "pinyinNumeric": "gang1"
+    "pinyinNumeric": "gang1",
+    "audioId": "audio-gang1"
   },
   {
     "id": "pinyin-geng1",
@@ -1736,7 +1904,8 @@
     "syllableBase": "geng",
     "toneNumber": 1,
     "pinyin": "gēng",
-    "pinyinNumeric": "geng1"
+    "pinyinNumeric": "geng1",
+    "audioId": "audio-geng1"
   },
   {
     "id": "pinyin-gong1",
@@ -1746,7 +1915,8 @@
     "syllableBase": "gong",
     "toneNumber": 1,
     "pinyin": "gōng",
-    "pinyinNumeric": "gong1"
+    "pinyinNumeric": "gong1",
+    "audioId": "audio-gong1"
   },
   {
     "id": "pinyin-gu1",
@@ -1756,7 +1926,8 @@
     "syllableBase": "gu",
     "toneNumber": 1,
     "pinyin": "gū",
-    "pinyinNumeric": "gu1"
+    "pinyinNumeric": "gu1",
+    "audioId": "audio-gu1"
   },
   {
     "id": "pinyin-gua1",
@@ -1766,7 +1937,8 @@
     "syllableBase": "gua",
     "toneNumber": 1,
     "pinyin": "guā",
-    "pinyinNumeric": "gua1"
+    "pinyinNumeric": "gua1",
+    "audioId": "audio-gua1"
   },
   {
     "id": "pinyin-guo1",
@@ -1776,7 +1948,8 @@
     "syllableBase": "guo",
     "toneNumber": 1,
     "pinyin": "guō",
-    "pinyinNumeric": "guo1"
+    "pinyinNumeric": "guo1",
+    "audioId": "audio-guo1"
   },
   {
     "id": "pinyin-guai1",
@@ -1786,7 +1959,8 @@
     "syllableBase": "guai",
     "toneNumber": 1,
     "pinyin": "guāi",
-    "pinyinNumeric": "guai1"
+    "pinyinNumeric": "guai1",
+    "audioId": "audio-guai1"
   },
   {
     "id": "pinyin-gui1",
@@ -1796,7 +1970,8 @@
     "syllableBase": "gui",
     "toneNumber": 1,
     "pinyin": "guī",
-    "pinyinNumeric": "gui1"
+    "pinyinNumeric": "gui1",
+    "audioId": "audio-gui1"
   },
   {
     "id": "pinyin-guan1",
@@ -1806,7 +1981,8 @@
     "syllableBase": "guan",
     "toneNumber": 1,
     "pinyin": "guān",
-    "pinyinNumeric": "guan1"
+    "pinyinNumeric": "guan1",
+    "audioId": "audio-guan1"
   },
   {
     "id": "pinyin-gun1",
@@ -1816,7 +1992,8 @@
     "syllableBase": "gun",
     "toneNumber": 1,
     "pinyin": "gūn",
-    "pinyinNumeric": "gun1"
+    "pinyinNumeric": "gun1",
+    "audioId": "audio-gun1"
   },
   {
     "id": "pinyin-guang1",
@@ -1826,7 +2003,8 @@
     "syllableBase": "guang",
     "toneNumber": 1,
     "pinyin": "guāng",
-    "pinyinNumeric": "guang1"
+    "pinyinNumeric": "guang1",
+    "audioId": "audio-guang1"
   },
   {
     "id": "pinyin-ka1",
@@ -1836,7 +2014,8 @@
     "syllableBase": "ka",
     "toneNumber": 1,
     "pinyin": "kā",
-    "pinyinNumeric": "ka1"
+    "pinyinNumeric": "ka1",
+    "audioId": "audio-ka1"
   },
   {
     "id": "pinyin-ke1",
@@ -1846,7 +2025,8 @@
     "syllableBase": "ke",
     "toneNumber": 1,
     "pinyin": "kē",
-    "pinyinNumeric": "ke1"
+    "pinyinNumeric": "ke1",
+    "audioId": "audio-ke1"
   },
   {
     "id": "pinyin-kai1",
@@ -1856,7 +2036,8 @@
     "syllableBase": "kai",
     "toneNumber": 1,
     "pinyin": "kāi",
-    "pinyinNumeric": "kai1"
+    "pinyinNumeric": "kai1",
+    "audioId": "audio-kai1"
   },
   {
     "id": "pinyin-kao1",
@@ -1866,7 +2047,8 @@
     "syllableBase": "kao",
     "toneNumber": 1,
     "pinyin": "kāo",
-    "pinyinNumeric": "kao1"
+    "pinyinNumeric": "kao1",
+    "audioId": "audio-kao1"
   },
   {
     "id": "pinyin-kou1",
@@ -1876,7 +2058,8 @@
     "syllableBase": "kou",
     "toneNumber": 1,
     "pinyin": "kōu",
-    "pinyinNumeric": "kou1"
+    "pinyinNumeric": "kou1",
+    "audioId": "audio-kou1"
   },
   {
     "id": "pinyin-kan1",
@@ -1886,7 +2069,8 @@
     "syllableBase": "kan",
     "toneNumber": 1,
     "pinyin": "kān",
-    "pinyinNumeric": "kan1"
+    "pinyinNumeric": "kan1",
+    "audioId": "audio-kan1"
   },
   {
     "id": "pinyin-ken1",
@@ -1896,7 +2080,8 @@
     "syllableBase": "ken",
     "toneNumber": 1,
     "pinyin": "kēn",
-    "pinyinNumeric": "ken1"
+    "pinyinNumeric": "ken1",
+    "audioId": "audio-ken1"
   },
   {
     "id": "pinyin-kang1",
@@ -1906,7 +2091,8 @@
     "syllableBase": "kang",
     "toneNumber": 1,
     "pinyin": "kāng",
-    "pinyinNumeric": "kang1"
+    "pinyinNumeric": "kang1",
+    "audioId": "audio-kang1"
   },
   {
     "id": "pinyin-keng1",
@@ -1916,7 +2102,8 @@
     "syllableBase": "keng",
     "toneNumber": 1,
     "pinyin": "kēng",
-    "pinyinNumeric": "keng1"
+    "pinyinNumeric": "keng1",
+    "audioId": "audio-keng1"
   },
   {
     "id": "pinyin-kong1",
@@ -1926,7 +2113,8 @@
     "syllableBase": "kong",
     "toneNumber": 1,
     "pinyin": "kōng",
-    "pinyinNumeric": "kong1"
+    "pinyinNumeric": "kong1",
+    "audioId": "audio-kong1"
   },
   {
     "id": "pinyin-ku1",
@@ -1936,7 +2124,8 @@
     "syllableBase": "ku",
     "toneNumber": 1,
     "pinyin": "kū",
-    "pinyinNumeric": "ku1"
+    "pinyinNumeric": "ku1",
+    "audioId": "audio-ku1"
   },
   {
     "id": "pinyin-kua1",
@@ -1946,7 +2135,8 @@
     "syllableBase": "kua",
     "toneNumber": 1,
     "pinyin": "kuā",
-    "pinyinNumeric": "kua1"
+    "pinyinNumeric": "kua1",
+    "audioId": "audio-kua1"
   },
   {
     "id": "pinyin-kuo1",
@@ -1956,7 +2146,8 @@
     "syllableBase": "kuo",
     "toneNumber": 1,
     "pinyin": "kuō",
-    "pinyinNumeric": "kuo1"
+    "pinyinNumeric": "kuo1",
+    "audioId": "audio-kuo1"
   },
   {
     "id": "pinyin-kuai1",
@@ -1966,7 +2157,8 @@
     "syllableBase": "kuai",
     "toneNumber": 1,
     "pinyin": "kuāi",
-    "pinyinNumeric": "kuai1"
+    "pinyinNumeric": "kuai1",
+    "audioId": "audio-kuai1"
   },
   {
     "id": "pinyin-kui1",
@@ -1976,7 +2168,8 @@
     "syllableBase": "kui",
     "toneNumber": 1,
     "pinyin": "kuī",
-    "pinyinNumeric": "kui1"
+    "pinyinNumeric": "kui1",
+    "audioId": "audio-kui1"
   },
   {
     "id": "pinyin-kuan1",
@@ -1986,7 +2179,8 @@
     "syllableBase": "kuan",
     "toneNumber": 1,
     "pinyin": "kuān",
-    "pinyinNumeric": "kuan1"
+    "pinyinNumeric": "kuan1",
+    "audioId": "audio-kuan1"
   },
   {
     "id": "pinyin-kun1",
@@ -1996,7 +2190,8 @@
     "syllableBase": "kun",
     "toneNumber": 1,
     "pinyin": "kūn",
-    "pinyinNumeric": "kun1"
+    "pinyinNumeric": "kun1",
+    "audioId": "audio-kun1"
   },
   {
     "id": "pinyin-kuang1",
@@ -2006,7 +2201,8 @@
     "syllableBase": "kuang",
     "toneNumber": 1,
     "pinyin": "kuāng",
-    "pinyinNumeric": "kuang1"
+    "pinyinNumeric": "kuang1",
+    "audioId": "audio-kuang1"
   },
   {
     "id": "pinyin-ha1",
@@ -2016,7 +2212,8 @@
     "syllableBase": "ha",
     "toneNumber": 1,
     "pinyin": "hā",
-    "pinyinNumeric": "ha1"
+    "pinyinNumeric": "ha1",
+    "audioId": "audio-ha1"
   },
   {
     "id": "pinyin-he1",
@@ -2026,7 +2223,8 @@
     "syllableBase": "he",
     "toneNumber": 1,
     "pinyin": "hē",
-    "pinyinNumeric": "he1"
+    "pinyinNumeric": "he1",
+    "audioId": "audio-he1"
   },
   {
     "id": "pinyin-hai1",
@@ -2036,7 +2234,8 @@
     "syllableBase": "hai",
     "toneNumber": 1,
     "pinyin": "hāi",
-    "pinyinNumeric": "hai1"
+    "pinyinNumeric": "hai1",
+    "audioId": "audio-hai1"
   },
   {
     "id": "pinyin-hei1",
@@ -2046,7 +2245,8 @@
     "syllableBase": "hei",
     "toneNumber": 1,
     "pinyin": "hēi",
-    "pinyinNumeric": "hei1"
+    "pinyinNumeric": "hei1",
+    "audioId": "audio-hei1"
   },
   {
     "id": "pinyin-hao1",
@@ -2061,7 +2261,8 @@
     "traditional": "蒿",
     "definitions": [
       "mugwort"
-    ]
+    ],
+    "audioId": "audio-hao1"
   },
   {
     "id": "pinyin-hao2",
@@ -2076,7 +2277,8 @@
     "traditional": "毫",
     "definitions": [
       "a tenth of a unit; extremely small amount"
-    ]
+    ],
+    "audioId": "audio-hao2"
   },
   {
     "id": "pinyin-hao3",
@@ -2092,7 +2294,8 @@
     "definitions": [
       "good",
       "well"
-    ]
+    ],
+    "audioId": "audio-hao3"
   },
   {
     "id": "pinyin-hao4",
@@ -2108,7 +2311,8 @@
     "definitions": [
       "number",
       "day of the month"
-    ]
+    ],
+    "audioId": "audio-hao4"
   },
   {
     "id": "pinyin-hou1",
@@ -2118,7 +2322,8 @@
     "syllableBase": "hou",
     "toneNumber": 1,
     "pinyin": "hōu",
-    "pinyinNumeric": "hou1"
+    "pinyinNumeric": "hou1",
+    "audioId": "audio-hou1"
   },
   {
     "id": "pinyin-han1",
@@ -2128,7 +2333,8 @@
     "syllableBase": "han",
     "toneNumber": 1,
     "pinyin": "hān",
-    "pinyinNumeric": "han1"
+    "pinyinNumeric": "han1",
+    "audioId": "audio-han1"
   },
   {
     "id": "pinyin-hen1",
@@ -2138,7 +2344,8 @@
     "syllableBase": "hen",
     "toneNumber": 1,
     "pinyin": "hēn",
-    "pinyinNumeric": "hen1"
+    "pinyinNumeric": "hen1",
+    "audioId": "audio-hen1"
   },
   {
     "id": "pinyin-hang1",
@@ -2148,7 +2355,8 @@
     "syllableBase": "hang",
     "toneNumber": 1,
     "pinyin": "hāng",
-    "pinyinNumeric": "hang1"
+    "pinyinNumeric": "hang1",
+    "audioId": "audio-hang1"
   },
   {
     "id": "pinyin-heng1",
@@ -2158,7 +2366,8 @@
     "syllableBase": "heng",
     "toneNumber": 1,
     "pinyin": "hēng",
-    "pinyinNumeric": "heng1"
+    "pinyinNumeric": "heng1",
+    "audioId": "audio-heng1"
   },
   {
     "id": "pinyin-hong1",
@@ -2168,7 +2377,8 @@
     "syllableBase": "hong",
     "toneNumber": 1,
     "pinyin": "hōng",
-    "pinyinNumeric": "hong1"
+    "pinyinNumeric": "hong1",
+    "audioId": "audio-hong1"
   },
   {
     "id": "pinyin-hu1",
@@ -2184,7 +2394,8 @@
     "definitions": [
       "to exhale",
       "to shout"
-    ]
+    ],
+    "audioId": "audio-hu1"
   },
   {
     "id": "pinyin-hu2",
@@ -2199,7 +2410,8 @@
     "traditional": "湖",
     "definitions": [
       "lake"
-    ]
+    ],
+    "audioId": "audio-hu2"
   },
   {
     "id": "pinyin-hu3",
@@ -2214,7 +2426,8 @@
     "traditional": "虎",
     "definitions": [
       "tiger"
-    ]
+    ],
+    "audioId": "audio-hu3"
   },
   {
     "id": "pinyin-hu4",
@@ -2230,7 +2443,8 @@
     "definitions": [
       "door",
       "household"
-    ]
+    ],
+    "audioId": "audio-hu4"
   },
   {
     "id": "pinyin-hua1",
@@ -2240,7 +2454,8 @@
     "syllableBase": "hua",
     "toneNumber": 1,
     "pinyin": "huā",
-    "pinyinNumeric": "hua1"
+    "pinyinNumeric": "hua1",
+    "audioId": "audio-hua1"
   },
   {
     "id": "pinyin-huo1",
@@ -2250,7 +2465,8 @@
     "syllableBase": "huo",
     "toneNumber": 1,
     "pinyin": "huō",
-    "pinyinNumeric": "huo1"
+    "pinyinNumeric": "huo1",
+    "audioId": "audio-huo1"
   },
   {
     "id": "pinyin-huai1",
@@ -2260,7 +2476,8 @@
     "syllableBase": "huai",
     "toneNumber": 1,
     "pinyin": "huāi",
-    "pinyinNumeric": "huai1"
+    "pinyinNumeric": "huai1",
+    "audioId": "audio-huai1"
   },
   {
     "id": "pinyin-hui1",
@@ -2270,7 +2487,8 @@
     "syllableBase": "hui",
     "toneNumber": 1,
     "pinyin": "huī",
-    "pinyinNumeric": "hui1"
+    "pinyinNumeric": "hui1",
+    "audioId": "audio-hui1"
   },
   {
     "id": "pinyin-huan1",
@@ -2280,7 +2498,8 @@
     "syllableBase": "huan",
     "toneNumber": 1,
     "pinyin": "huān",
-    "pinyinNumeric": "huan1"
+    "pinyinNumeric": "huan1",
+    "audioId": "audio-huan1"
   },
   {
     "id": "pinyin-hun1",
@@ -2290,7 +2509,8 @@
     "syllableBase": "hun",
     "toneNumber": 1,
     "pinyin": "hūn",
-    "pinyinNumeric": "hun1"
+    "pinyinNumeric": "hun1",
+    "audioId": "audio-hun1"
   },
   {
     "id": "pinyin-huang1",
@@ -2300,6 +2520,7 @@
     "syllableBase": "huang",
     "toneNumber": 1,
     "pinyin": "huāng",
-    "pinyinNumeric": "huang1"
+    "pinyinNumeric": "huang1",
+    "audioId": "audio-huang1"
   }
 ]

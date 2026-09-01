@@ -55,6 +55,25 @@ Then set `"audioId": "audio-ma1"` on the matching entry in the module's data
 file. No file yet? Leave `audioId` unset — the play button just shows as
 disabled until it's added.
 
+### Pinyin audio is already wired up
+
+`public/audio/pinyin/` and `src/data/audio/audio-assets.json` are populated
+from [davinfifield/mp3-chinese-pinyin-sound](https://github.com/davinfifield/mp3-chinese-pinyin-sound)
+(public domain, Unlicense) — its filenames already match our `pinyinNumeric`
+convention (`{syllable}{tone}.mp3`), and `generate-pinyin-data.mjs` assigns
+every syllable an `audioId` on that same convention automatically. 210 of
+our 221 current syllables have a recording; the rest (a handful of rare
+syllables like lüe/nüe) just show a disabled play button.
+
+To (re)fetch audio for whatever's currently in `syllables.json`:
+
+```bash
+node scripts/fetch-pinyin-audio.mjs
+```
+
+Safe to re-run after extending coverage (see below) — it only downloads what
+that source actually has and rewrites `audio-assets.json` to match.
+
 ## Extending the pinyin chart
 
 `scripts/generate-pinyin-data.mjs` generates
@@ -65,4 +84,18 @@ table and re-run:
 
 ```bash
 node scripts/generate-pinyin-data.mjs
+node scripts/fetch-pinyin-audio.mjs
 ```
+
+## Other data sources worth knowing about
+
+Found while looking for audio, kept here for when they become relevant:
+
+- [xiaohk/pinyin_data](https://github.com/xiaohk/pinyin_data) — hanzi → pinyin
+  readings for ~41,000 characters (Unicode Unihan data), including multiple
+  readings ranked by frequency and some polyphone/context data. No audio.
+  Good candidate source when building out the Hanzi/HSK modules.
+- [digglesby/plain-pinyin](https://github.com/digglesby/plain-pinyin) — a
+  similar interactive-pinyin-chart-plus-quizzes project (also Next.js); it's
+  where the davinfifield audio credit above was traced from. Useful as prior
+  art, not a data source we depend on.
