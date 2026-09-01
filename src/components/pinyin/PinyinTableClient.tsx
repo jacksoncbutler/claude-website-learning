@@ -126,13 +126,17 @@ export function PinyinTableClient({ items, initials, finals, validBases }: Pinyi
             );
           }
           if (mode === 'explore') {
+            // Toneless base, not item.pinyin — showing a specific tone's
+            // spelling here would wrongly suggest that tone is "the" answer,
+            // when the button's whole point is to reveal all of them.
             return (
               <button
                 type="button"
                 onClick={() => setPopupBase(item.syllableBase)}
                 className="font-medium text-neutral-900 hover:text-brand-600"
+                aria-label={`Show all tones for ${item.syllableBase}`}
               >
-                {item.pinyin}
+                {item.syllableBase}
               </button>
             );
           }
