@@ -1,6 +1,6 @@
 'use client';
 
-import { useRef, useState } from 'react';
+import { useState } from 'react';
 
 export interface AudioButtonProps {
   /** Resolved audio source, from lib/content/loaders#resolveAudioSrc. */
@@ -16,12 +16,19 @@ export interface AudioButtonProps {
 /**
  * Plays a pronunciation clip on click. Degrades gracefully to a disabled
  * button whenever audio isn't available yet (no id, unknown id, or file
- * missing on disk) — never a broken play control. `onError` on the
- * underlying <audio> element is a second line of defense in case a file
- * that existed at request time is gone by the time it's actually fetched.
+ * missing on disk) — never a broken play control.
+ *
+ * Deliberately does NOT keep a persistent <audio> element mounted per
+ * button. This table/flashcard/quiz UI can render hundreds of these at
+ * once (e.g. a full tone-view of the pinyin chart), and mounting hundreds
+ * of real <audio> elements simultaneously is exactly the kind of thing
+ * mobile Safari forcibly reloads the tab over once it hits its concurrent
+ * media-element limit — which is what happened here once most syllables
+ * had real audio and thus a rendered <audio> in every cell. Instead, a
+ * fresh Audio() is created only at the moment of playback and left to be
+ * garbage-collected afterwards, so the DOM never accumulates them.
  */
 export function AudioButton({ src, available, label = 'Play pronunciation', className = '', onPlay }: AudioButtonProps) {
-  const audioRef = useRef<HTMLAudioElement | null>(null);
   const [errored, setErrored] = useState(false);
   const canPlay = available && !errored;
 
@@ -29,11 +36,11 @@ export function AudioButton({ src, available, label = 'Play pronunciation', clas
     // Stop the click from bubbling — this button is often nested inside a
     // larger clickable area (e.g. a flashcard's flip toggle), and without
     // this, that parent handler fires on the same click, re-rendering (and
-    // unmounting this <audio> element mid-playback) before the sound plays.
+    // interrupting playback) before the sound plays.
     e.stopPropagation();
     if (!canPlay) return;
     onPlay?.();
-    audioRef.current?.play().catch(() => setErrored(true));
+    new Audio(src).play().catch(() => setErrored(true));
   }
 
   return (
@@ -53,7 +60,6 @@ export function AudioButton({ src, available, label = 'Play pronunciation', clas
       }
     >
       <span aria-hidden="true">{canPlay ? '🔊' : '🔇'}</span>
-      {canPlay && <audio ref={audioRef} src={src} preload="none" onError={() => setErrored(true)} />}
     </button>
   );
 }
