@@ -23,7 +23,12 @@ export function AudioButton({ src, available, label = 'Play pronunciation', clas
   const [errored, setErrored] = useState(false);
   const canPlay = available && !errored;
 
-  function handleClick() {
+  function handleClick(e: React.MouseEvent) {
+    // Stop the click from bubbling — this button is often nested inside a
+    // larger clickable area (e.g. a flashcard's flip toggle), and without
+    // this, that parent handler fires on the same click, re-rendering (and
+    // unmounting this <audio> element mid-playback) before the sound plays.
+    e.stopPropagation();
     if (!canPlay) return;
     audioRef.current?.play().catch(() => setErrored(true));
   }
@@ -32,6 +37,7 @@ export function AudioButton({ src, available, label = 'Play pronunciation', clas
     <button
       type="button"
       onClick={handleClick}
+      onKeyDown={(e) => e.stopPropagation()}
       disabled={!canPlay}
       aria-label={label}
       title={canPlay ? label : 'Audio not available yet'}
