@@ -1,0 +1,170 @@
+[
+  {
+    "id": "proverb-001",
+    "hanzi": "千里之行，始于足下",
+    "pinyin": "Qiānlǐ zhī xíng, shǐ yú zúxià",
+    "translation": "A journey of a thousand miles begins with a single step.",
+    "source": "Dao De Jing"
+  },
+  {
+    "id": "proverb-002",
+    "hanzi": "熟能生巧",
+    "pinyin": "Shú néng shēng qiǎo",
+    "translation": "Practice makes perfect.",
+    "source": "Common proverb"
+  },
+  {
+    "id": "proverb-003",
+    "hanzi": "活到老，学到老",
+    "pinyin": "Huó dào lǎo, xué dào lǎo",
+    "translation": "Live until old, learn until old — you're never too old to learn.",
+    "source": "Common proverb"
+  },
+  {
+    "id": "proverb-004",
+    "hanzi": "一分耕耘，一分收获",
+    "pinyin": "Yī fēn gēngyún, yī fēn shōuhuò",
+    "translation": "One part of effort, one part of harvest — you reap what you sow.",
+    "source": "Common proverb"
+  },
+  {
+    "id": "proverb-005",
+    "hanzi": "百闻不如一见",
+    "pinyin": "Bǎi wén bù rú yī jiàn",
+    "translation": "Hearing about something a hundred times is not as good as seeing it once.",
+    "source": "Han shu"
+  },
+  {
+    "id": "proverb-006",
+    "hanzi": "有志者事竟成",
+    "pinyin": "Yǒu zhì zhě shì jìng chéng",
+    "translation": "Where there's a will, there's a way.",
+    "source": "Book of the Later Han"
+  },
+  {
+    "id": "proverb-007",
+    "hanzi": "失败是成功之母",
+    "pinyin": "Shībài shì chénggōng zhī mǔ",
+    "translation": "Failure is the mother of success.",
+    "source": "Common proverb"
+  },
+  {
+    "id": "proverb-008",
+    "hanzi": "滴水穿石",
+    "pinyin": "Dī shuǐ chuān shí",
+    "translation": "Dripping water pierces stone — persistence overcomes obstacles.",
+    "source": "Chengyu"
+  },
+  {
+    "id": "proverb-009",
+    "hanzi": "画蛇添足",
+    "pinyin": "Huà shé tiān zú",
+    "translation": "Drawing a snake and adding feet — to ruin something by overdoing it.",
+    "source": "Chengyu"
+  },
+  {
+    "id": "proverb-010",
+    "hanzi": "亡羊补牢",
+    "pinyin": "Wáng yáng bǔ láo",
+    "translation": "Mend the pen after the sheep is lost — better late than never.",
+    "source": "Chengyu"
+  },
+  {
+    "id": "proverb-011",
+    "hanzi": "入乡随俗",
+    "pinyin": "Rù xiāng suí sú",
+    "translation": "When entering a village, follow its customs — when in Rome, do as the Romans do.",
+    "source": "Chengyu"
+  },
+  {
+    "id": "proverb-012",
+    "hanzi": "对牛弹琴",
+    "pinyin": "Duì niú tán qín",
+    "translation": "Playing the lute to a cow — wasting effort explaining to someone who won't understand.",
+    "source": "Chengyu"
+  },
+  {
+    "id": "proverb-013",
+    "hanzi": "塞翁失马，焉知非福",
+    "pinyin": "Sàiwēng shī mǎ, yān zhī fēi fú",
+    "translation": "The old man lost his horse, but who knows if it isn't a blessing — a setback may be a blessing in disguise.",
+    "source": "Huainanzi"
+  },
+  {
+    "id": "proverb-014",
+    "hanzi": "读万卷书，行万里路",
+    "pinyin": "Dú wàn juàn shū, xíng wàn lǐ lù",
+    "translation": "Read ten thousand books, travel ten thousand miles.",
+    "source": "Common proverb"
+  },
+  {
+    "id": "proverb-015",
+    "hanzi": "不入虎穴，焉得虎子",
+    "pinyin": "Bù rù hǔ xué, yān dé hǔ zǐ",
+    "translation": "If you don't enter the tiger's den, how can you get its cubs — nothing ventured, nothing gained.",
+    "source": "Book of the Later Han"
+  },
+  {
+    "id": "proverb-016",
+    "hanzi": "三人行，必有我师焉",
+    "pinyin": "Sān rén xíng, bì yǒu wǒ shī yān",
+    "translation": "Among any three people walking together, one can surely be my teacher.",
+    "source": "Analects of Confucius"
+  },
+  {
+    "id": "proverb-017",
+    "hanzi": "欲速则不达",
+    "pinyin": "Yù sù zé bù dá",
+    "translation": "More haste, less speed.",
+    "source": "Analects of Confucius"
+  },
+  {
+    "id": "proverb-018",
+    "hanzi": "近朱者赤，近墨者黑",
+    "pinyin": "Jìn zhū zhě chì, jìn mò zhě hēi",
+    "translation": "Near vermilion, one turns red; near ink, one turns black — you become like those around you.",
+    "source": "Chengyu"
+  },
+  {
+    "id": "proverb-019",
+    "hanzi": "书到用时方恨少",
+    "pinyin": "Shū dào yòng shí fāng hèn shǎo",
+    "translation": "Only when you need to use your knowledge do you regret not having read more.",
+    "source": "Common proverb"
+  },
+  {
+    "id": "proverb-020",
+    "hanzi": "少壮不努力，老大徒伤悲",
+    "pinyin": "Shàozhuàng bù nǔlì, lǎodà tú shāngbēi",
+    "translation": "If you don't work hard while young, you'll only grieve in old age.",
+    "source": "Han Yuefu poem, Long Song Ballad"
+  },
+  {
+    "id": "proverb-021",
+    "hanzi": "笑一笑，十年少",
+    "pinyin": "Xiào yī xiào, shí nián shào",
+    "translation": "A smile makes you ten years younger.",
+    "source": "Common proverb"
+  },
+  {
+    "id": "proverb-022",
+    "hanzi": "知己知彼，百战不殆",
+    "pinyin": "Zhījǐ zhībǐ, bǎizhàn bùdài",
+    "translation": "Know yourself and know your enemy, and you will never be defeated.",
+    "source": "The Art of War"
+  },
+  {
+    "id": "proverb-023",
+    "hanzi": "工欲善其事，必先利其器",
+    "pinyin": "Gōng yù shàn qí shì, bì xiān lì qí qì",
+    "translation": "A craftsman who wishes to do good work must first sharpen his tools.",
+    "source": "Analects of Confucius"
+  },
+  {
+    "id": "proverb-024",
+    "hanzi": "冰冻三尺，非一日之寒",
+    "pinyin": "Bīngdòng sān chǐ, fēi yī rì zhī hán",
+    "translation": "Three feet of ice does not form in a single day — big problems build up over time.",
+    "source": "Chengyu"
+  }
+]

@@ -1,0 +1,2305 @@
+[
+  {
+    "id": "pinyin-ba1",
+    "kind": "pinyin-syllable",
+    "initial": "b",
+    "final": "a",
+    "syllableBase": "ba",
+    "toneNumber": 1,
+    "pinyin": "bā",
+    "pinyinNumeric": "ba1"
+  },
+  {
+    "id": "pinyin-bo1",
+    "kind": "pinyin-syllable",
+    "initial": "b",
+    "final": "o",
+    "syllableBase": "bo",
+    "toneNumber": 1,
+    "pinyin": "bō",
+    "pinyinNumeric": "bo1"
+  },
+  {
+    "id": "pinyin-bai1",
+    "kind": "pinyin-syllable",
+    "initial": "b",
+    "final": "ai",
+    "syllableBase": "bai",
+    "toneNumber": 1,
+    "pinyin": "bāi",
+    "pinyinNumeric": "bai1"
+  },
+  {
+    "id": "pinyin-bei1",
+    "kind": "pinyin-syllable",
+    "initial": "b",
+    "final": "ei",
+    "syllableBase": "bei",
+    "toneNumber": 1,
+    "pinyin": "bēi",
+    "pinyinNumeric": "bei1"
+  },
+  {
+    "id": "pinyin-bao1",
+    "kind": "pinyin-syllable",
+    "initial": "b",
+    "final": "ao",
+    "syllableBase": "bao",
+    "toneNumber": 1,
+    "pinyin": "bāo",
+    "pinyinNumeric": "bao1"
+  },
+  {
+    "id": "pinyin-ban1",
+    "kind": "pinyin-syllable",
+    "initial": "b",
+    "final": "an",
+    "syllableBase": "ban",
+    "toneNumber": 1,
+    "pinyin": "bān",
+    "pinyinNumeric": "ban1"
+  },
+  {
+    "id": "pinyin-ben1",
+    "kind": "pinyin-syllable",
+    "initial": "b",
+    "final": "en",
+    "syllableBase": "ben",
+    "toneNumber": 1,
+    "pinyin": "bēn",
+    "pinyinNumeric": "ben1"
+  },
+  {
+    "id": "pinyin-bang1",
+    "kind": "pinyin-syllable",
+    "initial": "b",
+    "final": "ang",
+    "syllableBase": "bang",
+    "toneNumber": 1,
+    "pinyin": "bāng",
+    "pinyinNumeric": "bang1"
+  },
+  {
+    "id": "pinyin-beng1",
+    "kind": "pinyin-syllable",
+    "initial": "b",
+    "final": "eng",
+    "syllableBase": "beng",
+    "toneNumber": 1,
+    "pinyin": "bēng",
+    "pinyinNumeric": "beng1"
+  },
+  {
+    "id": "pinyin-bi1",
+    "kind": "pinyin-syllable",
+    "initial": "b",
+    "final": "i",
+    "syllableBase": "bi",
+    "toneNumber": 1,
+    "pinyin": "bī",
+    "pinyinNumeric": "bi1"
+  },
+  {
+    "id": "pinyin-bie1",
+    "kind": "pinyin-syllable",
+    "initial": "b",
+    "final": "ie",
+    "syllableBase": "bie",
+    "toneNumber": 1,
+    "pinyin": "biē",
+    "pinyinNumeric": "bie1"
+  },
+  {
+    "id": "pinyin-biao1",
+    "kind": "pinyin-syllable",
+    "initial": "b",
+    "final": "iao",
+    "syllableBase": "biao",
+    "toneNumber": 1,
+    "pinyin": "biāo",
+    "pinyinNumeric": "biao1"
+  },
+  {
+    "id": "pinyin-bian1",
+    "kind": "pinyin-syllable",
+    "initial": "b",
+    "final": "ian",
+    "syllableBase": "bian",
+    "toneNumber": 1,
+    "pinyin": "biān",
+    "pinyinNumeric": "bian1"
+  },
+  {
+    "id": "pinyin-bin1",
+    "kind": "pinyin-syllable",
+    "initial": "b",
+    "final": "in",
+    "syllableBase": "bin",
+    "toneNumber": 1,
+    "pinyin": "bīn",
+    "pinyinNumeric": "bin1"
+  },
+  {
+    "id": "pinyin-bing1",
+    "kind": "pinyin-syllable",
+    "initial": "b",
+    "final": "ing",
+    "syllableBase": "bing",
+    "toneNumber": 1,
+    "pinyin": "bīng",
+    "pinyinNumeric": "bing1"
+  },
+  {
+    "id": "pinyin-bu1",
+    "kind": "pinyin-syllable",
+    "initial": "b",
+    "final": "u",
+    "syllableBase": "bu",
+    "toneNumber": 1,
+    "pinyin": "bū",
+    "pinyinNumeric": "bu1"
+  },
+  {
+    "id": "pinyin-pa1",
+    "kind": "pinyin-syllable",
+    "initial": "p",
+    "final": "a",
+    "syllableBase": "pa",
+    "toneNumber": 1,
+    "pinyin": "pā",
+    "pinyinNumeric": "pa1"
+  },
+  {
+    "id": "pinyin-po1",
+    "kind": "pinyin-syllable",
+    "initial": "p",
+    "final": "o",
+    "syllableBase": "po",
+    "toneNumber": 1,
+    "pinyin": "pō",
+    "pinyinNumeric": "po1"
+  },
+  {
+    "id": "pinyin-pai1",
+    "kind": "pinyin-syllable",
+    "initial": "p",
+    "final": "ai",
+    "syllableBase": "pai",
+    "toneNumber": 1,
+    "pinyin": "pāi",
+    "pinyinNumeric": "pai1"
+  },
+  {
+    "id": "pinyin-pei1",
+    "kind": "pinyin-syllable",
+    "initial": "p",
+    "final": "ei",
+    "syllableBase": "pei",
+    "toneNumber": 1,
+    "pinyin": "pēi",
+    "pinyinNumeric": "pei1"
+  },
+  {
+    "id": "pinyin-pao1",
+    "kind": "pinyin-syllable",
+    "initial": "p",
+    "final": "ao",
+    "syllableBase": "pao",
+    "toneNumber": 1,
+    "pinyin": "pāo",
+    "pinyinNumeric": "pao1"
+  },
+  {
+    "id": "pinyin-pou1",
+    "kind": "pinyin-syllable",
+    "initial": "p",
+    "final": "ou",
+    "syllableBase": "pou",
+    "toneNumber": 1,
+    "pinyin": "pōu",
+    "pinyinNumeric": "pou1"
+  },
+  {
+    "id": "pinyin-pan1",
+    "kind": "pinyin-syllable",
+    "initial": "p",
+    "final": "an",
+    "syllableBase": "pan",
+    "toneNumber": 1,
+    "pinyin": "pān",
+    "pinyinNumeric": "pan1"
+  },
+  {
+    "id": "pinyin-pen1",
+    "kind": "pinyin-syllable",
+    "initial": "p",
+    "final": "en",
+    "syllableBase": "pen",
+    "toneNumber": 1,
+    "pinyin": "pēn",
+    "pinyinNumeric": "pen1"
+  },
+  {
+    "id": "pinyin-pang1",
+    "kind": "pinyin-syllable",
+    "initial": "p",
+    "final": "ang",
+    "syllableBase": "pang",
+    "toneNumber": 1,
+    "pinyin": "pāng",
+    "pinyinNumeric": "pang1"
+  },
+  {
+    "id": "pinyin-peng1",
+    "kind": "pinyin-syllable",
+    "initial": "p",
+    "final": "eng",
+    "syllableBase": "peng",
+    "toneNumber": 1,
+    "pinyin": "pēng",
+    "pinyinNumeric": "peng1"
+  },
+  {
+    "id": "pinyin-pi1",
+    "kind": "pinyin-syllable",
+    "initial": "p",
+    "final": "i",
+    "syllableBase": "pi",
+    "toneNumber": 1,
+    "pinyin": "pī",
+    "pinyinNumeric": "pi1"
+  },
+  {
+    "id": "pinyin-pie1",
+    "kind": "pinyin-syllable",
+    "initial": "p",
+    "final": "ie",
+    "syllableBase": "pie",
+    "toneNumber": 1,
+    "pinyin": "piē",
+    "pinyinNumeric": "pie1"
+  },
+  {
+    "id": "pinyin-piao1",
+    "kind": "pinyin-syllable",
+    "initial": "p",
+    "final": "iao",
+    "syllableBase": "piao",
+    "toneNumber": 1,
+    "pinyin": "piāo",
+    "pinyinNumeric": "piao1"
+  },
+  {
+    "id": "pinyin-pian1",
+    "kind": "pinyin-syllable",
+    "initial": "p",
+    "final": "ian",
+    "syllableBase": "pian",
+    "toneNumber": 1,
+    "pinyin": "piān",
+    "pinyinNumeric": "pian1"
+  },
+  {
+    "id": "pinyin-pin1",
+    "kind": "pinyin-syllable",
+    "initial": "p",
+    "final": "in",
+    "syllableBase": "pin",
+    "toneNumber": 1,
+    "pinyin": "pīn",
+    "pinyinNumeric": "pin1"
+  },
+  {
+    "id": "pinyin-ping1",
+    "kind": "pinyin-syllable",
+    "initial": "p",
+    "final": "ing",
+    "syllableBase": "ping",
+    "toneNumber": 1,
+    "pinyin": "pīng",
+    "pinyinNumeric": "ping1"
+  },
+  {
+    "id": "pinyin-pu1",
+    "kind": "pinyin-syllable",
+    "initial": "p",
+    "final": "u",
+    "syllableBase": "pu",
+    "toneNumber": 1,
+    "pinyin": "pū",
+    "pinyinNumeric": "pu1"
+  },
+  {
+    "id": "pinyin-ma1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "a",
+    "syllableBase": "ma",
+    "toneNumber": 1,
+    "pinyin": "mā",
+    "pinyinNumeric": "ma1",
+    "simplified": "妈",
+    "traditional": "媽",
+    "definitions": [
+      "mother"
+    ]
+  },
+  {
+    "id": "pinyin-ma2",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "a",
+    "syllableBase": "ma",
+    "toneNumber": 2,
+    "pinyin": "má",
+    "pinyinNumeric": "ma2",
+    "simplified": "麻",
+    "traditional": "麻",
+    "definitions": [
+      "hemp",
+      "numb"
+    ]
+  },
+  {
+    "id": "pinyin-ma3",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "a",
+    "syllableBase": "ma",
+    "toneNumber": 3,
+    "pinyin": "mǎ",
+    "pinyinNumeric": "ma3",
+    "simplified": "马",
+    "traditional": "馬",
+    "definitions": [
+      "horse"
+    ]
+  },
+  {
+    "id": "pinyin-ma4",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "a",
+    "syllableBase": "ma",
+    "toneNumber": 4,
+    "pinyin": "mà",
+    "pinyinNumeric": "ma4",
+    "simplified": "骂",
+    "traditional": "罵",
+    "definitions": [
+      "to scold"
+    ]
+  },
+  {
+    "id": "pinyin-ma5",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "a",
+    "syllableBase": "ma",
+    "toneNumber": 5,
+    "pinyin": "ma",
+    "pinyinNumeric": "ma5",
+    "simplified": "吗",
+    "traditional": "嗎",
+    "definitions": [
+      "(question particle)"
+    ]
+  },
+  {
+    "id": "pinyin-mo1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "o",
+    "syllableBase": "mo",
+    "toneNumber": 1,
+    "pinyin": "mō",
+    "pinyinNumeric": "mo1"
+  },
+  {
+    "id": "pinyin-me1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "e",
+    "syllableBase": "me",
+    "toneNumber": 1,
+    "pinyin": "mē",
+    "pinyinNumeric": "me1"
+  },
+  {
+    "id": "pinyin-mai1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "ai",
+    "syllableBase": "mai",
+    "toneNumber": 1,
+    "pinyin": "māi",
+    "pinyinNumeric": "mai1"
+  },
+  {
+    "id": "pinyin-mei1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "ei",
+    "syllableBase": "mei",
+    "toneNumber": 1,
+    "pinyin": "mēi",
+    "pinyinNumeric": "mei1"
+  },
+  {
+    "id": "pinyin-mao1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "ao",
+    "syllableBase": "mao",
+    "toneNumber": 1,
+    "pinyin": "māo",
+    "pinyinNumeric": "mao1"
+  },
+  {
+    "id": "pinyin-mou1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "ou",
+    "syllableBase": "mou",
+    "toneNumber": 1,
+    "pinyin": "mōu",
+    "pinyinNumeric": "mou1"
+  },
+  {
+    "id": "pinyin-man1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "an",
+    "syllableBase": "man",
+    "toneNumber": 1,
+    "pinyin": "mān",
+    "pinyinNumeric": "man1"
+  },
+  {
+    "id": "pinyin-men1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "en",
+    "syllableBase": "men",
+    "toneNumber": 1,
+    "pinyin": "mēn",
+    "pinyinNumeric": "men1"
+  },
+  {
+    "id": "pinyin-mang1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "ang",
+    "syllableBase": "mang",
+    "toneNumber": 1,
+    "pinyin": "māng",
+    "pinyinNumeric": "mang1"
+  },
+  {
+    "id": "pinyin-meng1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "eng",
+    "syllableBase": "meng",
+    "toneNumber": 1,
+    "pinyin": "mēng",
+    "pinyinNumeric": "meng1"
+  },
+  {
+    "id": "pinyin-mi1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "i",
+    "syllableBase": "mi",
+    "toneNumber": 1,
+    "pinyin": "mī",
+    "pinyinNumeric": "mi1"
+  },
+  {
+    "id": "pinyin-mie1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "ie",
+    "syllableBase": "mie",
+    "toneNumber": 1,
+    "pinyin": "miē",
+    "pinyinNumeric": "mie1"
+  },
+  {
+    "id": "pinyin-miao1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "iao",
+    "syllableBase": "miao",
+    "toneNumber": 1,
+    "pinyin": "miāo",
+    "pinyinNumeric": "miao1"
+  },
+  {
+    "id": "pinyin-miu1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "iu",
+    "syllableBase": "miu",
+    "toneNumber": 1,
+    "pinyin": "miū",
+    "pinyinNumeric": "miu1"
+  },
+  {
+    "id": "pinyin-mian1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "ian",
+    "syllableBase": "mian",
+    "toneNumber": 1,
+    "pinyin": "miān",
+    "pinyinNumeric": "mian1"
+  },
+  {
+    "id": "pinyin-min1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "in",
+    "syllableBase": "min",
+    "toneNumber": 1,
+    "pinyin": "mīn",
+    "pinyinNumeric": "min1"
+  },
+  {
+    "id": "pinyin-ming1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "ing",
+    "syllableBase": "ming",
+    "toneNumber": 1,
+    "pinyin": "mīng",
+    "pinyinNumeric": "ming1"
+  },
+  {
+    "id": "pinyin-mu1",
+    "kind": "pinyin-syllable",
+    "initial": "m",
+    "final": "u",
+    "syllableBase": "mu",
+    "toneNumber": 1,
+    "pinyin": "mū",
+    "pinyinNumeric": "mu1"
+  },
+  {
+    "id": "pinyin-fa1",
+    "kind": "pinyin-syllable",
+    "initial": "f",
+    "final": "a",
+    "syllableBase": "fa",
+    "toneNumber": 1,
+    "pinyin": "fā",
+    "pinyinNumeric": "fa1",
+    "simplified": "发",
+    "traditional": "發",
+    "definitions": [
+      "to send out",
+      "to occur"
+    ]
+  },
+  {
+    "id": "pinyin-fa2",
+    "kind": "pinyin-syllable",
+    "initial": "f",
+    "final": "a",
+    "syllableBase": "fa",
+    "toneNumber": 2,
+    "pinyin": "fá",
+    "pinyinNumeric": "fa2",
+    "simplified": "罚",
+    "traditional": "罰",
+    "definitions": [
+      "to punish",
+      "lacking"
+    ]
+  },
+  {
+    "id": "pinyin-fa3",
+    "kind": "pinyin-syllable",
+    "initial": "f",
+    "final": "a",
+    "syllableBase": "fa",
+    "toneNumber": 3,
+    "pinyin": "fǎ",
+    "pinyinNumeric": "fa3",
+    "simplified": "法",
+    "traditional": "法",
+    "definitions": [
+      "law",
+      "method"
+    ]
+  },
+  {
+    "id": "pinyin-fa4",
+    "kind": "pinyin-syllable",
+    "initial": "f",
+    "final": "a",
+    "syllableBase": "fa",
+    "toneNumber": 4,
+    "pinyin": "fà",
+    "pinyinNumeric": "fa4",
+    "simplified": "发",
+    "traditional": "髮",
+    "definitions": [
+      "hair"
+    ]
+  },
+  {
+    "id": "pinyin-fo1",
+    "kind": "pinyin-syllable",
+    "initial": "f",
+    "final": "o",
+    "syllableBase": "fo",
+    "toneNumber": 1,
+    "pinyin": "fō",
+    "pinyinNumeric": "fo1"
+  },
+  {
+    "id": "pinyin-fei1",
+    "kind": "pinyin-syllable",
+    "initial": "f",
+    "final": "ei",
+    "syllableBase": "fei",
+    "toneNumber": 1,
+    "pinyin": "fēi",
+    "pinyinNumeric": "fei1"
+  },
+  {
+    "id": "pinyin-fou1",
+    "kind": "pinyin-syllable",
+    "initial": "f",
+    "final": "ou",
+    "syllableBase": "fou",
+    "toneNumber": 1,
+    "pinyin": "fōu",
+    "pinyinNumeric": "fou1"
+  },
+  {
+    "id": "pinyin-fan1",
+    "kind": "pinyin-syllable",
+    "initial": "f",
+    "final": "an",
+    "syllableBase": "fan",
+    "toneNumber": 1,
+    "pinyin": "fān",
+    "pinyinNumeric": "fan1"
+  },
+  {
+    "id": "pinyin-fen1",
+    "kind": "pinyin-syllable",
+    "initial": "f",
+    "final": "en",
+    "syllableBase": "fen",
+    "toneNumber": 1,
+    "pinyin": "fēn",
+    "pinyinNumeric": "fen1"
+  },
+  {
+    "id": "pinyin-fang1",
+    "kind": "pinyin-syllable",
+    "initial": "f",
+    "final": "ang",
+    "syllableBase": "fang",
+    "toneNumber": 1,
+    "pinyin": "fāng",
+    "pinyinNumeric": "fang1"
+  },
+  {
+    "id": "pinyin-feng1",
+    "kind": "pinyin-syllable",
+    "initial": "f",
+    "final": "eng",
+    "syllableBase": "feng",
+    "toneNumber": 1,
+    "pinyin": "fēng",
+    "pinyinNumeric": "feng1"
+  },
+  {
+    "id": "pinyin-fu1",
+    "kind": "pinyin-syllable",
+    "initial": "f",
+    "final": "u",
+    "syllableBase": "fu",
+    "toneNumber": 1,
+    "pinyin": "fū",
+    "pinyinNumeric": "fu1"
+  },
+  {
+    "id": "pinyin-da1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "a",
+    "syllableBase": "da",
+    "toneNumber": 1,
+    "pinyin": "dā",
+    "pinyinNumeric": "da1"
+  },
+  {
+    "id": "pinyin-de1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "e",
+    "syllableBase": "de",
+    "toneNumber": 1,
+    "pinyin": "dē",
+    "pinyinNumeric": "de1"
+  },
+  {
+    "id": "pinyin-dai1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "ai",
+    "syllableBase": "dai",
+    "toneNumber": 1,
+    "pinyin": "dāi",
+    "pinyinNumeric": "dai1"
+  },
+  {
+    "id": "pinyin-dei1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "ei",
+    "syllableBase": "dei",
+    "toneNumber": 1,
+    "pinyin": "dēi",
+    "pinyinNumeric": "dei1"
+  },
+  {
+    "id": "pinyin-dao1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "ao",
+    "syllableBase": "dao",
+    "toneNumber": 1,
+    "pinyin": "dāo",
+    "pinyinNumeric": "dao1"
+  },
+  {
+    "id": "pinyin-dou1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "ou",
+    "syllableBase": "dou",
+    "toneNumber": 1,
+    "pinyin": "dōu",
+    "pinyinNumeric": "dou1"
+  },
+  {
+    "id": "pinyin-dan1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "an",
+    "syllableBase": "dan",
+    "toneNumber": 1,
+    "pinyin": "dān",
+    "pinyinNumeric": "dan1"
+  },
+  {
+    "id": "pinyin-dang1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "ang",
+    "syllableBase": "dang",
+    "toneNumber": 1,
+    "pinyin": "dāng",
+    "pinyinNumeric": "dang1"
+  },
+  {
+    "id": "pinyin-deng1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "eng",
+    "syllableBase": "deng",
+    "toneNumber": 1,
+    "pinyin": "dēng",
+    "pinyinNumeric": "deng1"
+  },
+  {
+    "id": "pinyin-dong1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "ong",
+    "syllableBase": "dong",
+    "toneNumber": 1,
+    "pinyin": "dōng",
+    "pinyinNumeric": "dong1"
+  },
+  {
+    "id": "pinyin-di1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "i",
+    "syllableBase": "di",
+    "toneNumber": 1,
+    "pinyin": "dī",
+    "pinyinNumeric": "di1"
+  },
+  {
+    "id": "pinyin-dia1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "ia",
+    "syllableBase": "dia",
+    "toneNumber": 1,
+    "pinyin": "diā",
+    "pinyinNumeric": "dia1"
+  },
+  {
+    "id": "pinyin-die1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "ie",
+    "syllableBase": "die",
+    "toneNumber": 1,
+    "pinyin": "diē",
+    "pinyinNumeric": "die1"
+  },
+  {
+    "id": "pinyin-diao1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "iao",
+    "syllableBase": "diao",
+    "toneNumber": 1,
+    "pinyin": "diāo",
+    "pinyinNumeric": "diao1"
+  },
+  {
+    "id": "pinyin-diu1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "iu",
+    "syllableBase": "diu",
+    "toneNumber": 1,
+    "pinyin": "diū",
+    "pinyinNumeric": "diu1"
+  },
+  {
+    "id": "pinyin-dian1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "ian",
+    "syllableBase": "dian",
+    "toneNumber": 1,
+    "pinyin": "diān",
+    "pinyinNumeric": "dian1"
+  },
+  {
+    "id": "pinyin-ding1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "ing",
+    "syllableBase": "ding",
+    "toneNumber": 1,
+    "pinyin": "dīng",
+    "pinyinNumeric": "ding1"
+  },
+  {
+    "id": "pinyin-du1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "u",
+    "syllableBase": "du",
+    "toneNumber": 1,
+    "pinyin": "dū",
+    "pinyinNumeric": "du1"
+  },
+  {
+    "id": "pinyin-duo1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "uo",
+    "syllableBase": "duo",
+    "toneNumber": 1,
+    "pinyin": "duō",
+    "pinyinNumeric": "duo1"
+  },
+  {
+    "id": "pinyin-dui1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "ui",
+    "syllableBase": "dui",
+    "toneNumber": 1,
+    "pinyin": "duī",
+    "pinyinNumeric": "dui1"
+  },
+  {
+    "id": "pinyin-duan1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "uan",
+    "syllableBase": "duan",
+    "toneNumber": 1,
+    "pinyin": "duān",
+    "pinyinNumeric": "duan1"
+  },
+  {
+    "id": "pinyin-dun1",
+    "kind": "pinyin-syllable",
+    "initial": "d",
+    "final": "un",
+    "syllableBase": "dun",
+    "toneNumber": 1,
+    "pinyin": "dūn",
+    "pinyinNumeric": "dun1"
+  },
+  {
+    "id": "pinyin-ta1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "a",
+    "syllableBase": "ta",
+    "toneNumber": 1,
+    "pinyin": "tā",
+    "pinyinNumeric": "ta1"
+  },
+  {
+    "id": "pinyin-te1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "e",
+    "syllableBase": "te",
+    "toneNumber": 1,
+    "pinyin": "tē",
+    "pinyinNumeric": "te1"
+  },
+  {
+    "id": "pinyin-tai1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "ai",
+    "syllableBase": "tai",
+    "toneNumber": 1,
+    "pinyin": "tāi",
+    "pinyinNumeric": "tai1"
+  },
+  {
+    "id": "pinyin-tao1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "ao",
+    "syllableBase": "tao",
+    "toneNumber": 1,
+    "pinyin": "tāo",
+    "pinyinNumeric": "tao1"
+  },
+  {
+    "id": "pinyin-tou1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "ou",
+    "syllableBase": "tou",
+    "toneNumber": 1,
+    "pinyin": "tōu",
+    "pinyinNumeric": "tou1"
+  },
+  {
+    "id": "pinyin-tan1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "an",
+    "syllableBase": "tan",
+    "toneNumber": 1,
+    "pinyin": "tān",
+    "pinyinNumeric": "tan1"
+  },
+  {
+    "id": "pinyin-tang1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "ang",
+    "syllableBase": "tang",
+    "toneNumber": 1,
+    "pinyin": "tāng",
+    "pinyinNumeric": "tang1"
+  },
+  {
+    "id": "pinyin-teng1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "eng",
+    "syllableBase": "teng",
+    "toneNumber": 1,
+    "pinyin": "tēng",
+    "pinyinNumeric": "teng1"
+  },
+  {
+    "id": "pinyin-tong1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "ong",
+    "syllableBase": "tong",
+    "toneNumber": 1,
+    "pinyin": "tōng",
+    "pinyinNumeric": "tong1"
+  },
+  {
+    "id": "pinyin-ti1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "i",
+    "syllableBase": "ti",
+    "toneNumber": 1,
+    "pinyin": "tī",
+    "pinyinNumeric": "ti1"
+  },
+  {
+    "id": "pinyin-tie1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "ie",
+    "syllableBase": "tie",
+    "toneNumber": 1,
+    "pinyin": "tiē",
+    "pinyinNumeric": "tie1"
+  },
+  {
+    "id": "pinyin-tiao1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "iao",
+    "syllableBase": "tiao",
+    "toneNumber": 1,
+    "pinyin": "tiāo",
+    "pinyinNumeric": "tiao1"
+  },
+  {
+    "id": "pinyin-tian1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "ian",
+    "syllableBase": "tian",
+    "toneNumber": 1,
+    "pinyin": "tiān",
+    "pinyinNumeric": "tian1"
+  },
+  {
+    "id": "pinyin-ting1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "ing",
+    "syllableBase": "ting",
+    "toneNumber": 1,
+    "pinyin": "tīng",
+    "pinyinNumeric": "ting1"
+  },
+  {
+    "id": "pinyin-tu1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "u",
+    "syllableBase": "tu",
+    "toneNumber": 1,
+    "pinyin": "tū",
+    "pinyinNumeric": "tu1"
+  },
+  {
+    "id": "pinyin-tuo1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "uo",
+    "syllableBase": "tuo",
+    "toneNumber": 1,
+    "pinyin": "tuō",
+    "pinyinNumeric": "tuo1"
+  },
+  {
+    "id": "pinyin-tui1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "ui",
+    "syllableBase": "tui",
+    "toneNumber": 1,
+    "pinyin": "tuī",
+    "pinyinNumeric": "tui1"
+  },
+  {
+    "id": "pinyin-tuan1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "uan",
+    "syllableBase": "tuan",
+    "toneNumber": 1,
+    "pinyin": "tuān",
+    "pinyinNumeric": "tuan1"
+  },
+  {
+    "id": "pinyin-tun1",
+    "kind": "pinyin-syllable",
+    "initial": "t",
+    "final": "un",
+    "syllableBase": "tun",
+    "toneNumber": 1,
+    "pinyin": "tūn",
+    "pinyinNumeric": "tun1"
+  },
+  {
+    "id": "pinyin-na1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "a",
+    "syllableBase": "na",
+    "toneNumber": 1,
+    "pinyin": "nā",
+    "pinyinNumeric": "na1"
+  },
+  {
+    "id": "pinyin-ne1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "e",
+    "syllableBase": "ne",
+    "toneNumber": 1,
+    "pinyin": "nē",
+    "pinyinNumeric": "ne1"
+  },
+  {
+    "id": "pinyin-nai1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "ai",
+    "syllableBase": "nai",
+    "toneNumber": 1,
+    "pinyin": "nāi",
+    "pinyinNumeric": "nai1"
+  },
+  {
+    "id": "pinyin-nei1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "ei",
+    "syllableBase": "nei",
+    "toneNumber": 1,
+    "pinyin": "nēi",
+    "pinyinNumeric": "nei1"
+  },
+  {
+    "id": "pinyin-nao1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "ao",
+    "syllableBase": "nao",
+    "toneNumber": 1,
+    "pinyin": "nāo",
+    "pinyinNumeric": "nao1"
+  },
+  {
+    "id": "pinyin-nou1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "ou",
+    "syllableBase": "nou",
+    "toneNumber": 1,
+    "pinyin": "nōu",
+    "pinyinNumeric": "nou1"
+  },
+  {
+    "id": "pinyin-nan1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "an",
+    "syllableBase": "nan",
+    "toneNumber": 1,
+    "pinyin": "nān",
+    "pinyinNumeric": "nan1"
+  },
+  {
+    "id": "pinyin-nen1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "en",
+    "syllableBase": "nen",
+    "toneNumber": 1,
+    "pinyin": "nēn",
+    "pinyinNumeric": "nen1"
+  },
+  {
+    "id": "pinyin-nang1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "ang",
+    "syllableBase": "nang",
+    "toneNumber": 1,
+    "pinyin": "nāng",
+    "pinyinNumeric": "nang1"
+  },
+  {
+    "id": "pinyin-neng1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "eng",
+    "syllableBase": "neng",
+    "toneNumber": 1,
+    "pinyin": "nēng",
+    "pinyinNumeric": "neng1"
+  },
+  {
+    "id": "pinyin-nong1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "ong",
+    "syllableBase": "nong",
+    "toneNumber": 1,
+    "pinyin": "nōng",
+    "pinyinNumeric": "nong1"
+  },
+  {
+    "id": "pinyin-ni1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "i",
+    "syllableBase": "ni",
+    "toneNumber": 1,
+    "pinyin": "nī",
+    "pinyinNumeric": "ni1"
+  },
+  {
+    "id": "pinyin-nia1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "ia",
+    "syllableBase": "nia",
+    "toneNumber": 1,
+    "pinyin": "niā",
+    "pinyinNumeric": "nia1"
+  },
+  {
+    "id": "pinyin-nie1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "ie",
+    "syllableBase": "nie",
+    "toneNumber": 1,
+    "pinyin": "niē",
+    "pinyinNumeric": "nie1"
+  },
+  {
+    "id": "pinyin-niao1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "iao",
+    "syllableBase": "niao",
+    "toneNumber": 1,
+    "pinyin": "niāo",
+    "pinyinNumeric": "niao1"
+  },
+  {
+    "id": "pinyin-niu1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "iu",
+    "syllableBase": "niu",
+    "toneNumber": 1,
+    "pinyin": "niū",
+    "pinyinNumeric": "niu1"
+  },
+  {
+    "id": "pinyin-nian1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "ian",
+    "syllableBase": "nian",
+    "toneNumber": 1,
+    "pinyin": "niān",
+    "pinyinNumeric": "nian1"
+  },
+  {
+    "id": "pinyin-nin1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "in",
+    "syllableBase": "nin",
+    "toneNumber": 1,
+    "pinyin": "nīn",
+    "pinyinNumeric": "nin1"
+  },
+  {
+    "id": "pinyin-niang1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "iang",
+    "syllableBase": "niang",
+    "toneNumber": 1,
+    "pinyin": "niāng",
+    "pinyinNumeric": "niang1"
+  },
+  {
+    "id": "pinyin-ning1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "ing",
+    "syllableBase": "ning",
+    "toneNumber": 1,
+    "pinyin": "nīng",
+    "pinyinNumeric": "ning1"
+  },
+  {
+    "id": "pinyin-nu1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "u",
+    "syllableBase": "nu",
+    "toneNumber": 1,
+    "pinyin": "nū",
+    "pinyinNumeric": "nu1"
+  },
+  {
+    "id": "pinyin-nuo1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "uo",
+    "syllableBase": "nuo",
+    "toneNumber": 1,
+    "pinyin": "nuō",
+    "pinyinNumeric": "nuo1"
+  },
+  {
+    "id": "pinyin-nuan1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "uan",
+    "syllableBase": "nuan",
+    "toneNumber": 1,
+    "pinyin": "nuān",
+    "pinyinNumeric": "nuan1"
+  },
+  {
+    "id": "pinyin-nv1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "v",
+    "syllableBase": "nv",
+    "toneNumber": 1,
+    "pinyin": "nǖ",
+    "pinyinNumeric": "nv1"
+  },
+  {
+    "id": "pinyin-nve1",
+    "kind": "pinyin-syllable",
+    "initial": "n",
+    "final": "ve",
+    "syllableBase": "nve",
+    "toneNumber": 1,
+    "pinyin": "nüē",
+    "pinyinNumeric": "nve1"
+  },
+  {
+    "id": "pinyin-la1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "a",
+    "syllableBase": "la",
+    "toneNumber": 1,
+    "pinyin": "lā",
+    "pinyinNumeric": "la1"
+  },
+  {
+    "id": "pinyin-le1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "e",
+    "syllableBase": "le",
+    "toneNumber": 1,
+    "pinyin": "lē",
+    "pinyinNumeric": "le1"
+  },
+  {
+    "id": "pinyin-lai1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "ai",
+    "syllableBase": "lai",
+    "toneNumber": 1,
+    "pinyin": "lāi",
+    "pinyinNumeric": "lai1"
+  },
+  {
+    "id": "pinyin-lei1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "ei",
+    "syllableBase": "lei",
+    "toneNumber": 1,
+    "pinyin": "lēi",
+    "pinyinNumeric": "lei1"
+  },
+  {
+    "id": "pinyin-lao1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "ao",
+    "syllableBase": "lao",
+    "toneNumber": 1,
+    "pinyin": "lāo",
+    "pinyinNumeric": "lao1"
+  },
+  {
+    "id": "pinyin-lou1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "ou",
+    "syllableBase": "lou",
+    "toneNumber": 1,
+    "pinyin": "lōu",
+    "pinyinNumeric": "lou1"
+  },
+  {
+    "id": "pinyin-lan1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "an",
+    "syllableBase": "lan",
+    "toneNumber": 1,
+    "pinyin": "lān",
+    "pinyinNumeric": "lan1"
+  },
+  {
+    "id": "pinyin-lang1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "ang",
+    "syllableBase": "lang",
+    "toneNumber": 1,
+    "pinyin": "lāng",
+    "pinyinNumeric": "lang1"
+  },
+  {
+    "id": "pinyin-leng1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "eng",
+    "syllableBase": "leng",
+    "toneNumber": 1,
+    "pinyin": "lēng",
+    "pinyinNumeric": "leng1"
+  },
+  {
+    "id": "pinyin-long1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "ong",
+    "syllableBase": "long",
+    "toneNumber": 1,
+    "pinyin": "lōng",
+    "pinyinNumeric": "long1"
+  },
+  {
+    "id": "pinyin-li1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "i",
+    "syllableBase": "li",
+    "toneNumber": 1,
+    "pinyin": "lī",
+    "pinyinNumeric": "li1"
+  },
+  {
+    "id": "pinyin-lia1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "ia",
+    "syllableBase": "lia",
+    "toneNumber": 1,
+    "pinyin": "liā",
+    "pinyinNumeric": "lia1"
+  },
+  {
+    "id": "pinyin-lie1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "ie",
+    "syllableBase": "lie",
+    "toneNumber": 1,
+    "pinyin": "liē",
+    "pinyinNumeric": "lie1"
+  },
+  {
+    "id": "pinyin-liao1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "iao",
+    "syllableBase": "liao",
+    "toneNumber": 1,
+    "pinyin": "liāo",
+    "pinyinNumeric": "liao1"
+  },
+  {
+    "id": "pinyin-liu1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "iu",
+    "syllableBase": "liu",
+    "toneNumber": 1,
+    "pinyin": "liū",
+    "pinyinNumeric": "liu1"
+  },
+  {
+    "id": "pinyin-lian1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "ian",
+    "syllableBase": "lian",
+    "toneNumber": 1,
+    "pinyin": "liān",
+    "pinyinNumeric": "lian1"
+  },
+  {
+    "id": "pinyin-lin1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "in",
+    "syllableBase": "lin",
+    "toneNumber": 1,
+    "pinyin": "līn",
+    "pinyinNumeric": "lin1"
+  },
+  {
+    "id": "pinyin-liang1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "iang",
+    "syllableBase": "liang",
+    "toneNumber": 1,
+    "pinyin": "liāng",
+    "pinyinNumeric": "liang1"
+  },
+  {
+    "id": "pinyin-ling1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "ing",
+    "syllableBase": "ling",
+    "toneNumber": 1,
+    "pinyin": "līng",
+    "pinyinNumeric": "ling1"
+  },
+  {
+    "id": "pinyin-lu1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "u",
+    "syllableBase": "lu",
+    "toneNumber": 1,
+    "pinyin": "lū",
+    "pinyinNumeric": "lu1"
+  },
+  {
+    "id": "pinyin-luo1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "uo",
+    "syllableBase": "luo",
+    "toneNumber": 1,
+    "pinyin": "luō",
+    "pinyinNumeric": "luo1"
+  },
+  {
+    "id": "pinyin-luan1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "uan",
+    "syllableBase": "luan",
+    "toneNumber": 1,
+    "pinyin": "luān",
+    "pinyinNumeric": "luan1"
+  },
+  {
+    "id": "pinyin-lun1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "un",
+    "syllableBase": "lun",
+    "toneNumber": 1,
+    "pinyin": "lūn",
+    "pinyinNumeric": "lun1"
+  },
+  {
+    "id": "pinyin-lv1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "v",
+    "syllableBase": "lv",
+    "toneNumber": 1,
+    "pinyin": "lǖ",
+    "pinyinNumeric": "lv1"
+  },
+  {
+    "id": "pinyin-lve1",
+    "kind": "pinyin-syllable",
+    "initial": "l",
+    "final": "ve",
+    "syllableBase": "lve",
+    "toneNumber": 1,
+    "pinyin": "lüē",
+    "pinyinNumeric": "lve1"
+  },
+  {
+    "id": "pinyin-ga1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "a",
+    "syllableBase": "ga",
+    "toneNumber": 1,
+    "pinyin": "gā",
+    "pinyinNumeric": "ga1"
+  },
+  {
+    "id": "pinyin-ge1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "e",
+    "syllableBase": "ge",
+    "toneNumber": 1,
+    "pinyin": "gē",
+    "pinyinNumeric": "ge1"
+  },
+  {
+    "id": "pinyin-gai1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "ai",
+    "syllableBase": "gai",
+    "toneNumber": 1,
+    "pinyin": "gāi",
+    "pinyinNumeric": "gai1"
+  },
+  {
+    "id": "pinyin-gei1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "ei",
+    "syllableBase": "gei",
+    "toneNumber": 1,
+    "pinyin": "gēi",
+    "pinyinNumeric": "gei1"
+  },
+  {
+    "id": "pinyin-gao1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "ao",
+    "syllableBase": "gao",
+    "toneNumber": 1,
+    "pinyin": "gāo",
+    "pinyinNumeric": "gao1"
+  },
+  {
+    "id": "pinyin-gou1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "ou",
+    "syllableBase": "gou",
+    "toneNumber": 1,
+    "pinyin": "gōu",
+    "pinyinNumeric": "gou1"
+  },
+  {
+    "id": "pinyin-gan1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "an",
+    "syllableBase": "gan",
+    "toneNumber": 1,
+    "pinyin": "gān",
+    "pinyinNumeric": "gan1"
+  },
+  {
+    "id": "pinyin-gen1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "en",
+    "syllableBase": "gen",
+    "toneNumber": 1,
+    "pinyin": "gēn",
+    "pinyinNumeric": "gen1"
+  },
+  {
+    "id": "pinyin-gang1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "ang",
+    "syllableBase": "gang",
+    "toneNumber": 1,
+    "pinyin": "gāng",
+    "pinyinNumeric": "gang1"
+  },
+  {
+    "id": "pinyin-geng1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "eng",
+    "syllableBase": "geng",
+    "toneNumber": 1,
+    "pinyin": "gēng",
+    "pinyinNumeric": "geng1"
+  },
+  {
+    "id": "pinyin-gong1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "ong",
+    "syllableBase": "gong",
+    "toneNumber": 1,
+    "pinyin": "gōng",
+    "pinyinNumeric": "gong1"
+  },
+  {
+    "id": "pinyin-gu1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "u",
+    "syllableBase": "gu",
+    "toneNumber": 1,
+    "pinyin": "gū",
+    "pinyinNumeric": "gu1"
+  },
+  {
+    "id": "pinyin-gua1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "ua",
+    "syllableBase": "gua",
+    "toneNumber": 1,
+    "pinyin": "guā",
+    "pinyinNumeric": "gua1"
+  },
+  {
+    "id": "pinyin-guo1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "uo",
+    "syllableBase": "guo",
+    "toneNumber": 1,
+    "pinyin": "guō",
+    "pinyinNumeric": "guo1"
+  },
+  {
+    "id": "pinyin-guai1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "uai",
+    "syllableBase": "guai",
+    "toneNumber": 1,
+    "pinyin": "guāi",
+    "pinyinNumeric": "guai1"
+  },
+  {
+    "id": "pinyin-gui1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "ui",
+    "syllableBase": "gui",
+    "toneNumber": 1,
+    "pinyin": "guī",
+    "pinyinNumeric": "gui1"
+  },
+  {
+    "id": "pinyin-guan1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "uan",
+    "syllableBase": "guan",
+    "toneNumber": 1,
+    "pinyin": "guān",
+    "pinyinNumeric": "guan1"
+  },
+  {
+    "id": "pinyin-gun1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "un",
+    "syllableBase": "gun",
+    "toneNumber": 1,
+    "pinyin": "gūn",
+    "pinyinNumeric": "gun1"
+  },
+  {
+    "id": "pinyin-guang1",
+    "kind": "pinyin-syllable",
+    "initial": "g",
+    "final": "uang",
+    "syllableBase": "guang",
+    "toneNumber": 1,
+    "pinyin": "guāng",
+    "pinyinNumeric": "guang1"
+  },
+  {
+    "id": "pinyin-ka1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "a",
+    "syllableBase": "ka",
+    "toneNumber": 1,
+    "pinyin": "kā",
+    "pinyinNumeric": "ka1"
+  },
+  {
+    "id": "pinyin-ke1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "e",
+    "syllableBase": "ke",
+    "toneNumber": 1,
+    "pinyin": "kē",
+    "pinyinNumeric": "ke1"
+  },
+  {
+    "id": "pinyin-kai1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "ai",
+    "syllableBase": "kai",
+    "toneNumber": 1,
+    "pinyin": "kāi",
+    "pinyinNumeric": "kai1"
+  },
+  {
+    "id": "pinyin-kao1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "ao",
+    "syllableBase": "kao",
+    "toneNumber": 1,
+    "pinyin": "kāo",
+    "pinyinNumeric": "kao1"
+  },
+  {
+    "id": "pinyin-kou1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "ou",
+    "syllableBase": "kou",
+    "toneNumber": 1,
+    "pinyin": "kōu",
+    "pinyinNumeric": "kou1"
+  },
+  {
+    "id": "pinyin-kan1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "an",
+    "syllableBase": "kan",
+    "toneNumber": 1,
+    "pinyin": "kān",
+    "pinyinNumeric": "kan1"
+  },
+  {
+    "id": "pinyin-ken1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "en",
+    "syllableBase": "ken",
+    "toneNumber": 1,
+    "pinyin": "kēn",
+    "pinyinNumeric": "ken1"
+  },
+  {
+    "id": "pinyin-kang1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "ang",
+    "syllableBase": "kang",
+    "toneNumber": 1,
+    "pinyin": "kāng",
+    "pinyinNumeric": "kang1"
+  },
+  {
+    "id": "pinyin-keng1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "eng",
+    "syllableBase": "keng",
+    "toneNumber": 1,
+    "pinyin": "kēng",
+    "pinyinNumeric": "keng1"
+  },
+  {
+    "id": "pinyin-kong1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "ong",
+    "syllableBase": "kong",
+    "toneNumber": 1,
+    "pinyin": "kōng",
+    "pinyinNumeric": "kong1"
+  },
+  {
+    "id": "pinyin-ku1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "u",
+    "syllableBase": "ku",
+    "toneNumber": 1,
+    "pinyin": "kū",
+    "pinyinNumeric": "ku1"
+  },
+  {
+    "id": "pinyin-kua1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "ua",
+    "syllableBase": "kua",
+    "toneNumber": 1,
+    "pinyin": "kuā",
+    "pinyinNumeric": "kua1"
+  },
+  {
+    "id": "pinyin-kuo1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "uo",
+    "syllableBase": "kuo",
+    "toneNumber": 1,
+    "pinyin": "kuō",
+    "pinyinNumeric": "kuo1"
+  },
+  {
+    "id": "pinyin-kuai1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "uai",
+    "syllableBase": "kuai",
+    "toneNumber": 1,
+    "pinyin": "kuāi",
+    "pinyinNumeric": "kuai1"
+  },
+  {
+    "id": "pinyin-kui1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "ui",
+    "syllableBase": "kui",
+    "toneNumber": 1,
+    "pinyin": "kuī",
+    "pinyinNumeric": "kui1"
+  },
+  {
+    "id": "pinyin-kuan1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "uan",
+    "syllableBase": "kuan",
+    "toneNumber": 1,
+    "pinyin": "kuān",
+    "pinyinNumeric": "kuan1"
+  },
+  {
+    "id": "pinyin-kun1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "un",
+    "syllableBase": "kun",
+    "toneNumber": 1,
+    "pinyin": "kūn",
+    "pinyinNumeric": "kun1"
+  },
+  {
+    "id": "pinyin-kuang1",
+    "kind": "pinyin-syllable",
+    "initial": "k",
+    "final": "uang",
+    "syllableBase": "kuang",
+    "toneNumber": 1,
+    "pinyin": "kuāng",
+    "pinyinNumeric": "kuang1"
+  },
+  {
+    "id": "pinyin-ha1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "a",
+    "syllableBase": "ha",
+    "toneNumber": 1,
+    "pinyin": "hā",
+    "pinyinNumeric": "ha1"
+  },
+  {
+    "id": "pinyin-he1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "e",
+    "syllableBase": "he",
+    "toneNumber": 1,
+    "pinyin": "hē",
+    "pinyinNumeric": "he1"
+  },
+  {
+    "id": "pinyin-hai1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "ai",
+    "syllableBase": "hai",
+    "toneNumber": 1,
+    "pinyin": "hāi",
+    "pinyinNumeric": "hai1"
+  },
+  {
+    "id": "pinyin-hei1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "ei",
+    "syllableBase": "hei",
+    "toneNumber": 1,
+    "pinyin": "hēi",
+    "pinyinNumeric": "hei1"
+  },
+  {
+    "id": "pinyin-hao1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "ao",
+    "syllableBase": "hao",
+    "toneNumber": 1,
+    "pinyin": "hāo",
+    "pinyinNumeric": "hao1",
+    "simplified": "蒿",
+    "traditional": "蒿",
+    "definitions": [
+      "mugwort"
+    ]
+  },
+  {
+    "id": "pinyin-hao2",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "ao",
+    "syllableBase": "hao",
+    "toneNumber": 2,
+    "pinyin": "háo",
+    "pinyinNumeric": "hao2",
+    "simplified": "毫",
+    "traditional": "毫",
+    "definitions": [
+      "a tenth of a unit; extremely small amount"
+    ]
+  },
+  {
+    "id": "pinyin-hao3",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "ao",
+    "syllableBase": "hao",
+    "toneNumber": 3,
+    "pinyin": "hǎo",
+    "pinyinNumeric": "hao3",
+    "simplified": "好",
+    "traditional": "好",
+    "definitions": [
+      "good",
+      "well"
+    ]
+  },
+  {
+    "id": "pinyin-hao4",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "ao",
+    "syllableBase": "hao",
+    "toneNumber": 4,
+    "pinyin": "hào",
+    "pinyinNumeric": "hao4",
+    "simplified": "号",
+    "traditional": "號",
+    "definitions": [
+      "number",
+      "day of the month"
+    ]
+  },
+  {
+    "id": "pinyin-hou1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "ou",
+    "syllableBase": "hou",
+    "toneNumber": 1,
+    "pinyin": "hōu",
+    "pinyinNumeric": "hou1"
+  },
+  {
+    "id": "pinyin-han1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "an",
+    "syllableBase": "han",
+    "toneNumber": 1,
+    "pinyin": "hān",
+    "pinyinNumeric": "han1"
+  },
+  {
+    "id": "pinyin-hen1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "en",
+    "syllableBase": "hen",
+    "toneNumber": 1,
+    "pinyin": "hēn",
+    "pinyinNumeric": "hen1"
+  },
+  {
+    "id": "pinyin-hang1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "ang",
+    "syllableBase": "hang",
+    "toneNumber": 1,
+    "pinyin": "hāng",
+    "pinyinNumeric": "hang1"
+  },
+  {
+    "id": "pinyin-heng1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "eng",
+    "syllableBase": "heng",
+    "toneNumber": 1,
+    "pinyin": "hēng",
+    "pinyinNumeric": "heng1"
+  },
+  {
+    "id": "pinyin-hong1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "ong",
+    "syllableBase": "hong",
+    "toneNumber": 1,
+    "pinyin": "hōng",
+    "pinyinNumeric": "hong1"
+  },
+  {
+    "id": "pinyin-hu1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "u",
+    "syllableBase": "hu",
+    "toneNumber": 1,
+    "pinyin": "hū",
+    "pinyinNumeric": "hu1",
+    "simplified": "呼",
+    "traditional": "呼",
+    "definitions": [
+      "to exhale",
+      "to shout"
+    ]
+  },
+  {
+    "id": "pinyin-hu2",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "u",
+    "syllableBase": "hu",
+    "toneNumber": 2,
+    "pinyin": "hú",
+    "pinyinNumeric": "hu2",
+    "simplified": "湖",
+    "traditional": "湖",
+    "definitions": [
+      "lake"
+    ]
+  },
+  {
+    "id": "pinyin-hu3",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "u",
+    "syllableBase": "hu",
+    "toneNumber": 3,
+    "pinyin": "hǔ",
+    "pinyinNumeric": "hu3",
+    "simplified": "虎",
+    "traditional": "虎",
+    "definitions": [
+      "tiger"
+    ]
+  },
+  {
+    "id": "pinyin-hu4",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "u",
+    "syllableBase": "hu",
+    "toneNumber": 4,
+    "pinyin": "hù",
+    "pinyinNumeric": "hu4",
+    "simplified": "户",
+    "traditional": "戶",
+    "definitions": [
+      "door",
+      "household"
+    ]
+  },
+  {
+    "id": "pinyin-hua1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "ua",
+    "syllableBase": "hua",
+    "toneNumber": 1,
+    "pinyin": "huā",
+    "pinyinNumeric": "hua1"
+  },
+  {
+    "id": "pinyin-huo1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "uo",
+    "syllableBase": "huo",
+    "toneNumber": 1,
+    "pinyin": "huō",
+    "pinyinNumeric": "huo1"
+  },
+  {
+    "id": "pinyin-huai1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "uai",
+    "syllableBase": "huai",
+    "toneNumber": 1,
+    "pinyin": "huāi",
+    "pinyinNumeric": "huai1"
+  },
+  {
+    "id": "pinyin-hui1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "ui",
+    "syllableBase": "hui",
+    "toneNumber": 1,
+    "pinyin": "huī",
+    "pinyinNumeric": "hui1"
+  },
+  {
+    "id": "pinyin-huan1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "uan",
+    "syllableBase": "huan",
+    "toneNumber": 1,
+    "pinyin": "huān",
+    "pinyinNumeric": "huan1"
+  },
+  {
+    "id": "pinyin-hun1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "un",
+    "syllableBase": "hun",
+    "toneNumber": 1,
+    "pinyin": "hūn",
+    "pinyinNumeric": "hun1"
+  },
+  {
+    "id": "pinyin-huang1",
+    "kind": "pinyin-syllable",
+    "initial": "h",
+    "final": "uang",
+    "syllableBase": "huang",
+    "toneNumber": 1,
+    "pinyin": "huāng",
+    "pinyinNumeric": "huang1"
+  }
+]
