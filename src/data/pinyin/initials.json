@@ -42,5 +42,49 @@
   {
     "id": "h",
     "symbol": "h"
+  },
+  {
+    "id": "j",
+    "symbol": "j"
+  },
+  {
+    "id": "q",
+    "symbol": "q"
+  },
+  {
+    "id": "x",
+    "symbol": "x"
+  },
+  {
+    "id": "zh",
+    "symbol": "zh"
+  },
+  {
+    "id": "ch",
+    "symbol": "ch"
+  },
+  {
+    "id": "sh",
+    "symbol": "sh"
+  },
+  {
+    "id": "r",
+    "symbol": "r"
+  },
+  {
+    "id": "z",
+    "symbol": "z"
+  },
+  {
+    "id": "c",
+    "symbol": "c"
+  },
+  {
+    "id": "s",
+    "symbol": "s"
+  },
+  {
+    "id": "",
+    "symbol": "∅"
   }
 ]

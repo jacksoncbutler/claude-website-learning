@@ -6,10 +6,10 @@ import type { Proverb } from '@/lib/content/types';
  * day. No randomness, so reloading the dashboard never changes the pick
  * mid-day.
  *
- * Known limitation: if this site is ever statically exported, `new Date()`
- * would be evaluated once at build time rather than per-request. Not a
- * concern for `next dev`/a dynamically-rendered deployment; revisit only if
- * static export is actually chosen later.
+ * Call this with the caller's own `new Date()` — on the statically-exported
+ * site, that means calling it client-side (see DailyProverbClient) so "today"
+ * reflects the viewer's actual date rather than whenever the site was last
+ * built.
  */
 export function getDailyProverb(proverbs: Proverb[], date: Date = new Date()): Proverb {
   if (proverbs.length === 0) {

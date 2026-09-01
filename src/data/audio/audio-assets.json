@@ -1048,5 +1048,995 @@
     "id": "audio-huang1",
     "file": "pinyin/huang1.mp3",
     "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ji1",
+    "file": "pinyin/ji1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-jia1",
+    "file": "pinyin/jia1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-jie1",
+    "file": "pinyin/jie1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-jiao1",
+    "file": "pinyin/jiao1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-jiu1",
+    "file": "pinyin/jiu1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-jian1",
+    "file": "pinyin/jian1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-jin1",
+    "file": "pinyin/jin1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-jiang1",
+    "file": "pinyin/jiang1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-jing1",
+    "file": "pinyin/jing1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-jiong1",
+    "file": "pinyin/jiong1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ju1",
+    "file": "pinyin/ju1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-jue1",
+    "file": "pinyin/jue1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-juan1",
+    "file": "pinyin/juan1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-jun1",
+    "file": "pinyin/jun1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-qi1",
+    "file": "pinyin/qi1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-qia1",
+    "file": "pinyin/qia1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-qie1",
+    "file": "pinyin/qie1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-qiao1",
+    "file": "pinyin/qiao1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-qiu1",
+    "file": "pinyin/qiu1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-qian1",
+    "file": "pinyin/qian1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-qin1",
+    "file": "pinyin/qin1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-qiang1",
+    "file": "pinyin/qiang1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-qing1",
+    "file": "pinyin/qing1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-qiong1",
+    "file": "pinyin/qiong1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-qu1",
+    "file": "pinyin/qu1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-que1",
+    "file": "pinyin/que1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-quan1",
+    "file": "pinyin/quan1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-qun1",
+    "file": "pinyin/qun1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-xi1",
+    "file": "pinyin/xi1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-xia1",
+    "file": "pinyin/xia1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-xie1",
+    "file": "pinyin/xie1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-xie2",
+    "file": "pinyin/xie2.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-xie3",
+    "file": "pinyin/xie3.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-xie4",
+    "file": "pinyin/xie4.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-xiao1",
+    "file": "pinyin/xiao1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-xian1",
+    "file": "pinyin/xian1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-xin1",
+    "file": "pinyin/xin1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-xiang1",
+    "file": "pinyin/xiang1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-xing1",
+    "file": "pinyin/xing1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-xiong1",
+    "file": "pinyin/xiong1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-xu1",
+    "file": "pinyin/xu1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-xue1",
+    "file": "pinyin/xue1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-xuan1",
+    "file": "pinyin/xuan1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-xun1",
+    "file": "pinyin/xun1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zha1",
+    "file": "pinyin/zha1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zhe1",
+    "file": "pinyin/zhe1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zhai1",
+    "file": "pinyin/zhai1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zhei1",
+    "file": "pinyin/zhei1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zhao1",
+    "file": "pinyin/zhao1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zhou1",
+    "file": "pinyin/zhou1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zhen1",
+    "file": "pinyin/zhen1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zhang1",
+    "file": "pinyin/zhang1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zheng1",
+    "file": "pinyin/zheng1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zhong1",
+    "file": "pinyin/zhong1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zhi1",
+    "file": "pinyin/zhi1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zhu1",
+    "file": "pinyin/zhu1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zhua1",
+    "file": "pinyin/zhua1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zhuo1",
+    "file": "pinyin/zhuo1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zhuai1",
+    "file": "pinyin/zhuai1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zhui1",
+    "file": "pinyin/zhui1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zhuan1",
+    "file": "pinyin/zhuan1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zhun1",
+    "file": "pinyin/zhun1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zhuang1",
+    "file": "pinyin/zhuang1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-cha1",
+    "file": "pinyin/cha1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-che1",
+    "file": "pinyin/che1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-chai1",
+    "file": "pinyin/chai1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-chao1",
+    "file": "pinyin/chao1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-chou1",
+    "file": "pinyin/chou1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-chan1",
+    "file": "pinyin/chan1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-chen1",
+    "file": "pinyin/chen1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-chang1",
+    "file": "pinyin/chang1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-cheng1",
+    "file": "pinyin/cheng1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-chong1",
+    "file": "pinyin/chong1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-chi1",
+    "file": "pinyin/chi1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-chu1",
+    "file": "pinyin/chu1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-chuo1",
+    "file": "pinyin/chuo1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-chuai1",
+    "file": "pinyin/chuai1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-chui1",
+    "file": "pinyin/chui1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-chuan1",
+    "file": "pinyin/chuan1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-chun1",
+    "file": "pinyin/chun1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-chuang1",
+    "file": "pinyin/chuang1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-sha1",
+    "file": "pinyin/sha1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-she1",
+    "file": "pinyin/she1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shai1",
+    "file": "pinyin/shai1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shei1",
+    "file": "pinyin/shei1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shao1",
+    "file": "pinyin/shao1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shou1",
+    "file": "pinyin/shou1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shan1",
+    "file": "pinyin/shan1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shen1",
+    "file": "pinyin/shen1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shang1",
+    "file": "pinyin/shang1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-sheng1",
+    "file": "pinyin/sheng1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shi1",
+    "file": "pinyin/shi1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shi2",
+    "file": "pinyin/shi2.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shi3",
+    "file": "pinyin/shi3.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shi4",
+    "file": "pinyin/shi4.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shu1",
+    "file": "pinyin/shu1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shua1",
+    "file": "pinyin/shua1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shuo1",
+    "file": "pinyin/shuo1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shuai1",
+    "file": "pinyin/shuai1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shui1",
+    "file": "pinyin/shui1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shuan1",
+    "file": "pinyin/shuan1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shun1",
+    "file": "pinyin/shun1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-shuang1",
+    "file": "pinyin/shuang1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-re1",
+    "file": "pinyin/re1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-rao1",
+    "file": "pinyin/rao1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-rou1",
+    "file": "pinyin/rou1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ran1",
+    "file": "pinyin/ran1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ren1",
+    "file": "pinyin/ren1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-rang1",
+    "file": "pinyin/rang1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-reng1",
+    "file": "pinyin/reng1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-rong1",
+    "file": "pinyin/rong1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ri1",
+    "file": "pinyin/ri1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ru1",
+    "file": "pinyin/ru1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ruo1",
+    "file": "pinyin/ruo1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ruan1",
+    "file": "pinyin/ruan1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-run1",
+    "file": "pinyin/run1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-za1",
+    "file": "pinyin/za1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ze1",
+    "file": "pinyin/ze1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zai1",
+    "file": "pinyin/zai1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zei1",
+    "file": "pinyin/zei1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zao1",
+    "file": "pinyin/zao1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zou1",
+    "file": "pinyin/zou1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zan1",
+    "file": "pinyin/zan1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zen1",
+    "file": "pinyin/zen1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zang1",
+    "file": "pinyin/zang1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zeng1",
+    "file": "pinyin/zeng1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zong1",
+    "file": "pinyin/zong1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zi1",
+    "file": "pinyin/zi1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zu1",
+    "file": "pinyin/zu1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zuo1",
+    "file": "pinyin/zuo1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zui1",
+    "file": "pinyin/zui1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zuan1",
+    "file": "pinyin/zuan1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-zun1",
+    "file": "pinyin/zun1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ca1",
+    "file": "pinyin/ca1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ce1",
+    "file": "pinyin/ce1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-cai1",
+    "file": "pinyin/cai1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-cao1",
+    "file": "pinyin/cao1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-cou1",
+    "file": "pinyin/cou1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-can1",
+    "file": "pinyin/can1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-cen1",
+    "file": "pinyin/cen1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-cang1",
+    "file": "pinyin/cang1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ceng1",
+    "file": "pinyin/ceng1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-cong1",
+    "file": "pinyin/cong1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ci1",
+    "file": "pinyin/ci1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-cu1",
+    "file": "pinyin/cu1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-cuo1",
+    "file": "pinyin/cuo1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-cui1",
+    "file": "pinyin/cui1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-cuan1",
+    "file": "pinyin/cuan1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-cun1",
+    "file": "pinyin/cun1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-sa1",
+    "file": "pinyin/sa1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-se1",
+    "file": "pinyin/se1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-sai1",
+    "file": "pinyin/sai1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-sao1",
+    "file": "pinyin/sao1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-sou1",
+    "file": "pinyin/sou1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-san1",
+    "file": "pinyin/san1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-sen1",
+    "file": "pinyin/sen1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-sang1",
+    "file": "pinyin/sang1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-seng1",
+    "file": "pinyin/seng1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-song1",
+    "file": "pinyin/song1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-si1",
+    "file": "pinyin/si1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-su1",
+    "file": "pinyin/su1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-suo1",
+    "file": "pinyin/suo1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-sui1",
+    "file": "pinyin/sui1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-suan1",
+    "file": "pinyin/suan1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-sun1",
+    "file": "pinyin/sun1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-a1",
+    "file": "pinyin/a1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-e1",
+    "file": "pinyin/e1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ai1",
+    "file": "pinyin/ai1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ei1",
+    "file": "pinyin/ei1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ao1",
+    "file": "pinyin/ao1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ou1",
+    "file": "pinyin/ou1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-an1",
+    "file": "pinyin/an1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-en1",
+    "file": "pinyin/en1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ang1",
+    "file": "pinyin/ang1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-er1",
+    "file": "pinyin/er1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-yi1",
+    "file": "pinyin/yi1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ya1",
+    "file": "pinyin/ya1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ye1",
+    "file": "pinyin/ye1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-yao1",
+    "file": "pinyin/yao1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-you1",
+    "file": "pinyin/you1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-yan1",
+    "file": "pinyin/yan1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-yin1",
+    "file": "pinyin/yin1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-yang1",
+    "file": "pinyin/yang1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-ying1",
+    "file": "pinyin/ying1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-yong1",
+    "file": "pinyin/yong1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-wu1",
+    "file": "pinyin/wu1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-wa1",
+    "file": "pinyin/wa1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-wo1",
+    "file": "pinyin/wo1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-wai1",
+    "file": "pinyin/wai1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-wei1",
+    "file": "pinyin/wei1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-wan1",
+    "file": "pinyin/wan1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-wen1",
+    "file": "pinyin/wen1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-wang1",
+    "file": "pinyin/wang1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-weng1",
+    "file": "pinyin/weng1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-yu1",
+    "file": "pinyin/yu1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-yue1",
+    "file": "pinyin/yue1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-yuan1",
+    "file": "pinyin/yuan1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
+  },
+  {
+    "id": "audio-yun1",
+    "file": "pinyin/yun1.mp3",
+    "source": "davinfifield/mp3-chinese-pinyin-sound (Unlicense / public domain)"
   }
 ]

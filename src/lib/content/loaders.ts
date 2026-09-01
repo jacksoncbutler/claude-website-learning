@@ -17,6 +17,7 @@ import rawProverbs from '@/data/proverbs/proverbs.json';
 import { parsePinyinSyllables, parseAudioAssets, parseProverbs } from './schema';
 import type { AudioAsset, ModuleDefinition, PinyinSyllableItem, Proverb } from './types';
 import { getModules as getModuleRegistry } from './modules';
+import { withBasePath } from '@/lib/basePath';
 
 export interface PinyinInitial {
   id: string;
@@ -82,7 +83,10 @@ export function resolveAudioSrc(audioId?: string): ResolvedAudio {
 
   const absolutePath = path.join(process.cwd(), 'public', 'audio', asset.file);
   const available = fs.existsSync(absolutePath);
-  return { src: `/audio/${asset.file}`, available };
+  // withBasePath: files under /public are served as-is by Next, so a plain
+  // "/audio/..." string (unlike next/link) needs the GitHub Pages basePath
+  // added by hand — see src/lib/basePath.ts.
+  return { src: withBasePath(`/audio/${asset.file}`), available };
 }
 
 // --- Proverbs -------------------------------------------------------

@@ -4,36 +4,52 @@
     "symbol": "a"
   },
   {
-    "id": "ai",
-    "symbol": "ai"
-  },
-  {
-    "id": "an",
-    "symbol": "an"
-  },
-  {
-    "id": "ang",
-    "symbol": "ang"
-  },
-  {
-    "id": "ao",
-    "symbol": "ao"
+    "id": "o",
+    "symbol": "o"
   },
   {
     "id": "e",
     "symbol": "e"
   },
   {
+    "id": "ai",
+    "symbol": "ai"
+  },
+  {
     "id": "ei",
     "symbol": "ei"
+  },
+  {
+    "id": "ao",
+    "symbol": "ao"
+  },
+  {
+    "id": "ou",
+    "symbol": "ou"
+  },
+  {
+    "id": "an",
+    "symbol": "an"
   },
   {
     "id": "en",
     "symbol": "en"
   },
   {
+    "id": "ang",
+    "symbol": "ang"
+  },
+  {
     "id": "eng",
     "symbol": "eng"
+  },
+  {
+    "id": "ong",
+    "symbol": "ong"
+  },
+  {
+    "id": "er",
+    "symbol": "er"
   },
   {
     "id": "i",
@@ -44,44 +60,36 @@
     "symbol": "ia"
   },
   {
-    "id": "ian",
-    "symbol": "ian"
-  },
-  {
-    "id": "iang",
-    "symbol": "iang"
+    "id": "ie",
+    "symbol": "ie"
   },
   {
     "id": "iao",
     "symbol": "iao"
   },
   {
-    "id": "ie",
-    "symbol": "ie"
+    "id": "iu",
+    "symbol": "iu"
+  },
+  {
+    "id": "ian",
+    "symbol": "ian"
   },
   {
     "id": "in",
     "symbol": "in"
   },
   {
+    "id": "iang",
+    "symbol": "iang"
+  },
+  {
     "id": "ing",
     "symbol": "ing"
   },
   {
-    "id": "iu",
-    "symbol": "iu"
-  },
-  {
-    "id": "o",
-    "symbol": "o"
-  },
-  {
-    "id": "ong",
-    "symbol": "ong"
-  },
-  {
-    "id": "ou",
-    "symbol": "ou"
+    "id": "iong",
+    "symbol": "iong"
   },
   {
     "id": "u",
@@ -92,28 +100,32 @@
     "symbol": "ua"
   },
   {
+    "id": "uo",
+    "symbol": "uo"
+  },
+  {
     "id": "uai",
     "symbol": "uai"
-  },
-  {
-    "id": "uan",
-    "symbol": "uan"
-  },
-  {
-    "id": "uang",
-    "symbol": "uang"
   },
   {
     "id": "ui",
     "symbol": "ui"
   },
   {
+    "id": "uan",
+    "symbol": "uan"
+  },
+  {
     "id": "un",
     "symbol": "un"
   },
   {
-    "id": "uo",
-    "symbol": "uo"
+    "id": "uang",
+    "symbol": "uang"
+  },
+  {
+    "id": "ueng",
+    "symbol": "ueng"
   },
   {
     "id": "v",
@@ -122,5 +134,13 @@
   {
     "id": "ve",
     "symbol": "üe"
+  },
+  {
+    "id": "van",
+    "symbol": "üan"
+  },
+  {
+    "id": "vn",
+    "symbol": "ün"
   }
 ]
