@@ -140,7 +140,10 @@ const TONE_REVERSE = {
   ī: ['i', 1], í: ['i', 2], ǐ: ['i', 3], ì: ['i', 4],
   ō: ['o', 1], ó: ['o', 2], ǒ: ['o', 3], ò: ['o', 4],
   ū: ['u', 1], ú: ['u', 2], ǔ: ['u', 3], ù: ['u', 4],
-  ǖ: ['ü', 1], ǘ: ['ü', 2], ǚ: ['ü', 3], ǜ: ['ü', 4],
+  // 'v' is the ASCII stand-in for ü, matching scripts/generate-pinyin-data.mjs's
+  // convention (and davinfifield's audio filenames, e.g. "nv3.mp3") — using
+  // literal ü here would silently break audioId matching against that data.
+  ǖ: ['v', 1], ǘ: ['v', 2], ǚ: ['v', 3], ǜ: ['v', 4],
 };
 
 function toNumericPinyin(marked) {
@@ -171,6 +174,12 @@ const items = RADICALS.map(([kangxiNumber, formsStr, pinyin, meaning, strokeCoun
     strokeCount,
     ...(notes ? { notes } : {}),
     tags: ['kangxi-100'],
+    // A radical's pronunciation IS its pinyin reading — reuses the exact
+    // same audio-assets.json entries (and files under public/audio/pinyin/)
+    // already fetched for the pinyin module, rather than sourcing/storing
+    // duplicate recordings. Resolves to "not available" gracefully for the
+    // handful of readings that source doesn't have (e.g. nǚ/nv3).
+    audioId: `audio-${numeric}`,
   };
 });
 

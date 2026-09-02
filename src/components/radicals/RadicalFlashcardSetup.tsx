@@ -3,10 +3,10 @@
 import { useState } from 'react';
 import { RadicalFlashcardDeck } from './RadicalFlashcardDeck';
 import { RadicalStudySetPicker } from './RadicalStudySetPicker';
-import type { RadicalItem } from '@/lib/content/types';
+import type { RadicalAudioItem } from './types';
 
-export function RadicalFlashcardSetup({ radicals }: { radicals: RadicalItem[] }) {
-  const [activeItems, setActiveItems] = useState<RadicalItem[] | null>(null);
+export function RadicalFlashcardSetup({ radicals }: { radicals: RadicalAudioItem[] }) {
+  const [activeItems, setActiveItems] = useState<RadicalAudioItem[] | null>(null);
 
   if (activeItems) {
     return (

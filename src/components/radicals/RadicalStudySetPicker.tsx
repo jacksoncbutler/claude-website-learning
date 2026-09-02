@@ -2,14 +2,14 @@
 
 import { useMemo, useState } from 'react';
 import { CheckboxFilterGroup } from '@/components/ui/CheckboxFilterGroup';
-import type { RadicalItem } from '@/lib/content/types';
+import type { RadicalAudioItem } from './types';
 
 type StudyMode = 'filter' | 'manual';
 
 export interface RadicalStudySetPickerProps {
-  items: RadicalItem[];
+  items: RadicalAudioItem[];
   /** Called with the resolved selection when the user clicks the start button. */
-  onStart: (items: RadicalItem[]) => void;
+  onStart: (items: RadicalAudioItem[]) => void;
   /** Label for the start button, e.g. "Start flashcards". */
   startLabel?: string;
 }
@@ -53,7 +53,7 @@ export function RadicalStudySetPicker({ items, onStart, startLabel = 'Start' }: 
     });
   }
 
-  function currentSelection(): RadicalItem[] {
+  function currentSelection(): RadicalAudioItem[] {
     if (mode === 'manual') {
       return items.filter((item) => manualSelectedIds.has(item.id));
     }

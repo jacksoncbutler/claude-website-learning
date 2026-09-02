@@ -1,5 +1,6 @@
 import { TableView } from '@/components/views/TableView';
-import type { RadicalItem } from '@/lib/content/types';
+import { AudioButton } from '@/components/audio/AudioButton';
+import type { RadicalAudioItem } from './types';
 
 /**
  * Grouped by stroke count ascending — the universal convention for radical
@@ -7,8 +8,8 @@ import type { RadicalItem } from '@/lib/content/types';
  * generic list-mode TableView per group rather than teaching TableView a
  * new "grouped" mode it doesn't otherwise need.
  */
-export function RadicalsTable({ radicals }: { radicals: RadicalItem[] }) {
-  const byStrokeCount = new Map<number, RadicalItem[]>();
+export function RadicalsTable({ radicals }: { radicals: RadicalAudioItem[] }) {
+  const byStrokeCount = new Map<number, RadicalAudioItem[]>();
   for (const radical of radicals) {
     const group = byStrokeCount.get(radical.strokeCount);
     if (group) group.push(radical);
@@ -23,13 +24,22 @@ export function RadicalsTable({ radicals }: { radicals: RadicalItem[] }) {
           <h2 className="text-sm font-semibold uppercase tracking-wide text-neutral-500">
             {strokeCount} stroke{strokeCount === 1 ? '' : 's'}
           </h2>
-          <TableView<RadicalItem>
+          <TableView<RadicalAudioItem>
             mode="list"
             items={byStrokeCount.get(strokeCount)!}
             getRowId={(item) => item.id}
             columns={[
               { key: 'form', label: 'Radical', render: (item) => <span className="text-2xl">{item.simplified}</span> },
-              { key: 'pinyin', label: 'Pinyin', render: (item) => item.pinyin },
+              {
+                key: 'pinyin',
+                label: 'Pinyin',
+                render: (item) => (
+                  <div className="flex items-center gap-1.5">
+                    <span>{item.pinyin}</span>
+                    <AudioButton src={item.audioSrc} available={item.audioAvailable} label={`Play ${item.pinyin}`} />
+                  </div>
+                ),
+              },
               {
                 key: 'meaning',
                 label: 'Meaning',
