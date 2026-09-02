@@ -48,6 +48,7 @@ export const LearningItemSchema = z
     partOfSpeech: z.array(z.string()).optional(),
 
     hskLevel: HskLevelSchema.optional(),
+    strokeCount: z.number().optional(),
 
     radicalComponents: z.array(z.string()).optional(),
     relatedItemIds: z.array(z.string()).optional(),
@@ -73,6 +74,16 @@ export const PinyinSyllableItemSchema = LearningItemSchema.extend({
   toneNumber: ToneNumberSchema,
   pinyin: z.string(),
   pinyinNumeric: z.string(),
+});
+
+export const RadicalItemSchema = LearningItemSchema.extend({
+  kind: z.literal('radical'),
+  kangxiNumber: z.number(),
+  simplified: z.string(),
+  traditional: z.string(),
+  pinyin: z.string(),
+  pinyinNumeric: z.string(),
+  strokeCount: z.number(),
 });
 
 export const AudioAssetSchema = z.object({
@@ -103,4 +114,8 @@ export function parseAudioAssets(data: unknown) {
 
 export function parseProverbs(data: unknown) {
   return z.array(ProverbSchema).parse(data);
+}
+
+export function parseRadicals(data: unknown) {
+  return z.array(RadicalItemSchema).parse(data);
 }

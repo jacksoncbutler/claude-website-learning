@@ -13,9 +13,10 @@ import rawFinals from '@/data/pinyin/finals.json';
 import rawValidSyllables from '@/data/pinyin/valid-syllables.json';
 import rawAudioAssets from '@/data/audio/audio-assets.json';
 import rawProverbs from '@/data/proverbs/proverbs.json';
+import rawRadicals from '@/data/radicals/radicals.json';
 
-import { parsePinyinSyllables, parseAudioAssets, parseProverbs } from './schema';
-import type { AudioAsset, ModuleDefinition, PinyinSyllableItem, Proverb } from './types';
+import { parsePinyinSyllables, parseAudioAssets, parseProverbs, parseRadicals } from './schema';
+import type { AudioAsset, ModuleDefinition, PinyinSyllableItem, Proverb, RadicalItem } from './types';
 import { getModules as getModuleRegistry } from './modules';
 import { withBasePath } from '@/lib/basePath';
 
@@ -87,6 +88,12 @@ export function resolveAudioSrc(audioId?: string): ResolvedAudio {
   // "/audio/..." string (unlike next/link) needs the GitHub Pages basePath
   // added by hand — see src/lib/basePath.ts.
   return { src: withBasePath(`/audio/${asset.file}`), available };
+}
+
+// --- Radicals -------------------------------------------------------
+
+export function getRadicals(): RadicalItem[] {
+  return parseRadicals(rawRadicals) as RadicalItem[];
 }
 
 // --- Proverbs -------------------------------------------------------

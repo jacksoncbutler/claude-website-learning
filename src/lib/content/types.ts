@@ -39,6 +39,8 @@ export interface LearningItem {
 
   // --- Curriculum placement -----------------------------------------------
   hskLevel?: 1 | 2 | 3 | 4 | 5 | 6;
+  /** Stroke count — used by radicals (and later hanzi) for grouping/sorting. */
+  strokeCount?: number;
 
   // --- Composition (radicals / hanzi) --------------------------------------
   /** ids of component LearningItems this item is built from (e.g. radicals). */
@@ -74,6 +76,18 @@ export interface PinyinSyllableItem extends LearningItem {
   toneNumber: 1 | 2 | 3 | 4 | 5;
   pinyin: string;
   pinyinNumeric: string;
+}
+
+/** Radical-specific shape layered on top of the shared LearningItem. */
+export interface RadicalItem extends LearningItem {
+  kind: 'radical';
+  /** Standard Kangxi radical number (1-214) — a stable, well-known ordering. */
+  kangxiNumber: number;
+  simplified: string;
+  traditional: string;
+  pinyin: string;
+  pinyinNumeric: string;
+  strokeCount: number;
 }
 
 /**
