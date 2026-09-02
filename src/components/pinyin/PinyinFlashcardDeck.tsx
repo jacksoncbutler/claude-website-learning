@@ -2,7 +2,7 @@
 
 import { FlashcardView } from '@/components/views/FlashcardView';
 import { AudioButton } from '@/components/audio/AudioButton';
-import type { PinyinSyllableItem } from '@/lib/content/types';
+import type { PinyinTableItem } from './PinyinTableClient';
 
 /**
  * `FlashcardView` is a Client Component and its render-prop functions
@@ -10,15 +10,14 @@ import type { PinyinSyllableItem } from '@/lib/content/types';
  * function props can't cross the server/client boundary. So the server page
  * resolves audio into plain, serializable data and hands it to this small
  * client wrapper, which owns the render-prop closures instead.
+ *
+ * Uses the same PinyinTableItem shape as the table/quiz setup screens
+ * (rather than its own duplicate type) since it's structurally identical —
+ * one shape for "a pinyin syllable plus its resolved audio" everywhere.
  */
-export interface PinyinFlashcardItem extends PinyinSyllableItem {
-  audioSrc: string;
-  audioAvailable: boolean;
-}
-
-export function PinyinFlashcardDeck({ items }: { items: PinyinFlashcardItem[] }) {
+export function PinyinFlashcardDeck({ items }: { items: PinyinTableItem[] }) {
   return (
-    <FlashcardView<PinyinFlashcardItem>
+    <FlashcardView<PinyinTableItem>
       items={items}
       renderFront={(item) => (
         <div className="flex flex-col items-center gap-3">
