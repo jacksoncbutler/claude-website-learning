@@ -1,14 +1,20 @@
 'use client';
 
 import { FlashcardView } from '@/components/views/FlashcardView';
-import type { RadicalItem } from '@/lib/content/types';
+import { AudioButton } from '@/components/audio/AudioButton';
+import type { RadicalAudioItem } from './types';
 
-/** Front: just the radical. Back: pronunciation and meaning. */
-export function RadicalFlashcardDeck({ radicals }: { radicals: RadicalItem[] }) {
+/** Front: the radical plus a play button. Back: pronunciation and meaning. */
+export function RadicalFlashcardDeck({ radicals }: { radicals: RadicalAudioItem[] }) {
   return (
-    <FlashcardView<RadicalItem>
+    <FlashcardView<RadicalAudioItem>
       items={radicals}
-      renderFront={(item) => <span className="text-7xl font-semibold">{item.simplified}</span>}
+      renderFront={(item) => (
+        <div className="flex flex-col items-center gap-3">
+          <span className="text-7xl font-semibold">{item.simplified}</span>
+          <AudioButton src={item.audioSrc} available={item.audioAvailable} label={`Play ${item.pinyin}`} />
+        </div>
+      )}
       renderBack={(item) => (
         <div className="flex flex-col items-center gap-2 text-neutral-700">
           <p className="text-2xl font-medium">{item.pinyin}</p>
