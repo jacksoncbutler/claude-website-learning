@@ -2,36 +2,32 @@
 
 import { useMemo, useState } from 'react';
 import { CheckboxFilterGroup } from '@/components/ui/CheckboxFilterGroup';
-import type { PinyinTableItem } from './PinyinTableClient';
+import type { RadicalItem } from '@/lib/content/types';
 
 type StudyMode = 'filter' | 'manual';
 
-const ALL_TONES = [1, 2, 3, 4, 5] as const;
-const TONE_LABELS: Record<number, string> = { 1: '1st', 2: '2nd', 3: '3rd', 4: '4th', 5: 'Neutral' };
-
-export interface PinyinStudySetPickerProps {
-  items: PinyinTableItem[];
-  initials: { id: string; symbol: string }[];
-  finals: { id: string; symbol: string }[];
+export interface RadicalStudySetPickerProps {
+  items: RadicalItem[];
   /** Called with the resolved selection when the user clicks the start button. */
-  onStart: (items: PinyinTableItem[]) => void;
-  /** Label for the start button, e.g. "Start quiz" vs "Start flashcards". */
+  onStart: (items: RadicalItem[]) => void;
+  /** Label for the start button, e.g. "Start flashcards". */
   startLabel?: string;
 }
 
 /**
- * Reusable "which syllables do you want to study" picker: multi-select
- * rows/columns/tones (intersecting) or a manual search-and-pick list.
- * Content-neutral about what happens next — the caller decides via
- * `onStart` (e.g. Listen and Write starts a quiz, flashcards starts a
- * deck), so this same picker serves both without duplication.
+ * "Which radicals do you want to study" picker, mirroring
+ * PinyinStudySetPicker's shape (filter vs. manual search-and-pick) — the
+ * filter dimension here is stroke count, radicals' natural grouping,
+ * rather than pinyin's rows/columns/tones.
  */
-export function PinyinStudySetPicker({ items, initials, finals, onStart, startLabel = 'Start' }: PinyinStudySetPickerProps) {
+export function RadicalStudySetPicker({ items, onStart, startLabel = 'Start' }: RadicalStudySetPickerProps) {
   const [mode, setMode] = useState<StudyMode>('filter');
 
-  const [selectedInitials, setSelectedInitials] = useState<Set<string>>(() => new Set(initials.map((i) => i.id)));
-  const [selectedFinals, setSelectedFinals] = useState<Set<string>>(() => new Set(finals.map((f) => f.id)));
-  const [selectedTones, setSelectedTones] = useState<Set<number>>(() => new Set(ALL_TONES));
+  const strokeCounts = useMemo(
+    () => [...new Set(items.map((item) => item.strokeCount))].sort((a, b) => a - b),
+    [items],
+  );
+  const [selectedStrokeCounts, setSelectedStrokeCounts] = useState<Set<number>>(() => new Set(strokeCounts));
 
   const [manualSearch, setManualSearch] = useState('');
   const [manualSelectedIds, setManualSelectedIds] = useState<Set<string>>(new Set());
@@ -39,10 +35,12 @@ export function PinyinStudySetPicker({ items, initials, finals, onStart, startLa
   const manualFiltered = useMemo(() => {
     const search = manualSearch.trim().toLowerCase();
     if (!search) return items;
-    // Match on the numeric form too — typing tone marks (bā vs ba) isn't
-    // practical, so plain "ba1" (or even just "ba") needs to find it.
     return items.filter(
-      (item) => item.pinyin.toLowerCase().includes(search) || item.pinyinNumeric.toLowerCase().includes(search),
+      (item) =>
+        item.simplified.includes(search) ||
+        item.pinyin.toLowerCase().includes(search) ||
+        item.pinyinNumeric.toLowerCase().includes(search) ||
+        item.definitions?.some((d) => d.toLowerCase().includes(search)),
     );
   }, [items, manualSearch]);
 
@@ -55,14 +53,11 @@ export function PinyinStudySetPicker({ items, initials, finals, onStart, startLa
     });
   }
 
-  function currentSelection(): PinyinTableItem[] {
+  function currentSelection(): RadicalItem[] {
     if (mode === 'manual') {
       return items.filter((item) => manualSelectedIds.has(item.id));
     }
-    return items.filter(
-      (item) =>
-        selectedInitials.has(item.initial) && selectedFinals.has(item.final) && selectedTones.has(item.toneNumber),
-    );
+    return items.filter((item) => selectedStrokeCounts.has(item.strokeCount));
   }
 
   return (
@@ -70,7 +65,7 @@ export function PinyinStudySetPicker({ items, initials, finals, onStart, startLa
       <div className="flex flex-wrap gap-2" role="radiogroup" aria-label="Study set">
         {(
           [
-            ['filter', 'Rows, columns and tones'],
+            ['filter', 'Stroke count'],
             ['manual', 'Manual selection'],
           ] as [StudyMode, string][]
         ).map(([m, label]) => (
@@ -93,26 +88,12 @@ export function PinyinStudySetPicker({ items, initials, finals, onStart, startLa
       </div>
 
       {mode === 'filter' && (
-        <div className="flex flex-col gap-4">
-          <CheckboxFilterGroup
-            label="Rows (initials)"
-            options={initials.map((i) => ({ value: i.id, display: i.symbol }))}
-            selected={selectedInitials}
-            onChange={setSelectedInitials}
-          />
-          <CheckboxFilterGroup
-            label="Columns (finals)"
-            options={finals.map((f) => ({ value: f.id, display: f.symbol }))}
-            selected={selectedFinals}
-            onChange={setSelectedFinals}
-          />
-          <CheckboxFilterGroup
-            label="Tones"
-            options={ALL_TONES.map((t) => ({ value: t, display: TONE_LABELS[t] }))}
-            selected={selectedTones}
-            onChange={setSelectedTones}
-          />
-        </div>
+        <CheckboxFilterGroup
+          label="Stroke count"
+          options={strokeCounts.map((n) => ({ value: n, display: String(n) }))}
+          selected={selectedStrokeCounts}
+          onChange={setSelectedStrokeCounts}
+        />
       )}
 
       {mode === 'manual' && (
@@ -122,8 +103,8 @@ export function PinyinStudySetPicker({ items, initials, finals, onStart, startLa
               type="text"
               value={manualSearch}
               onChange={(e) => setManualSearch(e.target.value)}
-              placeholder="Search pinyin..."
-              className="w-48 rounded-md border border-neutral-300 px-2 py-1 text-sm"
+              placeholder="Search radical, pinyin, or meaning..."
+              className="w-64 rounded-md border border-neutral-300 px-2 py-1 text-sm"
             />
             <button
               type="button"
@@ -141,12 +122,8 @@ export function PinyinStudySetPicker({ items, initials, finals, onStart, startLa
             <div className="grid grid-cols-3 gap-1 sm:grid-cols-4">
               {manualFiltered.map((item) => (
                 <label key={item.id} className="flex items-center gap-1.5 text-sm">
-                  <input
-                    type="checkbox"
-                    checked={manualSelectedIds.has(item.id)}
-                    onChange={() => toggleManual(item.id)}
-                  />
-                  {item.pinyin}
+                  <input type="checkbox" checked={manualSelectedIds.has(item.id)} onChange={() => toggleManual(item.id)} />
+                  <span className="text-lg">{item.simplified}</span> {item.pinyin}
                 </label>
               ))}
             </div>
@@ -155,7 +132,7 @@ export function PinyinStudySetPicker({ items, initials, finals, onStart, startLa
       )}
 
       <div>
-        <p className="mb-2 text-sm text-neutral-500">{currentSelection().length} syllable(s) in this set.</p>
+        <p className="mb-2 text-sm text-neutral-500">{currentSelection().length} radical(s) in this set.</p>
         <button
           type="button"
           disabled={currentSelection().length === 0}
