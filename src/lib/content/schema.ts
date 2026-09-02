@@ -119,3 +119,9 @@ export function parseProverbs(data: unknown) {
 export function parseRadicals(data: unknown) {
   return z.array(RadicalItemSchema).parse(data);
 }
+
+/** Generic parser for content that doesn't need its own extended schema
+ * (e.g. HSK vocab words — just a `kind: 'word'` LearningItem). */
+export function parseLearningItems(data: unknown) {
+  return z.array(LearningItemSchema).parse(data);
+}

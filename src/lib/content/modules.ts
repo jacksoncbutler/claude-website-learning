@@ -29,7 +29,7 @@ export const modules: ModuleDefinition[] = [
     title: 'HSK 1',
     description: 'First 150 words and characters.',
     route: '/hsk1',
-    status: 'coming-soon',
+    status: 'available',
   },
   {
     id: 'hsk2',
