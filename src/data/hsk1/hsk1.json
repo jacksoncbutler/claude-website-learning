@@ -1,0 +1,2334 @@
+[
+  {
+    "id": "hsk1-001",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "爱",
+    "traditional": "爱",
+    "pinyin": "ài",
+    "pinyinNumeric": "ai4",
+    "definitions": [
+      "to love"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-ai4"
+  },
+  {
+    "id": "hsk1-002",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "八",
+    "traditional": "八",
+    "pinyin": "bā",
+    "pinyinNumeric": "ba1",
+    "definitions": [
+      "eight"
+    ],
+    "partOfSpeech": [
+      "number"
+    ],
+    "audioId": "audio-ba1"
+  },
+  {
+    "id": "hsk1-003",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "爸爸",
+    "traditional": "爸爸",
+    "pinyin": "bà ba",
+    "pinyinNumeric": "ba4 ba5",
+    "definitions": [
+      "father, dad"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-004",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "杯子",
+    "traditional": "杯子",
+    "pinyin": "bēi zi",
+    "pinyinNumeric": "bei1 zi5",
+    "definitions": [
+      "cup, glass"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-005",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "北京",
+    "traditional": "北京",
+    "pinyin": "Běi jīng",
+    "pinyinNumeric": "bei3 jing1",
+    "definitions": [
+      "Beijing"
+    ],
+    "partOfSpeech": [
+      "proper noun"
+    ]
+  },
+  {
+    "id": "hsk1-006",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "本",
+    "traditional": "本",
+    "pinyin": "běn",
+    "pinyinNumeric": "ben3",
+    "definitions": [
+      "(measure word for books)"
+    ],
+    "partOfSpeech": [
+      "measure word"
+    ],
+    "audioId": "audio-ben3"
+  },
+  {
+    "id": "hsk1-007",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "不客气",
+    "traditional": "不客气",
+    "pinyin": "bú kè qi",
+    "pinyinNumeric": "bu2 ke4 qi5",
+    "definitions": [
+      "you're welcome"
+    ],
+    "partOfSpeech": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "hsk1-008",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "不",
+    "traditional": "不",
+    "pinyin": "bù",
+    "pinyinNumeric": "bu4",
+    "definitions": [
+      "not, no"
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "audioId": "audio-bu4"
+  },
+  {
+    "id": "hsk1-009",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "菜",
+    "traditional": "菜",
+    "pinyin": "cài",
+    "pinyinNumeric": "cai4",
+    "definitions": [
+      "dish, vegetable"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-cai4"
+  },
+  {
+    "id": "hsk1-010",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "茶",
+    "traditional": "茶",
+    "pinyin": "chá",
+    "pinyinNumeric": "cha2",
+    "definitions": [
+      "tea"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-cha2"
+  },
+  {
+    "id": "hsk1-011",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "吃",
+    "traditional": "吃",
+    "pinyin": "chī",
+    "pinyinNumeric": "chi1",
+    "definitions": [
+      "to eat"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-chi1"
+  },
+  {
+    "id": "hsk1-012",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "出租车",
+    "traditional": "出租车",
+    "pinyin": "chū zū chē",
+    "pinyinNumeric": "chu1 zu1 che1",
+    "definitions": [
+      "taxi"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-013",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "打电话",
+    "traditional": "打电话",
+    "pinyin": "dǎ diàn huà",
+    "pinyinNumeric": "da3 dian4 hua4",
+    "definitions": [
+      "to make a phone call"
+    ],
+    "partOfSpeech": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "hsk1-014",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "大",
+    "traditional": "大",
+    "pinyin": "dà",
+    "pinyinNumeric": "da4",
+    "definitions": [
+      "big, large"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "audioId": "audio-da4"
+  },
+  {
+    "id": "hsk1-015",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "的",
+    "traditional": "的",
+    "pinyin": "de",
+    "pinyinNumeric": "de5",
+    "definitions": [
+      "(possessive/modifying particle)"
+    ],
+    "partOfSpeech": [
+      "particle"
+    ],
+    "audioId": "audio-de5"
+  },
+  {
+    "id": "hsk1-016",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "点",
+    "traditional": "点",
+    "pinyin": "diǎn",
+    "pinyinNumeric": "dian3",
+    "definitions": [
+      "o'clock; a little"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-dian3"
+  },
+  {
+    "id": "hsk1-017",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "电脑",
+    "traditional": "电脑",
+    "pinyin": "diàn nǎo",
+    "pinyinNumeric": "dian4 nao3",
+    "definitions": [
+      "computer"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-018",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "电视",
+    "traditional": "电视",
+    "pinyin": "diàn shì",
+    "pinyinNumeric": "dian4 shi4",
+    "definitions": [
+      "television"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-019",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "电影",
+    "traditional": "电影",
+    "pinyin": "diàn yǐng",
+    "pinyinNumeric": "dian4 ying3",
+    "definitions": [
+      "movie"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-020",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "东西",
+    "traditional": "东西",
+    "pinyin": "dōng xi",
+    "pinyinNumeric": "dong1 xi5",
+    "definitions": [
+      "thing, object"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-021",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "都",
+    "traditional": "都",
+    "pinyin": "dōu",
+    "pinyinNumeric": "dou1",
+    "definitions": [
+      "all, both"
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "audioId": "audio-dou1"
+  },
+  {
+    "id": "hsk1-022",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "读",
+    "traditional": "读",
+    "pinyin": "dú",
+    "pinyinNumeric": "du2",
+    "definitions": [
+      "to read"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-du2"
+  },
+  {
+    "id": "hsk1-023",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "对不起",
+    "traditional": "对不起",
+    "pinyin": "duì bu qǐ",
+    "pinyinNumeric": "dui4 bu5 qi3",
+    "definitions": [
+      "sorry"
+    ],
+    "partOfSpeech": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "hsk1-024",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "多",
+    "traditional": "多",
+    "pinyin": "duō",
+    "pinyinNumeric": "duo1",
+    "definitions": [
+      "many, much"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "audioId": "audio-duo1"
+  },
+  {
+    "id": "hsk1-025",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "多少",
+    "traditional": "多少",
+    "pinyin": "duō shao",
+    "pinyinNumeric": "duo1 shao5",
+    "definitions": [
+      "how many, how much"
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "hsk1-026",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "儿子",
+    "traditional": "儿子",
+    "pinyin": "ér zi",
+    "pinyinNumeric": "er2 zi5",
+    "definitions": [
+      "son"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-027",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "二",
+    "traditional": "二",
+    "pinyin": "èr",
+    "pinyinNumeric": "er4",
+    "definitions": [
+      "two"
+    ],
+    "partOfSpeech": [
+      "number"
+    ],
+    "audioId": "audio-er4"
+  },
+  {
+    "id": "hsk1-028",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "饭店",
+    "traditional": "饭店",
+    "pinyin": "fàn diàn",
+    "pinyinNumeric": "fan4 dian4",
+    "definitions": [
+      "restaurant, hotel"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-029",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "飞机",
+    "traditional": "飞机",
+    "pinyin": "fēi jī",
+    "pinyinNumeric": "fei1 ji1",
+    "definitions": [
+      "airplane"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-030",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "分钟",
+    "traditional": "分钟",
+    "pinyin": "fēn zhōng",
+    "pinyinNumeric": "fen1 zhong1",
+    "definitions": [
+      "minute"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-031",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "高兴",
+    "traditional": "高兴",
+    "pinyin": "gāo xìng",
+    "pinyinNumeric": "gao1 xing4",
+    "definitions": [
+      "happy, glad"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "hsk1-032",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "个",
+    "traditional": "个",
+    "pinyin": "gè",
+    "pinyinNumeric": "ge4",
+    "definitions": [
+      "(general measure word)"
+    ],
+    "partOfSpeech": [
+      "measure word"
+    ],
+    "audioId": "audio-ge4"
+  },
+  {
+    "id": "hsk1-033",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "工作",
+    "traditional": "工作",
+    "pinyin": "gōng zuò",
+    "pinyinNumeric": "gong1 zuo4",
+    "definitions": [
+      "to work; job"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "id": "hsk1-034",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "狗",
+    "traditional": "狗",
+    "pinyin": "gǒu",
+    "pinyinNumeric": "gou3",
+    "definitions": [
+      "dog"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-gou3"
+  },
+  {
+    "id": "hsk1-035",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "汉语",
+    "traditional": "汉语",
+    "pinyin": "Hàn yǔ",
+    "pinyinNumeric": "han4 yu3",
+    "definitions": [
+      "Chinese (language)"
+    ],
+    "partOfSpeech": [
+      "proper noun"
+    ]
+  },
+  {
+    "id": "hsk1-036",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "好",
+    "traditional": "好",
+    "pinyin": "hǎo",
+    "pinyinNumeric": "hao3",
+    "definitions": [
+      "good, well"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "audioId": "audio-hao3"
+  },
+  {
+    "id": "hsk1-037",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "号",
+    "traditional": "号",
+    "pinyin": "hào",
+    "pinyinNumeric": "hao4",
+    "definitions": [
+      "number; day of the month"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-hao4"
+  },
+  {
+    "id": "hsk1-038",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "喝",
+    "traditional": "喝",
+    "pinyin": "hē",
+    "pinyinNumeric": "he1",
+    "definitions": [
+      "to drink"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-he1"
+  },
+  {
+    "id": "hsk1-039",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "和",
+    "traditional": "和",
+    "pinyin": "hé",
+    "pinyinNumeric": "he2",
+    "definitions": [
+      "and, with"
+    ],
+    "partOfSpeech": [
+      "conjunction"
+    ],
+    "audioId": "audio-he2"
+  },
+  {
+    "id": "hsk1-040",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "很",
+    "traditional": "很",
+    "pinyin": "hěn",
+    "pinyinNumeric": "hen3",
+    "definitions": [
+      "very"
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "audioId": "audio-hen3"
+  },
+  {
+    "id": "hsk1-041",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "后面",
+    "traditional": "后面",
+    "pinyin": "hòu mian",
+    "pinyinNumeric": "hou4 mian5",
+    "definitions": [
+      "behind, in the back"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-042",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "回",
+    "traditional": "回",
+    "pinyin": "huí",
+    "pinyinNumeric": "hui2",
+    "definitions": [
+      "to return"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-hui2"
+  },
+  {
+    "id": "hsk1-043",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "会",
+    "traditional": "会",
+    "pinyin": "huì",
+    "pinyinNumeric": "hui4",
+    "definitions": [
+      "can, to know how to"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-hui4"
+  },
+  {
+    "id": "hsk1-044",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "几",
+    "traditional": "几",
+    "pinyin": "jǐ",
+    "pinyinNumeric": "ji3",
+    "definitions": [
+      "how many; several"
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "audioId": "audio-ji3"
+  },
+  {
+    "id": "hsk1-045",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "家",
+    "traditional": "家",
+    "pinyin": "jiā",
+    "pinyinNumeric": "jia1",
+    "definitions": [
+      "home, family"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-jia1"
+  },
+  {
+    "id": "hsk1-046",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "叫",
+    "traditional": "叫",
+    "pinyin": "jiào",
+    "pinyinNumeric": "jiao4",
+    "definitions": [
+      "to be called, to call"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-jiao4"
+  },
+  {
+    "id": "hsk1-047",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "今天",
+    "traditional": "今天",
+    "pinyin": "jīn tiān",
+    "pinyinNumeric": "jin1 tian1",
+    "definitions": [
+      "today"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-048",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "九",
+    "traditional": "九",
+    "pinyin": "jiǔ",
+    "pinyinNumeric": "jiu3",
+    "definitions": [
+      "nine"
+    ],
+    "partOfSpeech": [
+      "number"
+    ],
+    "audioId": "audio-jiu3"
+  },
+  {
+    "id": "hsk1-049",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "开",
+    "traditional": "开",
+    "pinyin": "kāi",
+    "pinyinNumeric": "kai1",
+    "definitions": [
+      "to open; to drive"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-kai1"
+  },
+  {
+    "id": "hsk1-050",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "看",
+    "traditional": "看",
+    "pinyin": "kàn",
+    "pinyinNumeric": "kan4",
+    "definitions": [
+      "to look, to watch, to read"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-kan4"
+  },
+  {
+    "id": "hsk1-051",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "看见",
+    "traditional": "看见",
+    "pinyin": "kàn jiàn",
+    "pinyinNumeric": "kan4 jian4",
+    "definitions": [
+      "to see"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "id": "hsk1-052",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "块",
+    "traditional": "块",
+    "pinyin": "kuài",
+    "pinyinNumeric": "kuai4",
+    "definitions": [
+      "(measure word for money, \"yuan\")"
+    ],
+    "partOfSpeech": [
+      "measure word"
+    ],
+    "audioId": "audio-kuai4"
+  },
+  {
+    "id": "hsk1-053",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "来",
+    "traditional": "来",
+    "pinyin": "lái",
+    "pinyinNumeric": "lai2",
+    "definitions": [
+      "to come"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-lai2"
+  },
+  {
+    "id": "hsk1-054",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "老师",
+    "traditional": "老师",
+    "pinyin": "lǎo shī",
+    "pinyinNumeric": "lao3 shi1",
+    "definitions": [
+      "teacher"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-055",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "了",
+    "traditional": "了",
+    "pinyin": "le",
+    "pinyinNumeric": "le5",
+    "definitions": [
+      "(completed-action/change-of-state particle)"
+    ],
+    "partOfSpeech": [
+      "particle"
+    ],
+    "audioId": "audio-le5"
+  },
+  {
+    "id": "hsk1-056",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "冷",
+    "traditional": "冷",
+    "pinyin": "lěng",
+    "pinyinNumeric": "leng3",
+    "definitions": [
+      "cold"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "audioId": "audio-leng3"
+  },
+  {
+    "id": "hsk1-057",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "里",
+    "traditional": "里",
+    "pinyin": "lǐ",
+    "pinyinNumeric": "li3",
+    "definitions": [
+      "inside, in"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-li3"
+  },
+  {
+    "id": "hsk1-058",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "六",
+    "traditional": "六",
+    "pinyin": "liù",
+    "pinyinNumeric": "liu4",
+    "definitions": [
+      "six"
+    ],
+    "partOfSpeech": [
+      "number"
+    ],
+    "audioId": "audio-liu4"
+  },
+  {
+    "id": "hsk1-059",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "妈妈",
+    "traditional": "妈妈",
+    "pinyin": "mā ma",
+    "pinyinNumeric": "ma1 ma5",
+    "definitions": [
+      "mother, mom"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-060",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "吗",
+    "traditional": "吗",
+    "pinyin": "ma",
+    "pinyinNumeric": "ma5",
+    "definitions": [
+      "(yes/no question particle)"
+    ],
+    "partOfSpeech": [
+      "particle"
+    ],
+    "audioId": "audio-ma5"
+  },
+  {
+    "id": "hsk1-061",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "买",
+    "traditional": "买",
+    "pinyin": "mǎi",
+    "pinyinNumeric": "mai3",
+    "definitions": [
+      "to buy"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-mai3"
+  },
+  {
+    "id": "hsk1-062",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "猫",
+    "traditional": "猫",
+    "pinyin": "māo",
+    "pinyinNumeric": "mao1",
+    "definitions": [
+      "cat"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-mao1"
+  },
+  {
+    "id": "hsk1-063",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "没关系",
+    "traditional": "没关系",
+    "pinyin": "méi guān xi",
+    "pinyinNumeric": "mei2 guan1 xi5",
+    "definitions": [
+      "it doesn't matter, never mind"
+    ],
+    "partOfSpeech": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "hsk1-064",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "没有",
+    "traditional": "没有",
+    "pinyin": "méi yǒu",
+    "pinyinNumeric": "mei2 you3",
+    "definitions": [
+      "to not have; there is not"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "id": "hsk1-065",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "米饭",
+    "traditional": "米饭",
+    "pinyin": "mǐ fàn",
+    "pinyinNumeric": "mi3 fan4",
+    "definitions": [
+      "cooked rice"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-066",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "明天",
+    "traditional": "明天",
+    "pinyin": "míng tiān",
+    "pinyinNumeric": "ming2 tian1",
+    "definitions": [
+      "tomorrow"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-067",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "名字",
+    "traditional": "名字",
+    "pinyin": "míng zi",
+    "pinyinNumeric": "ming2 zi5",
+    "definitions": [
+      "name"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-068",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "哪",
+    "traditional": "哪",
+    "pinyin": "nǎ",
+    "pinyinNumeric": "na3",
+    "definitions": [
+      "which"
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "audioId": "audio-na3"
+  },
+  {
+    "id": "hsk1-069",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "哪儿",
+    "traditional": "哪儿",
+    "pinyin": "nǎr",
+    "pinyinNumeric": "nar3",
+    "definitions": [
+      "where"
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "audioId": "audio-nar3"
+  },
+  {
+    "id": "hsk1-070",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "那",
+    "traditional": "那",
+    "pinyin": "nà",
+    "pinyinNumeric": "na4",
+    "definitions": [
+      "that"
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "audioId": "audio-na4"
+  },
+  {
+    "id": "hsk1-071",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "呢",
+    "traditional": "呢",
+    "pinyin": "ne",
+    "pinyinNumeric": "ne5",
+    "definitions": [
+      "(question particle)"
+    ],
+    "partOfSpeech": [
+      "particle"
+    ],
+    "audioId": "audio-ne5"
+  },
+  {
+    "id": "hsk1-072",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "能",
+    "traditional": "能",
+    "pinyin": "néng",
+    "pinyinNumeric": "neng2",
+    "definitions": [
+      "can, to be able to"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-neng2"
+  },
+  {
+    "id": "hsk1-073",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "你",
+    "traditional": "你",
+    "pinyin": "nǐ",
+    "pinyinNumeric": "ni3",
+    "definitions": [
+      "you"
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "audioId": "audio-ni3"
+  },
+  {
+    "id": "hsk1-074",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "年",
+    "traditional": "年",
+    "pinyin": "nián",
+    "pinyinNumeric": "nian2",
+    "definitions": [
+      "year"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-nian2"
+  },
+  {
+    "id": "hsk1-075",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "女儿",
+    "traditional": "女儿",
+    "pinyin": "nǚ ér",
+    "pinyinNumeric": "nv3 er2",
+    "definitions": [
+      "daughter"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-076",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "朋友",
+    "traditional": "朋友",
+    "pinyin": "péng you",
+    "pinyinNumeric": "peng2 you5",
+    "definitions": [
+      "friend"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-077",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "漂亮",
+    "traditional": "漂亮",
+    "pinyin": "piào liang",
+    "pinyinNumeric": "piao4 liang5",
+    "definitions": [
+      "pretty, beautiful"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ]
+  },
+  {
+    "id": "hsk1-078",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "苹果",
+    "traditional": "苹果",
+    "pinyin": "píng guǒ",
+    "pinyinNumeric": "ping2 guo3",
+    "definitions": [
+      "apple"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-079",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "七",
+    "traditional": "七",
+    "pinyin": "qī",
+    "pinyinNumeric": "qi1",
+    "definitions": [
+      "seven"
+    ],
+    "partOfSpeech": [
+      "number"
+    ],
+    "audioId": "audio-qi1"
+  },
+  {
+    "id": "hsk1-080",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "前面",
+    "traditional": "前面",
+    "pinyin": "qián mian",
+    "pinyinNumeric": "qian2 mian5",
+    "definitions": [
+      "front, in front"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-081",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "钱",
+    "traditional": "钱",
+    "pinyin": "qián",
+    "pinyinNumeric": "qian2",
+    "definitions": [
+      "money"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-qian2"
+  },
+  {
+    "id": "hsk1-082",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "请",
+    "traditional": "请",
+    "pinyin": "qǐng",
+    "pinyinNumeric": "qing3",
+    "definitions": [
+      "please; to invite"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-qing3"
+  },
+  {
+    "id": "hsk1-083",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "去",
+    "traditional": "去",
+    "pinyin": "qù",
+    "pinyinNumeric": "qu4",
+    "definitions": [
+      "to go"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-qu4"
+  },
+  {
+    "id": "hsk1-084",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "热",
+    "traditional": "热",
+    "pinyin": "rè",
+    "pinyinNumeric": "re4",
+    "definitions": [
+      "hot"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "audioId": "audio-re4"
+  },
+  {
+    "id": "hsk1-085",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "人",
+    "traditional": "人",
+    "pinyin": "rén",
+    "pinyinNumeric": "ren2",
+    "definitions": [
+      "person, people"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-ren2"
+  },
+  {
+    "id": "hsk1-086",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "认识",
+    "traditional": "认识",
+    "pinyin": "rèn shi",
+    "pinyinNumeric": "ren4 shi5",
+    "definitions": [
+      "to know, to recognize"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "id": "hsk1-087",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "三",
+    "traditional": "三",
+    "pinyin": "sān",
+    "pinyinNumeric": "san1",
+    "definitions": [
+      "three"
+    ],
+    "partOfSpeech": [
+      "number"
+    ],
+    "audioId": "audio-san1"
+  },
+  {
+    "id": "hsk1-088",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "商店",
+    "traditional": "商店",
+    "pinyin": "shāng diàn",
+    "pinyinNumeric": "shang1 dian4",
+    "definitions": [
+      "shop, store"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-089",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "上",
+    "traditional": "上",
+    "pinyin": "shàng",
+    "pinyinNumeric": "shang4",
+    "definitions": [
+      "on, above; to go to"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-shang4"
+  },
+  {
+    "id": "hsk1-090",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "上午",
+    "traditional": "上午",
+    "pinyin": "shàng wǔ",
+    "pinyinNumeric": "shang4 wu3",
+    "definitions": [
+      "morning"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-091",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "少",
+    "traditional": "少",
+    "pinyin": "shǎo",
+    "pinyinNumeric": "shao3",
+    "definitions": [
+      "few, little"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "audioId": "audio-shao3"
+  },
+  {
+    "id": "hsk1-092",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "谁",
+    "traditional": "谁",
+    "pinyin": "shéi",
+    "pinyinNumeric": "shei2",
+    "definitions": [
+      "who"
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "audioId": "audio-shei2"
+  },
+  {
+    "id": "hsk1-093",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "什么",
+    "traditional": "什么",
+    "pinyin": "shén me",
+    "pinyinNumeric": "shen2 me5",
+    "definitions": [
+      "what"
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "hsk1-094",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "十",
+    "traditional": "十",
+    "pinyin": "shí",
+    "pinyinNumeric": "shi2",
+    "definitions": [
+      "ten"
+    ],
+    "partOfSpeech": [
+      "number"
+    ],
+    "audioId": "audio-shi2"
+  },
+  {
+    "id": "hsk1-095",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "时候",
+    "traditional": "时候",
+    "pinyin": "shí hou",
+    "pinyinNumeric": "shi2 hou5",
+    "definitions": [
+      "time, moment"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-096",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "是",
+    "traditional": "是",
+    "pinyin": "shì",
+    "pinyinNumeric": "shi4",
+    "definitions": [
+      "to be"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-shi4"
+  },
+  {
+    "id": "hsk1-097",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "书",
+    "traditional": "书",
+    "pinyin": "shū",
+    "pinyinNumeric": "shu1",
+    "definitions": [
+      "book"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-shu1"
+  },
+  {
+    "id": "hsk1-098",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "水",
+    "traditional": "水",
+    "pinyin": "shuǐ",
+    "pinyinNumeric": "shui3",
+    "definitions": [
+      "water"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-shui3"
+  },
+  {
+    "id": "hsk1-099",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "水果",
+    "traditional": "水果",
+    "pinyin": "shuǐ guǒ",
+    "pinyinNumeric": "shui3 guo3",
+    "definitions": [
+      "fruit"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-100",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "睡觉",
+    "traditional": "睡觉",
+    "pinyin": "shuì jiào",
+    "pinyinNumeric": "shui4 jiao4",
+    "definitions": [
+      "to sleep"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "id": "hsk1-101",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "说话",
+    "traditional": "说话",
+    "pinyin": "shuō huà",
+    "pinyinNumeric": "shuo1 hua4",
+    "definitions": [
+      "to speak, to talk"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "id": "hsk1-102",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "四",
+    "traditional": "四",
+    "pinyin": "sì",
+    "pinyinNumeric": "si4",
+    "definitions": [
+      "four"
+    ],
+    "partOfSpeech": [
+      "number"
+    ],
+    "audioId": "audio-si4"
+  },
+  {
+    "id": "hsk1-103",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "岁",
+    "traditional": "岁",
+    "pinyin": "suì",
+    "pinyinNumeric": "sui4",
+    "definitions": [
+      "year (of age)"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-sui4"
+  },
+  {
+    "id": "hsk1-104",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "他",
+    "traditional": "他",
+    "pinyin": "tā",
+    "pinyinNumeric": "ta1",
+    "definitions": [
+      "he, him"
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "audioId": "audio-ta1"
+  },
+  {
+    "id": "hsk1-105",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "她",
+    "traditional": "她",
+    "pinyin": "tā",
+    "pinyinNumeric": "ta1",
+    "definitions": [
+      "she, her"
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "audioId": "audio-ta1"
+  },
+  {
+    "id": "hsk1-106",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "太",
+    "traditional": "太",
+    "pinyin": "tài",
+    "pinyinNumeric": "tai4",
+    "definitions": [
+      "too, extremely"
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "audioId": "audio-tai4"
+  },
+  {
+    "id": "hsk1-107",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "天气",
+    "traditional": "天气",
+    "pinyin": "tiān qì",
+    "pinyinNumeric": "tian1 qi4",
+    "definitions": [
+      "weather"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-108",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "听",
+    "traditional": "听",
+    "pinyin": "tīng",
+    "pinyinNumeric": "ting1",
+    "definitions": [
+      "to listen"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-ting1"
+  },
+  {
+    "id": "hsk1-109",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "同学",
+    "traditional": "同学",
+    "pinyin": "tóng xué",
+    "pinyinNumeric": "tong2 xue2",
+    "definitions": [
+      "classmate"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-110",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "喂",
+    "traditional": "喂",
+    "pinyin": "wèi",
+    "pinyinNumeric": "wei4",
+    "definitions": [
+      "hello (on the phone); hey"
+    ],
+    "partOfSpeech": [
+      "interjection"
+    ],
+    "audioId": "audio-wei4"
+  },
+  {
+    "id": "hsk1-111",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "我",
+    "traditional": "我",
+    "pinyin": "wǒ",
+    "pinyinNumeric": "wo3",
+    "definitions": [
+      "I, me"
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "audioId": "audio-wo3"
+  },
+  {
+    "id": "hsk1-112",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "我们",
+    "traditional": "我们",
+    "pinyin": "wǒ men",
+    "pinyinNumeric": "wo3 men5",
+    "definitions": [
+      "we, us"
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "hsk1-113",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "五",
+    "traditional": "五",
+    "pinyin": "wǔ",
+    "pinyinNumeric": "wu3",
+    "definitions": [
+      "five"
+    ],
+    "partOfSpeech": [
+      "number"
+    ],
+    "audioId": "audio-wu3"
+  },
+  {
+    "id": "hsk1-114",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "喜欢",
+    "traditional": "喜欢",
+    "pinyin": "xǐ huan",
+    "pinyinNumeric": "xi3 huan5",
+    "definitions": [
+      "to like"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "id": "hsk1-115",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "下",
+    "traditional": "下",
+    "pinyin": "xià",
+    "pinyinNumeric": "xia4",
+    "definitions": [
+      "down, below; next"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-xia4"
+  },
+  {
+    "id": "hsk1-116",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "下午",
+    "traditional": "下午",
+    "pinyin": "xià wǔ",
+    "pinyinNumeric": "xia4 wu3",
+    "definitions": [
+      "afternoon"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-117",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "下雨",
+    "traditional": "下雨",
+    "pinyin": "xià yǔ",
+    "pinyinNumeric": "xia4 yu3",
+    "definitions": [
+      "to rain"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "id": "hsk1-118",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "先生",
+    "traditional": "先生",
+    "pinyin": "xiān sheng",
+    "pinyinNumeric": "xian1 sheng5",
+    "definitions": [
+      "Mr., sir"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-119",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "现在",
+    "traditional": "现在",
+    "pinyin": "xiàn zài",
+    "pinyinNumeric": "xian4 zai4",
+    "definitions": [
+      "now"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-120",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "想",
+    "traditional": "想",
+    "pinyin": "xiǎng",
+    "pinyinNumeric": "xiang3",
+    "definitions": [
+      "to want to; to think"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-xiang3"
+  },
+  {
+    "id": "hsk1-121",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "小",
+    "traditional": "小",
+    "pinyin": "xiǎo",
+    "pinyinNumeric": "xiao3",
+    "definitions": [
+      "small, little"
+    ],
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "audioId": "audio-xiao3"
+  },
+  {
+    "id": "hsk1-122",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "小姐",
+    "traditional": "小姐",
+    "pinyin": "xiǎo jiě",
+    "pinyinNumeric": "xiao3 jie3",
+    "definitions": [
+      "Miss, young lady"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-123",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "些",
+    "traditional": "些",
+    "pinyin": "xiē",
+    "pinyinNumeric": "xie1",
+    "definitions": [
+      "some, a few"
+    ],
+    "partOfSpeech": [
+      "measure word"
+    ],
+    "audioId": "audio-xie1"
+  },
+  {
+    "id": "hsk1-124",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "谢谢",
+    "traditional": "谢谢",
+    "pinyin": "xiè xie",
+    "pinyinNumeric": "xie4 xie5",
+    "definitions": [
+      "thank you"
+    ],
+    "partOfSpeech": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "hsk1-125",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "星期",
+    "traditional": "星期",
+    "pinyin": "xīng qī",
+    "pinyinNumeric": "xing1 qi1",
+    "definitions": [
+      "week"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-126",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "学生",
+    "traditional": "学生",
+    "pinyin": "xué sheng",
+    "pinyinNumeric": "xue2 sheng5",
+    "definitions": [
+      "student"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-127",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "学习",
+    "traditional": "学习",
+    "pinyin": "xué xí",
+    "pinyinNumeric": "xue2 xi2",
+    "definitions": [
+      "to study, to learn"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ]
+  },
+  {
+    "id": "hsk1-128",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "学校",
+    "traditional": "学校",
+    "pinyin": "xué xiào",
+    "pinyinNumeric": "xue2 xiao4",
+    "definitions": [
+      "school"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-129",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "一",
+    "traditional": "一",
+    "pinyin": "yī",
+    "pinyinNumeric": "yi1",
+    "definitions": [
+      "one"
+    ],
+    "partOfSpeech": [
+      "number"
+    ],
+    "audioId": "audio-yi1"
+  },
+  {
+    "id": "hsk1-130",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "一点儿",
+    "traditional": "一点儿",
+    "pinyin": "yì diǎnr",
+    "pinyinNumeric": "yi4 dianr3",
+    "definitions": [
+      "a little, a bit"
+    ],
+    "partOfSpeech": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "hsk1-131",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "衣服",
+    "traditional": "衣服",
+    "pinyin": "yī fu",
+    "pinyinNumeric": "yi1 fu5",
+    "definitions": [
+      "clothes"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-132",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "医生",
+    "traditional": "医生",
+    "pinyin": "yī shēng",
+    "pinyinNumeric": "yi1 sheng1",
+    "definitions": [
+      "doctor"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-133",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "医院",
+    "traditional": "医院",
+    "pinyin": "yī yuàn",
+    "pinyinNumeric": "yi1 yuan4",
+    "definitions": [
+      "hospital"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-134",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "椅子",
+    "traditional": "椅子",
+    "pinyin": "yǐ zi",
+    "pinyinNumeric": "yi3 zi5",
+    "definitions": [
+      "chair"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-135",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "有",
+    "traditional": "有",
+    "pinyin": "yǒu",
+    "pinyinNumeric": "you3",
+    "definitions": [
+      "to have; there is"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-you3"
+  },
+  {
+    "id": "hsk1-136",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "月",
+    "traditional": "月",
+    "pinyin": "yuè",
+    "pinyinNumeric": "yue4",
+    "definitions": [
+      "month; moon"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-yue4"
+  },
+  {
+    "id": "hsk1-137",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "再见",
+    "traditional": "再见",
+    "pinyin": "zài jiàn",
+    "pinyinNumeric": "zai4 jian4",
+    "definitions": [
+      "goodbye"
+    ],
+    "partOfSpeech": [
+      "phrase"
+    ]
+  },
+  {
+    "id": "hsk1-138",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "在",
+    "traditional": "在",
+    "pinyin": "zài",
+    "pinyinNumeric": "zai4",
+    "definitions": [
+      "at, in; to be located at"
+    ],
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "audioId": "audio-zai4"
+  },
+  {
+    "id": "hsk1-139",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "怎么",
+    "traditional": "怎么",
+    "pinyin": "zěn me",
+    "pinyinNumeric": "zen3 me5",
+    "definitions": [
+      "how, why"
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "hsk1-140",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "怎么样",
+    "traditional": "怎么样",
+    "pinyin": "zěn me yàng",
+    "pinyinNumeric": "zen3 me5 yang4",
+    "definitions": [
+      "how is it, how about"
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "hsk1-141",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "这",
+    "traditional": "这",
+    "pinyin": "zhè",
+    "pinyinNumeric": "zhe4",
+    "definitions": [
+      "this"
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "audioId": "audio-zhe4"
+  },
+  {
+    "id": "hsk1-142",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "中国",
+    "traditional": "中国",
+    "pinyin": "Zhōng guó",
+    "pinyinNumeric": "zhong1 guo2",
+    "definitions": [
+      "China"
+    ],
+    "partOfSpeech": [
+      "proper noun"
+    ]
+  },
+  {
+    "id": "hsk1-143",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "中午",
+    "traditional": "中午",
+    "pinyin": "zhōng wǔ",
+    "pinyinNumeric": "zhong1 wu3",
+    "definitions": [
+      "noon"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-144",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "住",
+    "traditional": "住",
+    "pinyin": "zhù",
+    "pinyinNumeric": "zhu4",
+    "definitions": [
+      "to live, to reside"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-zhu4"
+  },
+  {
+    "id": "hsk1-145",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "桌子",
+    "traditional": "桌子",
+    "pinyin": "zhuō zi",
+    "pinyinNumeric": "zhuo1 zi5",
+    "definitions": [
+      "table, desk"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-146",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "字",
+    "traditional": "字",
+    "pinyin": "zì",
+    "pinyinNumeric": "zi4",
+    "definitions": [
+      "character, word"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "audioId": "audio-zi4"
+  },
+  {
+    "id": "hsk1-147",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "昨天",
+    "traditional": "昨天",
+    "pinyin": "zuó tiān",
+    "pinyinNumeric": "zuo2 tian1",
+    "definitions": [
+      "yesterday"
+    ],
+    "partOfSpeech": [
+      "noun"
+    ]
+  },
+  {
+    "id": "hsk1-148",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "做",
+    "traditional": "做",
+    "pinyin": "zuò",
+    "pinyinNumeric": "zuo4",
+    "definitions": [
+      "to do, to make"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-zuo4"
+  },
+  {
+    "id": "hsk1-149",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "坐",
+    "traditional": "坐",
+    "pinyin": "zuò",
+    "pinyinNumeric": "zuo4",
+    "definitions": [
+      "to sit; to travel by (vehicle)"
+    ],
+    "partOfSpeech": [
+      "verb"
+    ],
+    "audioId": "audio-zuo4"
+  },
+  {
+    "id": "hsk1-150",
+    "kind": "word",
+    "hskLevel": 1,
+    "simplified": "零",
+    "traditional": "零",
+    "pinyin": "líng",
+    "pinyinNumeric": "ling2",
+    "definitions": [
+      "zero"
+    ],
+    "partOfSpeech": [
+      "number"
+    ],
+    "audioId": "audio-ling2"
+  }
+]

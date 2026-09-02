@@ -39,8 +39,17 @@ Other scripts: `npm run build`, `npm run lint`, `npm run typecheck`.
 ## Learning path
 
 Pinyin → Radicals → HSK1 → HSK2 → … following the self-study method at
-https://teachyourselfmandarin.wordpress.com/. Pinyin and Radicals are built
-out; HSK1-6 are still placeholders on the dashboard.
+https://teachyourselfmandarin.wordpress.com/. Pinyin, Radicals, and HSK1
+are built out; HSK2-6 are still placeholders on the dashboard.
+
+HSK1 covers the classic 150-word list (predating the 2021 HSK 3.0
+restructuring, which uses much larger per-level counts — this matches what
+the module registry already promised), generated via
+`scripts/generate-hsk1-data.mjs` and grouped by part of speech in the table.
+Single-syllable words reuse the pinyin audio library (same trick as
+radicals); multi-syllable words have no matching recording in that source
+and show a disabled play button. To extend toward HSK2, add a similar
+script for its 150-word list.
 
 Radicals covers the 100 most common (Kangxi radicals #1-100), grouped by
 stroke count — generated the same way as pinyin, via

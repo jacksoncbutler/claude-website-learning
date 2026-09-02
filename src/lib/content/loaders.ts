@@ -14,9 +14,10 @@ import rawValidSyllables from '@/data/pinyin/valid-syllables.json';
 import rawAudioAssets from '@/data/audio/audio-assets.json';
 import rawProverbs from '@/data/proverbs/proverbs.json';
 import rawRadicals from '@/data/radicals/radicals.json';
+import rawHsk1 from '@/data/hsk1/hsk1.json';
 
-import { parsePinyinSyllables, parseAudioAssets, parseProverbs, parseRadicals } from './schema';
-import type { AudioAsset, ModuleDefinition, PinyinSyllableItem, Proverb, RadicalItem } from './types';
+import { parsePinyinSyllables, parseAudioAssets, parseProverbs, parseRadicals, parseLearningItems } from './schema';
+import type { AudioAsset, ModuleDefinition, PinyinSyllableItem, Proverb, RadicalItem, LearningItem } from './types';
 import { getModules as getModuleRegistry } from './modules';
 import { withBasePath } from '@/lib/basePath';
 
@@ -94,6 +95,12 @@ export function resolveAudioSrc(audioId?: string): ResolvedAudio {
 
 export function getRadicals(): RadicalItem[] {
   return parseRadicals(rawRadicals) as RadicalItem[];
+}
+
+// --- HSK1 -----------------------------------------------------------
+
+export function getHsk1Words(): LearningItem[] {
+  return parseLearningItems(rawHsk1);
 }
 
 // --- Proverbs -------------------------------------------------------
