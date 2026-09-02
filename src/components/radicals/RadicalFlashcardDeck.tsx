@@ -3,21 +3,18 @@
 import { FlashcardView } from '@/components/views/FlashcardView';
 import type { RadicalItem } from '@/lib/content/types';
 
+/** Front: just the radical. Back: pronunciation and meaning. */
 export function RadicalFlashcardDeck({ radicals }: { radicals: RadicalItem[] }) {
   return (
     <FlashcardView<RadicalItem>
       items={radicals}
-      renderFront={(item) => (
-        <div className="flex flex-col items-center gap-3">
-          <span className="text-6xl font-semibold">{item.simplified}</span>
-          <span className="text-lg text-neutral-500">{item.pinyin}</span>
-        </div>
-      )}
+      renderFront={(item) => <span className="text-7xl font-semibold">{item.simplified}</span>}
       renderBack={(item) => (
         <div className="flex flex-col items-center gap-2 text-neutral-700">
-          <p className="text-lg font-medium">{item.definitions?.join(', ')}</p>
-          <p>
-            <span className="font-medium">Strokes:</span> {item.strokeCount}
+          <p className="text-2xl font-medium">{item.pinyin}</p>
+          <p className="text-lg">{item.definitions?.join(', ')}</p>
+          <p className="mt-1 text-sm text-neutral-500">
+            {item.strokeCount} stroke{item.strokeCount === 1 ? '' : 's'}
           </p>
           {item.notes && <p className="mt-1 text-sm italic text-neutral-500">{item.notes}</p>}
         </div>
