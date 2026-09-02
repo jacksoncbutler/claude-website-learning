@@ -1,0 +1,1720 @@
+[
+  {
+    "id": "radical-001",
+    "kind": "radical",
+    "kangxiNumber": 1,
+    "simplified": "一",
+    "traditional": "一",
+    "pinyin": "yī",
+    "pinyinNumeric": "yi1",
+    "toneNumber": 1,
+    "definitions": [
+      "one"
+    ],
+    "strokeCount": 1,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-002",
+    "kind": "radical",
+    "kangxiNumber": 2,
+    "simplified": "丨",
+    "traditional": "丨",
+    "pinyin": "gǔn",
+    "pinyinNumeric": "gun3",
+    "toneNumber": 3,
+    "definitions": [
+      "line, stick"
+    ],
+    "strokeCount": 1,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-003",
+    "kind": "radical",
+    "kangxiNumber": 3,
+    "simplified": "丶",
+    "traditional": "丶",
+    "pinyin": "zhǔ",
+    "pinyinNumeric": "zhu3",
+    "toneNumber": 3,
+    "definitions": [
+      "dot"
+    ],
+    "strokeCount": 1,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-004",
+    "kind": "radical",
+    "kangxiNumber": 4,
+    "simplified": "丿",
+    "traditional": "丿",
+    "pinyin": "piě",
+    "pinyinNumeric": "pie3",
+    "toneNumber": 3,
+    "definitions": [
+      "slash"
+    ],
+    "strokeCount": 1,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-005",
+    "kind": "radical",
+    "kangxiNumber": 5,
+    "simplified": "乙",
+    "traditional": "乙",
+    "pinyin": "yǐ",
+    "pinyinNumeric": "yi3",
+    "toneNumber": 3,
+    "definitions": [
+      "second; twisting"
+    ],
+    "strokeCount": 1,
+    "notes": "Also written 乚 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-006",
+    "kind": "radical",
+    "kangxiNumber": 6,
+    "simplified": "亅",
+    "traditional": "亅",
+    "pinyin": "jué",
+    "pinyinNumeric": "jue2",
+    "toneNumber": 2,
+    "definitions": [
+      "hook"
+    ],
+    "strokeCount": 1,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-007",
+    "kind": "radical",
+    "kangxiNumber": 7,
+    "simplified": "二",
+    "traditional": "二",
+    "pinyin": "èr",
+    "pinyinNumeric": "er4",
+    "toneNumber": 4,
+    "definitions": [
+      "two"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-008",
+    "kind": "radical",
+    "kangxiNumber": 8,
+    "simplified": "亠",
+    "traditional": "亠",
+    "pinyin": "tóu",
+    "pinyinNumeric": "tou2",
+    "toneNumber": 2,
+    "definitions": [
+      "lid"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-009",
+    "kind": "radical",
+    "kangxiNumber": 9,
+    "simplified": "人",
+    "traditional": "人",
+    "pinyin": "rén",
+    "pinyinNumeric": "ren2",
+    "toneNumber": 2,
+    "definitions": [
+      "person"
+    ],
+    "strokeCount": 2,
+    "notes": "Also written 亻 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-010",
+    "kind": "radical",
+    "kangxiNumber": 10,
+    "simplified": "儿",
+    "traditional": "儿",
+    "pinyin": "ér",
+    "pinyinNumeric": "er2",
+    "toneNumber": 2,
+    "definitions": [
+      "legs; son"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-011",
+    "kind": "radical",
+    "kangxiNumber": 11,
+    "simplified": "入",
+    "traditional": "入",
+    "pinyin": "rù",
+    "pinyinNumeric": "ru4",
+    "toneNumber": 4,
+    "definitions": [
+      "enter"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-012",
+    "kind": "radical",
+    "kangxiNumber": 12,
+    "simplified": "八",
+    "traditional": "八",
+    "pinyin": "bā",
+    "pinyinNumeric": "ba1",
+    "toneNumber": 1,
+    "definitions": [
+      "eight"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-013",
+    "kind": "radical",
+    "kangxiNumber": 13,
+    "simplified": "冂",
+    "traditional": "冂",
+    "pinyin": "jiōng",
+    "pinyinNumeric": "jiong1",
+    "toneNumber": 1,
+    "definitions": [
+      "borders, wide"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-014",
+    "kind": "radical",
+    "kangxiNumber": 14,
+    "simplified": "冖",
+    "traditional": "冖",
+    "pinyin": "mì",
+    "pinyinNumeric": "mi4",
+    "toneNumber": 4,
+    "definitions": [
+      "cover"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-015",
+    "kind": "radical",
+    "kangxiNumber": 15,
+    "simplified": "冫",
+    "traditional": "冫",
+    "pinyin": "bīng",
+    "pinyinNumeric": "bing1",
+    "toneNumber": 1,
+    "definitions": [
+      "ice"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-016",
+    "kind": "radical",
+    "kangxiNumber": 16,
+    "simplified": "几",
+    "traditional": "几",
+    "pinyin": "jī",
+    "pinyinNumeric": "ji1",
+    "toneNumber": 1,
+    "definitions": [
+      "small table"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-017",
+    "kind": "radical",
+    "kangxiNumber": 17,
+    "simplified": "凵",
+    "traditional": "凵",
+    "pinyin": "kǎn",
+    "pinyinNumeric": "kan3",
+    "toneNumber": 3,
+    "definitions": [
+      "open box"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-018",
+    "kind": "radical",
+    "kangxiNumber": 18,
+    "simplified": "刀",
+    "traditional": "刀",
+    "pinyin": "dāo",
+    "pinyinNumeric": "dao1",
+    "toneNumber": 1,
+    "definitions": [
+      "knife"
+    ],
+    "strokeCount": 2,
+    "notes": "Also written 刂 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-019",
+    "kind": "radical",
+    "kangxiNumber": 19,
+    "simplified": "力",
+    "traditional": "力",
+    "pinyin": "lì",
+    "pinyinNumeric": "li4",
+    "toneNumber": 4,
+    "definitions": [
+      "power"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-020",
+    "kind": "radical",
+    "kangxiNumber": 20,
+    "simplified": "勹",
+    "traditional": "勹",
+    "pinyin": "bāo",
+    "pinyinNumeric": "bao1",
+    "toneNumber": 1,
+    "definitions": [
+      "wrap"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-021",
+    "kind": "radical",
+    "kangxiNumber": 21,
+    "simplified": "匕",
+    "traditional": "匕",
+    "pinyin": "bǐ",
+    "pinyinNumeric": "bi3",
+    "toneNumber": 3,
+    "definitions": [
+      "spoon, ladle"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-022",
+    "kind": "radical",
+    "kangxiNumber": 22,
+    "simplified": "匚",
+    "traditional": "匚",
+    "pinyin": "fāng",
+    "pinyinNumeric": "fang1",
+    "toneNumber": 1,
+    "definitions": [
+      "box"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-023",
+    "kind": "radical",
+    "kangxiNumber": 23,
+    "simplified": "匸",
+    "traditional": "匸",
+    "pinyin": "xì",
+    "pinyinNumeric": "xi4",
+    "toneNumber": 4,
+    "definitions": [
+      "hiding enclosure"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-024",
+    "kind": "radical",
+    "kangxiNumber": 24,
+    "simplified": "十",
+    "traditional": "十",
+    "pinyin": "shí",
+    "pinyinNumeric": "shi2",
+    "toneNumber": 2,
+    "definitions": [
+      "ten"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-025",
+    "kind": "radical",
+    "kangxiNumber": 25,
+    "simplified": "卜",
+    "traditional": "卜",
+    "pinyin": "bǔ",
+    "pinyinNumeric": "bu3",
+    "toneNumber": 3,
+    "definitions": [
+      "divination"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-026",
+    "kind": "radical",
+    "kangxiNumber": 26,
+    "simplified": "卩",
+    "traditional": "卩",
+    "pinyin": "jié",
+    "pinyinNumeric": "jie2",
+    "toneNumber": 2,
+    "definitions": [
+      "seal"
+    ],
+    "strokeCount": 2,
+    "notes": "Also written 㔾 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-027",
+    "kind": "radical",
+    "kangxiNumber": 27,
+    "simplified": "厂",
+    "traditional": "厂",
+    "pinyin": "hàn",
+    "pinyinNumeric": "han4",
+    "toneNumber": 4,
+    "definitions": [
+      "cliff"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-028",
+    "kind": "radical",
+    "kangxiNumber": 28,
+    "simplified": "厶",
+    "traditional": "厶",
+    "pinyin": "sī",
+    "pinyinNumeric": "si1",
+    "toneNumber": 1,
+    "definitions": [
+      "private"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-029",
+    "kind": "radical",
+    "kangxiNumber": 29,
+    "simplified": "又",
+    "traditional": "又",
+    "pinyin": "yòu",
+    "pinyinNumeric": "you4",
+    "toneNumber": 4,
+    "definitions": [
+      "again; right hand"
+    ],
+    "strokeCount": 2,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-030",
+    "kind": "radical",
+    "kangxiNumber": 30,
+    "simplified": "口",
+    "traditional": "口",
+    "pinyin": "kǒu",
+    "pinyinNumeric": "kou3",
+    "toneNumber": 3,
+    "definitions": [
+      "mouth"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-031",
+    "kind": "radical",
+    "kangxiNumber": 31,
+    "simplified": "囗",
+    "traditional": "囗",
+    "pinyin": "wéi",
+    "pinyinNumeric": "wei2",
+    "toneNumber": 2,
+    "definitions": [
+      "enclosure"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-032",
+    "kind": "radical",
+    "kangxiNumber": 32,
+    "simplified": "土",
+    "traditional": "土",
+    "pinyin": "tǔ",
+    "pinyinNumeric": "tu3",
+    "toneNumber": 3,
+    "definitions": [
+      "earth"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-033",
+    "kind": "radical",
+    "kangxiNumber": 33,
+    "simplified": "士",
+    "traditional": "士",
+    "pinyin": "shì",
+    "pinyinNumeric": "shi4",
+    "toneNumber": 4,
+    "definitions": [
+      "scholar"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-034",
+    "kind": "radical",
+    "kangxiNumber": 34,
+    "simplified": "夂",
+    "traditional": "夂",
+    "pinyin": "zhǐ",
+    "pinyinNumeric": "zhi3",
+    "toneNumber": 3,
+    "definitions": [
+      "go, follow"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-035",
+    "kind": "radical",
+    "kangxiNumber": 35,
+    "simplified": "夊",
+    "traditional": "夊",
+    "pinyin": "suī",
+    "pinyinNumeric": "sui1",
+    "toneNumber": 1,
+    "definitions": [
+      "go slowly"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-036",
+    "kind": "radical",
+    "kangxiNumber": 36,
+    "simplified": "夕",
+    "traditional": "夕",
+    "pinyin": "xī",
+    "pinyinNumeric": "xi1",
+    "toneNumber": 1,
+    "definitions": [
+      "evening"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-037",
+    "kind": "radical",
+    "kangxiNumber": 37,
+    "simplified": "大",
+    "traditional": "大",
+    "pinyin": "dà",
+    "pinyinNumeric": "da4",
+    "toneNumber": 4,
+    "definitions": [
+      "big"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-038",
+    "kind": "radical",
+    "kangxiNumber": 38,
+    "simplified": "女",
+    "traditional": "女",
+    "pinyin": "nǚ",
+    "pinyinNumeric": "nü3",
+    "toneNumber": 3,
+    "definitions": [
+      "woman"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-039",
+    "kind": "radical",
+    "kangxiNumber": 39,
+    "simplified": "子",
+    "traditional": "子",
+    "pinyin": "zǐ",
+    "pinyinNumeric": "zi3",
+    "toneNumber": 3,
+    "definitions": [
+      "child"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-040",
+    "kind": "radical",
+    "kangxiNumber": 40,
+    "simplified": "宀",
+    "traditional": "宀",
+    "pinyin": "mián",
+    "pinyinNumeric": "mian2",
+    "toneNumber": 2,
+    "definitions": [
+      "roof"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-041",
+    "kind": "radical",
+    "kangxiNumber": 41,
+    "simplified": "寸",
+    "traditional": "寸",
+    "pinyin": "cùn",
+    "pinyinNumeric": "cun4",
+    "toneNumber": 4,
+    "definitions": [
+      "inch"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-042",
+    "kind": "radical",
+    "kangxiNumber": 42,
+    "simplified": "小",
+    "traditional": "小",
+    "pinyin": "xiǎo",
+    "pinyinNumeric": "xiao3",
+    "toneNumber": 3,
+    "definitions": [
+      "small"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-043",
+    "kind": "radical",
+    "kangxiNumber": 43,
+    "simplified": "尢",
+    "traditional": "尢",
+    "pinyin": "wāng",
+    "pinyinNumeric": "wang1",
+    "toneNumber": 1,
+    "definitions": [
+      "lame"
+    ],
+    "strokeCount": 3,
+    "notes": "Also written 尣 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-044",
+    "kind": "radical",
+    "kangxiNumber": 44,
+    "simplified": "尸",
+    "traditional": "尸",
+    "pinyin": "shī",
+    "pinyinNumeric": "shi1",
+    "toneNumber": 1,
+    "definitions": [
+      "corpse"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-045",
+    "kind": "radical",
+    "kangxiNumber": 45,
+    "simplified": "屮",
+    "traditional": "屮",
+    "pinyin": "chè",
+    "pinyinNumeric": "che4",
+    "toneNumber": 4,
+    "definitions": [
+      "sprout"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-046",
+    "kind": "radical",
+    "kangxiNumber": 46,
+    "simplified": "山",
+    "traditional": "山",
+    "pinyin": "shān",
+    "pinyinNumeric": "shan1",
+    "toneNumber": 1,
+    "definitions": [
+      "mountain"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-047",
+    "kind": "radical",
+    "kangxiNumber": 47,
+    "simplified": "巛",
+    "traditional": "巛",
+    "pinyin": "chuān",
+    "pinyinNumeric": "chuan1",
+    "toneNumber": 1,
+    "definitions": [
+      "river"
+    ],
+    "strokeCount": 3,
+    "notes": "Also written 川 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-048",
+    "kind": "radical",
+    "kangxiNumber": 48,
+    "simplified": "工",
+    "traditional": "工",
+    "pinyin": "gōng",
+    "pinyinNumeric": "gong1",
+    "toneNumber": 1,
+    "definitions": [
+      "work"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-049",
+    "kind": "radical",
+    "kangxiNumber": 49,
+    "simplified": "己",
+    "traditional": "己",
+    "pinyin": "jǐ",
+    "pinyinNumeric": "ji3",
+    "toneNumber": 3,
+    "definitions": [
+      "self"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-050",
+    "kind": "radical",
+    "kangxiNumber": 50,
+    "simplified": "巾",
+    "traditional": "巾",
+    "pinyin": "jīn",
+    "pinyinNumeric": "jin1",
+    "toneNumber": 1,
+    "definitions": [
+      "cloth"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-051",
+    "kind": "radical",
+    "kangxiNumber": 51,
+    "simplified": "干",
+    "traditional": "干",
+    "pinyin": "gān",
+    "pinyinNumeric": "gan1",
+    "toneNumber": 1,
+    "definitions": [
+      "shield; dry"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-052",
+    "kind": "radical",
+    "kangxiNumber": 52,
+    "simplified": "幺",
+    "traditional": "幺",
+    "pinyin": "yāo",
+    "pinyinNumeric": "yao1",
+    "toneNumber": 1,
+    "definitions": [
+      "tiny, young"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-053",
+    "kind": "radical",
+    "kangxiNumber": 53,
+    "simplified": "广",
+    "traditional": "广",
+    "pinyin": "guǎng",
+    "pinyinNumeric": "guang3",
+    "toneNumber": 3,
+    "definitions": [
+      "shelter"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-054",
+    "kind": "radical",
+    "kangxiNumber": 54,
+    "simplified": "廴",
+    "traditional": "廴",
+    "pinyin": "yǐn",
+    "pinyinNumeric": "yin3",
+    "toneNumber": 3,
+    "definitions": [
+      "long stride"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-055",
+    "kind": "radical",
+    "kangxiNumber": 55,
+    "simplified": "廾",
+    "traditional": "廾",
+    "pinyin": "gǒng",
+    "pinyinNumeric": "gong3",
+    "toneNumber": 3,
+    "definitions": [
+      "two hands, clasp"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-056",
+    "kind": "radical",
+    "kangxiNumber": 56,
+    "simplified": "弋",
+    "traditional": "弋",
+    "pinyin": "yì",
+    "pinyinNumeric": "yi4",
+    "toneNumber": 4,
+    "definitions": [
+      "shoot; take"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-057",
+    "kind": "radical",
+    "kangxiNumber": 57,
+    "simplified": "弓",
+    "traditional": "弓",
+    "pinyin": "gōng",
+    "pinyinNumeric": "gong1",
+    "toneNumber": 1,
+    "definitions": [
+      "bow"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-058",
+    "kind": "radical",
+    "kangxiNumber": 58,
+    "simplified": "彐",
+    "traditional": "彐",
+    "pinyin": "jì",
+    "pinyinNumeric": "ji4",
+    "toneNumber": 4,
+    "definitions": [
+      "snout"
+    ],
+    "strokeCount": 3,
+    "notes": "Also written 彑 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-059",
+    "kind": "radical",
+    "kangxiNumber": 59,
+    "simplified": "彡",
+    "traditional": "彡",
+    "pinyin": "shān",
+    "pinyinNumeric": "shan1",
+    "toneNumber": 1,
+    "definitions": [
+      "bristle, hair"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-060",
+    "kind": "radical",
+    "kangxiNumber": 60,
+    "simplified": "彳",
+    "traditional": "彳",
+    "pinyin": "chì",
+    "pinyinNumeric": "chi4",
+    "toneNumber": 4,
+    "definitions": [
+      "step"
+    ],
+    "strokeCount": 3,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-061",
+    "kind": "radical",
+    "kangxiNumber": 61,
+    "simplified": "心",
+    "traditional": "心",
+    "pinyin": "xīn",
+    "pinyinNumeric": "xin1",
+    "toneNumber": 1,
+    "definitions": [
+      "heart"
+    ],
+    "strokeCount": 4,
+    "notes": "Also written 忄 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-062",
+    "kind": "radical",
+    "kangxiNumber": 62,
+    "simplified": "戈",
+    "traditional": "戈",
+    "pinyin": "gē",
+    "pinyinNumeric": "ge1",
+    "toneNumber": 1,
+    "definitions": [
+      "halberd, spear"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-063",
+    "kind": "radical",
+    "kangxiNumber": 63,
+    "simplified": "戶",
+    "traditional": "戶",
+    "pinyin": "hù",
+    "pinyinNumeric": "hu4",
+    "toneNumber": 4,
+    "definitions": [
+      "door"
+    ],
+    "strokeCount": 4,
+    "notes": "Also written 户 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-064",
+    "kind": "radical",
+    "kangxiNumber": 64,
+    "simplified": "手",
+    "traditional": "手",
+    "pinyin": "shǒu",
+    "pinyinNumeric": "shou3",
+    "toneNumber": 3,
+    "definitions": [
+      "hand"
+    ],
+    "strokeCount": 4,
+    "notes": "Also written 扌 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-065",
+    "kind": "radical",
+    "kangxiNumber": 65,
+    "simplified": "支",
+    "traditional": "支",
+    "pinyin": "zhī",
+    "pinyinNumeric": "zhi1",
+    "toneNumber": 1,
+    "definitions": [
+      "branch"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-066",
+    "kind": "radical",
+    "kangxiNumber": 66,
+    "simplified": "攴",
+    "traditional": "攴",
+    "pinyin": "pū",
+    "pinyinNumeric": "pu1",
+    "toneNumber": 1,
+    "definitions": [
+      "rap, tap"
+    ],
+    "strokeCount": 4,
+    "notes": "Also written 攵 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-067",
+    "kind": "radical",
+    "kangxiNumber": 67,
+    "simplified": "文",
+    "traditional": "文",
+    "pinyin": "wén",
+    "pinyinNumeric": "wen2",
+    "toneNumber": 2,
+    "definitions": [
+      "script, culture"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-068",
+    "kind": "radical",
+    "kangxiNumber": 68,
+    "simplified": "斗",
+    "traditional": "斗",
+    "pinyin": "dǒu",
+    "pinyinNumeric": "dou3",
+    "toneNumber": 3,
+    "definitions": [
+      "dipper, measure"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-069",
+    "kind": "radical",
+    "kangxiNumber": 69,
+    "simplified": "斤",
+    "traditional": "斤",
+    "pinyin": "jīn",
+    "pinyinNumeric": "jin1",
+    "toneNumber": 1,
+    "definitions": [
+      "axe"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-070",
+    "kind": "radical",
+    "kangxiNumber": 70,
+    "simplified": "方",
+    "traditional": "方",
+    "pinyin": "fāng",
+    "pinyinNumeric": "fang1",
+    "toneNumber": 1,
+    "definitions": [
+      "square, direction"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-071",
+    "kind": "radical",
+    "kangxiNumber": 71,
+    "simplified": "无",
+    "traditional": "无",
+    "pinyin": "wú",
+    "pinyinNumeric": "wu2",
+    "toneNumber": 2,
+    "definitions": [
+      "not, without"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-072",
+    "kind": "radical",
+    "kangxiNumber": 72,
+    "simplified": "日",
+    "traditional": "日",
+    "pinyin": "rì",
+    "pinyinNumeric": "ri4",
+    "toneNumber": 4,
+    "definitions": [
+      "sun, day"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-073",
+    "kind": "radical",
+    "kangxiNumber": 73,
+    "simplified": "曰",
+    "traditional": "曰",
+    "pinyin": "yuē",
+    "pinyinNumeric": "yue1",
+    "toneNumber": 1,
+    "definitions": [
+      "say"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-074",
+    "kind": "radical",
+    "kangxiNumber": 74,
+    "simplified": "月",
+    "traditional": "月",
+    "pinyin": "yuè",
+    "pinyinNumeric": "yue4",
+    "toneNumber": 4,
+    "definitions": [
+      "moon, month"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-075",
+    "kind": "radical",
+    "kangxiNumber": 75,
+    "simplified": "木",
+    "traditional": "木",
+    "pinyin": "mù",
+    "pinyinNumeric": "mu4",
+    "toneNumber": 4,
+    "definitions": [
+      "tree, wood"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-076",
+    "kind": "radical",
+    "kangxiNumber": 76,
+    "simplified": "欠",
+    "traditional": "欠",
+    "pinyin": "qiàn",
+    "pinyinNumeric": "qian4",
+    "toneNumber": 4,
+    "definitions": [
+      "lack; yawn"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-077",
+    "kind": "radical",
+    "kangxiNumber": 77,
+    "simplified": "止",
+    "traditional": "止",
+    "pinyin": "zhǐ",
+    "pinyinNumeric": "zhi3",
+    "toneNumber": 3,
+    "definitions": [
+      "stop"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-078",
+    "kind": "radical",
+    "kangxiNumber": 78,
+    "simplified": "歹",
+    "traditional": "歹",
+    "pinyin": "dǎi",
+    "pinyinNumeric": "dai3",
+    "toneNumber": 3,
+    "definitions": [
+      "death, bad"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-079",
+    "kind": "radical",
+    "kangxiNumber": 79,
+    "simplified": "殳",
+    "traditional": "殳",
+    "pinyin": "shū",
+    "pinyinNumeric": "shu1",
+    "toneNumber": 1,
+    "definitions": [
+      "weapon, lance"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-080",
+    "kind": "radical",
+    "kangxiNumber": 80,
+    "simplified": "毋",
+    "traditional": "毋",
+    "pinyin": "wú",
+    "pinyinNumeric": "wu2",
+    "toneNumber": 2,
+    "definitions": [
+      "do not"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-081",
+    "kind": "radical",
+    "kangxiNumber": 81,
+    "simplified": "比",
+    "traditional": "比",
+    "pinyin": "bǐ",
+    "pinyinNumeric": "bi3",
+    "toneNumber": 3,
+    "definitions": [
+      "compare"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-082",
+    "kind": "radical",
+    "kangxiNumber": 82,
+    "simplified": "毛",
+    "traditional": "毛",
+    "pinyin": "máo",
+    "pinyinNumeric": "mao2",
+    "toneNumber": 2,
+    "definitions": [
+      "fur, hair"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-083",
+    "kind": "radical",
+    "kangxiNumber": 83,
+    "simplified": "氏",
+    "traditional": "氏",
+    "pinyin": "shì",
+    "pinyinNumeric": "shi4",
+    "toneNumber": 4,
+    "definitions": [
+      "clan"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-084",
+    "kind": "radical",
+    "kangxiNumber": 84,
+    "simplified": "气",
+    "traditional": "气",
+    "pinyin": "qì",
+    "pinyinNumeric": "qi4",
+    "toneNumber": 4,
+    "definitions": [
+      "steam, air"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-085",
+    "kind": "radical",
+    "kangxiNumber": 85,
+    "simplified": "水",
+    "traditional": "水",
+    "pinyin": "shuǐ",
+    "pinyinNumeric": "shui3",
+    "toneNumber": 3,
+    "definitions": [
+      "water"
+    ],
+    "strokeCount": 4,
+    "notes": "Also written 氵, 氺 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-086",
+    "kind": "radical",
+    "kangxiNumber": 86,
+    "simplified": "火",
+    "traditional": "火",
+    "pinyin": "huǒ",
+    "pinyinNumeric": "huo3",
+    "toneNumber": 3,
+    "definitions": [
+      "fire"
+    ],
+    "strokeCount": 4,
+    "notes": "Also written 灬 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-087",
+    "kind": "radical",
+    "kangxiNumber": 87,
+    "simplified": "爪",
+    "traditional": "爪",
+    "pinyin": "zhǎo",
+    "pinyinNumeric": "zhao3",
+    "toneNumber": 3,
+    "definitions": [
+      "claw"
+    ],
+    "strokeCount": 4,
+    "notes": "Also written 爫 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-088",
+    "kind": "radical",
+    "kangxiNumber": 88,
+    "simplified": "父",
+    "traditional": "父",
+    "pinyin": "fù",
+    "pinyinNumeric": "fu4",
+    "toneNumber": 4,
+    "definitions": [
+      "father"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-089",
+    "kind": "radical",
+    "kangxiNumber": 89,
+    "simplified": "爻",
+    "traditional": "爻",
+    "pinyin": "yáo",
+    "pinyinNumeric": "yao2",
+    "toneNumber": 2,
+    "definitions": [
+      "trigrams"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-090",
+    "kind": "radical",
+    "kangxiNumber": 90,
+    "simplified": "爿",
+    "traditional": "爿",
+    "pinyin": "qiáng",
+    "pinyinNumeric": "qiang2",
+    "toneNumber": 2,
+    "definitions": [
+      "half tree trunk, bed"
+    ],
+    "strokeCount": 4,
+    "notes": "Also written 丬 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-091",
+    "kind": "radical",
+    "kangxiNumber": 91,
+    "simplified": "片",
+    "traditional": "片",
+    "pinyin": "piàn",
+    "pinyinNumeric": "pian4",
+    "toneNumber": 4,
+    "definitions": [
+      "slice, slab"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-092",
+    "kind": "radical",
+    "kangxiNumber": 92,
+    "simplified": "牙",
+    "traditional": "牙",
+    "pinyin": "yá",
+    "pinyinNumeric": "ya2",
+    "toneNumber": 2,
+    "definitions": [
+      "fang, tooth"
+    ],
+    "strokeCount": 4,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-093",
+    "kind": "radical",
+    "kangxiNumber": 93,
+    "simplified": "牛",
+    "traditional": "牛",
+    "pinyin": "niú",
+    "pinyinNumeric": "niu2",
+    "toneNumber": 2,
+    "definitions": [
+      "cow, ox"
+    ],
+    "strokeCount": 4,
+    "notes": "Also written 牜 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-094",
+    "kind": "radical",
+    "kangxiNumber": 94,
+    "simplified": "犬",
+    "traditional": "犬",
+    "pinyin": "quǎn",
+    "pinyinNumeric": "quan3",
+    "toneNumber": 3,
+    "definitions": [
+      "dog"
+    ],
+    "strokeCount": 4,
+    "notes": "Also written 犭 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-095",
+    "kind": "radical",
+    "kangxiNumber": 95,
+    "simplified": "玄",
+    "traditional": "玄",
+    "pinyin": "xuán",
+    "pinyinNumeric": "xuan2",
+    "toneNumber": 2,
+    "definitions": [
+      "profound, dark"
+    ],
+    "strokeCount": 5,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-096",
+    "kind": "radical",
+    "kangxiNumber": 96,
+    "simplified": "玉",
+    "traditional": "玉",
+    "pinyin": "yù",
+    "pinyinNumeric": "yu4",
+    "toneNumber": 4,
+    "definitions": [
+      "jade"
+    ],
+    "strokeCount": 5,
+    "notes": "Also written 王, 玊 depending on position in a character.",
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-097",
+    "kind": "radical",
+    "kangxiNumber": 97,
+    "simplified": "瓜",
+    "traditional": "瓜",
+    "pinyin": "guā",
+    "pinyinNumeric": "gua1",
+    "toneNumber": 1,
+    "definitions": [
+      "melon"
+    ],
+    "strokeCount": 5,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-098",
+    "kind": "radical",
+    "kangxiNumber": 98,
+    "simplified": "瓦",
+    "traditional": "瓦",
+    "pinyin": "wǎ",
+    "pinyinNumeric": "wa3",
+    "toneNumber": 3,
+    "definitions": [
+      "tile"
+    ],
+    "strokeCount": 5,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-099",
+    "kind": "radical",
+    "kangxiNumber": 99,
+    "simplified": "甘",
+    "traditional": "甘",
+    "pinyin": "gān",
+    "pinyinNumeric": "gan1",
+    "toneNumber": 1,
+    "definitions": [
+      "sweet"
+    ],
+    "strokeCount": 5,
+    "tags": [
+      "kangxi-100"
+    ]
+  },
+  {
+    "id": "radical-100",
+    "kind": "radical",
+    "kangxiNumber": 100,
+    "simplified": "生",
+    "traditional": "生",
+    "pinyin": "shēng",
+    "pinyinNumeric": "sheng1",
+    "toneNumber": 1,
+    "definitions": [
+      "life, birth"
+    ],
+    "strokeCount": 5,
+    "tags": [
+      "kangxi-100"
+    ]
+  }
+]

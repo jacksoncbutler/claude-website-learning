@@ -22,7 +22,7 @@ export const modules: ModuleDefinition[] = [
     title: 'Radicals',
     description: 'The building blocks characters are made from.',
     route: '/radicals',
-    status: 'coming-soon',
+    status: 'available',
   },
   {
     id: 'hsk1',

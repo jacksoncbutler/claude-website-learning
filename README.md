@@ -39,8 +39,15 @@ Other scripts: `npm run build`, `npm run lint`, `npm run typecheck`.
 ## Learning path
 
 Pinyin → Radicals → HSK1 → HSK2 → … following the self-study method at
-https://teachyourselfmandarin.wordpress.com/. Only Pinyin is built out so
-far; the rest are placeholders on the dashboard.
+https://teachyourselfmandarin.wordpress.com/. Pinyin and Radicals are built
+out; HSK1-6 are still placeholders on the dashboard.
+
+Radicals covers the 100 most common (Kangxi radicals #1-100), grouped by
+stroke count — generated the same way as pinyin, via
+`scripts/generate-radicals-data.mjs`. To extend it toward the full 214,
+add rows to that script's table and re-run it; radicals #101+ do need real
+traditional/simplified distinctions (unlike #1-100), which the script's
+header comment explains.
 
 ## Adding audio
 
